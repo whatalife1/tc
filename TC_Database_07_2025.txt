@@ -1,93 +1,130 @@
 July 2025
 Data from (dated files): TC_Database_07_2025.db
-Generated on: 2025-07-01 11:05:05
+Generated on: 2025-07-01 12:50:06
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                              15      whatalife
-                     Civil_stats_Driven_distance:                              15
-                     Mail_Courier_Driven_distance:                             14
-   2.      29924 icoha44                                12      CCI4
-                     Civil_stats_Driven_distance:                              12
-   3.      30441 irecless                                1      xPonzoo
+   1.      29924 icoha44                               109      CCI4
+                     Civil_stats_Driven_distance:                             109
+   2.       2107 P V L                                  60      [ DS ] P V L
+                     Civil_stats_Driven_distance:                              60
+                     Civil_stats_Driven_distance_on_bikes:                     60
+   3.      45913 whatalife                              31      whatalife
+                     Civil_stats_Driven_distance:                              31
+                     Mail_Courier_Driven_distance:                             30
+   4.      47387 unisold                                11      velleman
+                     Civil_stats_Driven_distance:                              11
+   5.      30441 irecless                                7      xPonzoo
+                     Civil_stats_Driven_distance:                               7
+   6.      41132 dh7938726                               1      dh7938726
                      Civil_stats_Driven_distance:                               1
 
 Total_Money:
  Rank    User ID Username                      Total_Money      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                           2,747      whatalife
-                     Earned_by_driving:                            665
-                     Mail_Courier_Earned_money:                  1,949
-   2.      29924 icoha44                               225      CCI4
-                     Earned_by_driving:                            225
-   3.      47387 unisold                                29      velleman
-                     Earned_by_driving:                             29
-   4.      30441 irecless                               22      xPonzoo
-                     Earned_by_driving:                             22
+   1.      45913 whatalife                           5,745      whatalife
+                     Earned_by_driving:                          1,349
+                     Mail_Courier_Earned_money:                  4,084
+   2.      29924 icoha44                             2,215      CCI4
+                     Earned_by_driving:                          1,987
+   3.      41132 dh7938726                          -1,973      dh7938726
+                     Earned_by_driving:                             27
+   4.       2107 P V L                               1,574      [ DS ] P V L
+                     Earned_by_driving:                          1,354
+   5.      47387 unisold                               401      velleman
+                     Earned_by_driving:                            401
+   6.      30441 irecless                              139      xPonzoo
+                     Earned_by_driving:                            158
+                     Rent_Paid:                                     19
 
 Time:
  Rank    User ID Username                             Time      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                               1      whatalife
+   1.      45913 whatalife                               2      whatalife
    2.      29924 icoha44                                 1      CCI4
+   3.      30441 irecless                                1      xPonzoo
+   4.      47387 unisold                                 1      velleman
 
 Earned_by_driving:
  Rank    User ID Username                  Earned_by_driving      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                             665      whatalife
-   2.      29924 icoha44                               225      CCI4
-   3.      47387 unisold                                29      velleman
-   4.      30441 irecless                               22      xPonzoo
+   1.      29924 icoha44                             1,987      CCI4
+   2.       2107 P V L                               1,354      [ DS ] P V L
+   3.      45913 whatalife                           1,349      whatalife
+   4.      47387 unisold                               401      velleman
+   5.      30441 irecless                              158      xPonzoo
+   6.      41132 dh7938726                              27      dh7938726
 
 Total_Wealth:
  Rank    User ID Username                     Total_Wealth      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                           2,752      whatalife
-   2.      29924 icoha44                               217      CCI4
-   3.      47387 unisold                                46      velleman
-   4.      30441 irecless                               27      xPonzoo
+   1.      45913 whatalife                           5,670      whatalife
+   2.      29924 icoha44                             2,231      CCI4
+   3.       2107 P V L                               1,574      [ DS ] P V L
+   4.      47387 unisold                               410      velleman
+   5.      30441 irecless                              162      xPonzoo
+   6.      41132 dh7938726                              27      dh7938726
 
 Civil_stats_Playing_time_civilian:
  Rank    User ID Username                  Civil_stats_Playing_time_civilian      Nickname
 ------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                               1      whatalife
+   1.      45913 whatalife                               2      whatalife
+   2.      29924 icoha44                                 1      CCI4
+   3.      30441 irecless                                1      xPonzoo
+   4.      47387 unisold                                 1      velleman
+   5.       2107 P V L                                   1      [ DS ] P V L
 
 Civil_stats_Driven_distance:
  Rank    User ID Username                  Civil_stats_Driven_distance      Nickname
 ------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                              15      whatalife
-   2.      29924 icoha44                                12      CCI4
-   3.      30441 irecless                                1      xPonzoo
+   1.      29924 icoha44                               109      CCI4
+   2.       2107 P V L                                  60      [ DS ] P V L
+   3.      45913 whatalife                              31      whatalife
+   4.      47387 unisold                                11      velleman
+   5.      30441 irecless                                7      xPonzoo
+   6.      41132 dh7938726                               1      dh7938726
+
+Civil_stats_Driven_distance_on_bikes:
+ Rank    User ID Username                  Civil_stats_Driven_distance_on_bikes      Nickname
+---------------------------------------------------------------------------------------------
+
+   1.       2107 P V L                                  60      [ DS ] P V L
 
 Mail_Courier_Delivered_parcels:
  Rank    User ID Username                  Mail_Courier_Delivered_parcels      Nickname
 ---------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                             297      whatalife
+   1.      45913 whatalife                             624      whatalife
 
 Mail_Courier_Delivered_kg:
  Rank    User ID Username                  Mail_Courier_Delivered_kg      Nickname
 ----------------------------------------------------------------------------------
 
-   1.      45913 whatalife                             463      whatalife
+   1.      45913 whatalife                             963      whatalife
 
 Mail_Courier_Driven_distance:
  Rank    User ID Username                  Mail_Courier_Driven_distance      Nickname
 -------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                              14      whatalife
+   1.      45913 whatalife                              30      whatalife
 
 Mail_Courier_Earned_money:
  Rank    User ID Username                  Mail_Courier_Earned_money      Nickname
 ----------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           1,949      whatalife
+   1.      45913 whatalife                           4,084      whatalife
+
+Rent_Paid:
+ Rank    User ID Username                        Rent_Paid      Nickname
+------------------------------------------------------------------------
+
+   1.      30441 irecless                               19      xPonzoo
 
