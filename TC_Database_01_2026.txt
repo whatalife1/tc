@@ -1,6 +1,6 @@
 January 2026
 Data from (dated files): TC_Database_01_2026.db
-Generated on: 2026-01-09 08:13:08
+Generated on: 2026-01-09 08:20:09
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -10,9 +10,9 @@ Driven_distance:
                      Civil_stats_Driven_distance:                           4,182
                      Civil_stats_Driven_distance_on_bikes:                  4,182
                      Robber_stats_Driven_distance_being_chased:                56
-   2.      45913 whatalife                           3,987      whatalife
-                     Civil_stats_Driven_distance:                           3,682
-                     Civil_stats_Driven_distance_on_bikes:                  3,655
+   2.      45913 whatalife                           3,999      whatalife
+                     Civil_stats_Driven_distance:                           3,694
+                     Civil_stats_Driven_distance_on_bikes:                  3,667
                      Taxiing_Driven_distance:                                   5
    3.       2107 P V L                               3,903      [ DS ] P V L
                      Civil_stats_Driven_distance:                           3,903
@@ -60,9 +60,9 @@ Driven_distance:
                      Civil_stats_Driven_distance:                           1,683
                      Busing_Driven_distance:                                  149
                      Taxiing_Driven_distance:                                 149
-  12.      49060 just bask                           1,952      bask
-                     Civil_stats_Driven_distance:                           1,787
-                     Civil_stats_Driven_distance_on_bikes:                  1,134
+  12.      49060 just bask                           1,958      bask
+                     Civil_stats_Driven_distance:                           1,794
+                     Civil_stats_Driven_distance_on_bikes:                  1,141
                      Delivery_Driven_distance_loaded:                           2
   13.      41376 glenn quagmire                      1,883      Quagmire
                      Civil_stats_Driven_distance:                           1,065
@@ -529,9 +529,9 @@ Total_Money:
                      Roleplaying_Received_donations:               592
                      Rent_Earned:                                   48
                      Rent_Paid:                                    153
-   2.      45913 whatalife                         273,374      whatalife
+   2.      45913 whatalife                         273,763      whatalife
                      Sent_Money:                                   660
-                     Earned_by_driving:                        118,404
+                     Earned_by_driving:                        118,793
                      Lost_by_driving:                              295
                      Roleplaying_Received_donations:               410
                      Taxiing_Earned_money:                         135
@@ -1539,7 +1539,7 @@ Earned_by_driving:
  Rank    User ID Username                  Earned_by_driving      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                         118,404      whatalife
+   1.      45913 whatalife                         118,793      whatalife
    2.       2107 P V L                             115,001      [ DS ] P V L
    3.      10038 keskitalo                          80,517      #58 KESKITALO
    4.      49218 sahraoui212                        66,364      MoroccanDriver|VR|
@@ -1548,7 +1548,7 @@ Earned_by_driving:
    7.       1107 A3rox                              52,885      F alken. A3rox
    8.      48922 diccus                             52,267      Diccus
    9.      20104 nico2550                           52,077      AWx • H aycerus
-  10.      49060 just bask                          51,615      bask
+  10.      49060 just bask                          51,822      bask
   11.      46103 scs binman                         42,600      SCS BinMan
   12.      36535 raif6708                           41,476      [TOW] R A IF
   13.      49163 antec84                            36,782      AnTec84
@@ -1750,9 +1750,9 @@ Total_Wealth:
 ------------------------------------------------------------------------
 
    1.      25215 m52b28                           -387,568      Selling (TC) Cars
-   2.      45913 whatalife                         270,939      whatalife
+   2.      45913 whatalife                         271,328      whatalife
    3.       2107 P V L                             159,204      [ DS ] P V L
-   4.      49060 just bask                         137,332      bask
+   4.      49060 just bask                         137,515      bask
    5.       3245 [OD]Jardim                        129,507      ｢O K｣ Jardim
    6.      49230 nora vale                         124,107      Nora ﾞ
    7.      49218 sahraoui212                        93,520      MoroccanDriver|VR|
@@ -1976,7 +1976,7 @@ Civil_stats_Driven_distance:
 
    1.      13773 nssf                                4,182      Dahl GOAT Biker
    2.       2107 P V L                               3,903      [ DS ] P V L
-   3.      45913 whatalife                           3,682      whatalife
+   3.      45913 whatalife                           3,694      whatalife
    4.      10038 keskitalo                           3,442      #58 KESKITALO
    5.      49218 sahraoui212                         2,572      MoroccanDriver|VR|
    6.       1107 A3rox                               2,427      F alken. A3rox
@@ -1985,7 +1985,7 @@ Civil_stats_Driven_distance:
    9.      41476 p1nhe1r0                            2,163      P1NHE1RØ
   10.      48922 diccus                              1,842      Diccus
   11.        489 =Wolf=[NO]                          1,815      ™ DB JoeValla
-  12.      49060 just bask                           1,787      bask
+  12.      49060 just bask                           1,794      bask
   13.      49163 antec84                             1,765      AnTec84
   14.      46103 scs binman                          1,683      SCS BinMan
   15.      47376 evari albo                          1,622      E S T ALBO
@@ -2080,12 +2080,12 @@ Civil_stats_Driven_distance_on_bikes:
 ---------------------------------------------------------------------------------------------
 
    1.      13773 nssf                                4,182      Dahl GOAT Biker
-   2.      45913 whatalife                           3,655      whatalife
+   2.      45913 whatalife                           3,667      whatalife
    3.       2107 P V L                               2,652      [ DS ] P V L
    4.      41476 p1nhe1r0                            2,089      P1NHE1RØ
    5.       1107 A3rox                               1,713      F alken. A3rox
    6.      10038 keskitalo                           1,415      #58 KESKITALO
-   7.      49060 just bask                           1,134      bask
+   7.      49060 just bask                           1,141      bask
    8.      48922 diccus                              1,064      Diccus
    9.      37428 sierra335                             973      み Sierra
   10.      47305 griffin20069                          829      Girfen
