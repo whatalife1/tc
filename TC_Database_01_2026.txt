@@ -1,6 +1,6 @@
 January 2026
 Data from (dated files): TC_Database_01_2026.db
-Generated on: 2026-01-22 13:40:17
+Generated on: 2026-01-22 13:47:12
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -14,13 +14,13 @@ Driven_distance:
                      Mail_Courier_Driven_distance:                            462
                      Busing_Driven_distance:                                  407
                      Taxiing_Driven_distance:                                   9
-   2.       2107 P V L                               9,385      [ DS ] [TAXI]
+   2.       2107 P V L                               9,390      [ DS ] [TAXI]
                      Civil_stats_Driven_distance:                           8,336
                      Civil_stats_Driven_distance_on_bikes:                  6,214
                      Robber_stats_Driven_distance_being_chased:                 8
                      Delivery_Driven_distance_loaded:                         422
                      Busing_Driven_distance:                                  150
-                     Taxiing_Driven_distance:                                 455
+                     Taxiing_Driven_distance:                                 457
    3.      10038 keskitalo                           6,600      #58 KESKITALO
                      Civil_stats_Driven_distance:                           6,366
                      Civil_stats_Driven_distance_on_bikes:                  3,222
@@ -72,8 +72,8 @@ Driven_distance:
   10.        489 =Wolf=[NO]                          3,668      ™ DB JoeValla
                      Civil_stats_Driven_distance:                           3,668
                      Robber_stats_Driven_distance_being_chased:                24
-  11.      48324 b0ldeau                             3,634      Bold
-                     Civil_stats_Driven_distance:                           3,630
+  11.      48324 b0ldeau                             3,639      Bold
+                     Civil_stats_Driven_distance:                           3,634
                      Robber_stats_Driven_distance_being_chased:                35
   12.        731 Lucky Loser                         3,605      [ DS ] Nitram
                      Civil_stats_Driven_distance:                           3,482
@@ -645,10 +645,10 @@ Total_Money:
                      Rent_Paid:                                    311
                      Comp_Received:                              1,190
                      Comp_Sent:                                  1,580
-   3.       2107 P V L                             286,446      [ DS ] [TAXI]
+   3.       2107 P V L                             286,760      [ DS ] [TAXI]
                      Sent_Money:                                16,191
                      Rece_Money:                                 8,270
-                     Earned_by_driving:                        265,341
+                     Earned_by_driving:                        265,547
                      Lost_by_driving:                              204
                      Lost_by_stealing:                              18
                      Robber_stats_Paid_fines:                      770
@@ -657,7 +657,7 @@ Total_Money:
                      Delivery_Earned_money:                     19,782
                      Delivery_Paid_penalties:                      900
                      Busing_Earned_money:                        6,088
-                     Taxiing_Earned_money:                      12,428
+                     Taxiing_Earned_money:                      12,487
                      Taxiing_Paid_penalties:                        50
                      Rent_Earned:                                6,159
                      Rent_Paid:                                  3,395
@@ -1316,9 +1316,9 @@ Total_Money:
                      Roleplaying_Received_donations:                 8
                      Rent_Paid:                                    719
                      Comp_Sent:                                    400
-  67.      47628 amagimoon                          31,352      Yangire
+  67.      47628 amagimoon                          31,473      Yangire
                      Rece_Money:                                   200
-                     Earned_by_driving:                         26,051
+                     Earned_by_driving:                         26,172
                      Lost_by_driving:                              231
                      Robber_stats_Paid_fines:                      900
                      Roleplaying_Received_donations:                10
@@ -1866,7 +1866,7 @@ Earned_by_driving:
 --------------------------------------------------------------------------
 
    1.      45913 whatalife                         313,821      whatalife
-   2.       2107 P V L                             265,341      [ DS ] [TAXI]
+   2.       2107 P V L                             265,547      [ DS ] [TAXI]
    3.      10038 keskitalo                         159,048      #58 KESKITALO
    4.      49060 just bask                         105,059      bask
    5.      48810 1divineninja                      100,977      1DivineNinja CNTRLR
@@ -1897,7 +1897,7 @@ Earned_by_driving:
   30.      46697 bosca                              48,812      Bosca
   31.      49337 padesiu                            47,360      [COP] Pades IU
   32.      48062 topcuzeus                          46,260      [MED] Zeus
-  33.      48324 b0ldeau                            45,933      Bold
+  33.      48324 b0ldeau                            45,963      Bold
   34.      40672 burgazada                          43,804      capeta
   35.      42617 rubbel_31                          43,574      raconworks
   36.      41476 p1nhe1r0                           43,107      P1NHE1RØ
@@ -1932,7 +1932,7 @@ Earned_by_driving:
   65.       8597 NikoPDR                            28,106      S1DUS* uNite
   66.      43770 pavle pepsi                        27,814      Budja[COP]
   67.      47305 griffin20069                       27,771      Girfen
-  68.      47628 amagimoon                          26,051      Yangire
+  68.      47628 amagimoon                          26,172      Yangire
   69.          4 chucknorris                        25,394      * ‹ :Chuck›
   70.      49173 zarboned                           25,161      Scully BoneD
   71.      40659 cgtyksy55                          24,918      Redﾉ CCTV
@@ -1991,8 +1991,8 @@ Lost_by_driving:
   19.      29480 jonetuu                            13,761      Jonetuu
   20.      21204 cruisescarz                        13,720      JackSnow
   21.      26253 lucasazedo                         12,808      Redﾉ Lucas
-  22.      25411 pastyrk.fi                         12,765      Maso
-  23.      48324 b0ldeau                            12,747      Bold
+  22.      48324 b0ldeau                            12,770      Bold
+  23.      25411 pastyrk.fi                         12,765      Maso
   24.      17555 !cr4zy!                            12,445      ! c r ﾑ z y !
   25.      37836 kropka                             12,320      // Kr 0 pka
   26.      42979 firatrobert_07                     12,205      R obert [COP]
@@ -2077,7 +2077,7 @@ Total_Wealth:
 
    1.      25215 m52b28                         -1,017,693      Selling (TC) Cars
    2.      45913 whatalife                         654,567      whatalife
-   3.       2107 P V L                             274,022      [ DS ] [TAXI]
+   3.       2107 P V L                             274,342      [ DS ] [TAXI]
    4.      40051 botsumbe                          211,526      Yordanski
    5.      38227 ilya18101                         209,429      [COP] Lixy
    6.      49060 just bask                         202,299      bask
@@ -2146,7 +2146,7 @@ Total_Wealth:
   69.      23047 gaaz                               37,941      SO • Gaz
   70.      42617 rubbel_31                          37,284      raconworks
   71.      24592 pepsiflyeah                        37,219      • • • pepsi «FLY»
-  72.      48324 b0ldeau                            37,181      Bold
+  72.      48324 b0ldeau                            37,177      Bold
   73.      49027 mustafabezer                       36,958      babo
   74.      30184 junioreyizz                       -36,470      FAÇAM 572
   75.      29964 viktors3232                        35,193      • ‹Redﾉ KaS0Y
@@ -2318,7 +2318,7 @@ Civil_stats_Driven_distance:
    6.       1107 A3rox                               4,002      F alken. A3rox
    7.      39729 keith_392                           3,776      N u M a
    8.        489 =Wolf=[NO]                          3,668      ™ DB JoeValla
-   9.      48324 b0ldeau                             3,630      Bold
+   9.      48324 b0ldeau                             3,634      Bold
   10.        731 Lucky Loser                         3,482      [ DS ] Nitram
   11.      41476 p1nhe1r0                            3,378      P1NHE1RØ
   12.      49060 just bask                           3,245      bask
@@ -2409,7 +2409,7 @@ Civil_stats_Driven_distance:
   97.      30125 colg4te                             1,019      Redﾉ Colg4te
   98.      46978 marcius78                           1,016      Zefkis
   99.      26211 9xxadrianxx9                          999      [TC] ›Adrian‹
- 100.      47628 amagimoon                             996      Yangire
+ 100.      47628 amagimoon                             999      Yangire
 
 Civil_stats_Driven_distance_on_bikes:
  Rank    User ID Username                  Civil_stats_Driven_distance_on_bikes      Nickname
@@ -5267,7 +5267,7 @@ Busing_Driven_distance:
   16.      41868 rashrusted                            101      Rash Rusted
   17.      42363 theratox                               91      D ZIN
   18.      41871 emrecansmsk                            84      [PACT] Emre.C
-  19.      47628 amagimoon                              79      Yangire
+  19.      47628 amagimoon                              82      Yangire
   20.      49338 yodo19                                 74      [BUS]Yodo
   21.      48705 saye312                                71      SAYE312
   22.      41611 meaowboi19                             67      merli
@@ -5459,7 +5459,7 @@ Taxiing_Started_trips:
  Rank    User ID Username                  Taxiing_Started_trips      Nickname
 ------------------------------------------------------------------------------
 
-   1.       2107 P V L                                 552      [ DS ] [TAXI]
+   1.       2107 P V L                                 555      [ DS ] [TAXI]
    2.      49223 chrisandkitt                          246      CHRISANDKITT
    3.      46103 scs binman                            158      SCS BinMan
    4.      49060 just bask                             154      bask
@@ -5548,7 +5548,7 @@ Taxiing_Finished_trips:
  Rank    User ID Username                  Taxiing_Finished_trips      Nickname
 -------------------------------------------------------------------------------
 
-   1.       2107 P V L                                 522      [ DS ] [TAXI]
+   1.       2107 P V L                                 525      [ DS ] [TAXI]
    2.      49223 chrisandkitt                          233      CHRISANDKITT
    3.      46103 scs binman                            147      SCS BinMan
    4.      49060 just bask                             142      bask
@@ -5635,7 +5635,7 @@ Taxiing_Driven_distance:
  Rank    User ID Username                  Taxiing_Driven_distance      Nickname
 --------------------------------------------------------------------------------
 
-   1.       2107 P V L                                 455      [ DS ] [TAXI]
+   1.       2107 P V L                                 457      [ DS ] [TAXI]
    2.      49223 chrisandkitt                          386      CHRISANDKITT
    3.      46103 scs binman                            295      SCS BinMan
    4.      39729 keith_392                             268      N u M a
@@ -5724,7 +5724,7 @@ Taxiing_Earned_money:
  Rank    User ID Username                  Taxiing_Earned_money      Nickname
 -----------------------------------------------------------------------------
 
-   1.       2107 P V L                              12,428      [ DS ] [TAXI]
+   1.       2107 P V L                              12,487      [ DS ] [TAXI]
    2.      49223 chrisandkitt                        7,438      CHRISANDKITT
    3.      46103 scs binman                          5,054      SCS BinMan
    4.      49060 just bask                           5,039      bask
@@ -6054,7 +6054,7 @@ Rent_Paid:
   36.       2107 P V L                               3,395      [ DS ] [TAXI]
   37.      30454 vilix                               3,314      [TC] ›Vilix‹
   38.      10038 keskitalo                           3,307      #58 KESKITALO
-  39.      48324 b0ldeau                             3,274      Bold
+  39.      48324 b0ldeau                             3,283      Bold
   40.      12266 nelahh                              3,173      PROBLEMATIC PERSON
   41.      30093 thatyorkshireman                    3,099      [TC] ›Yung‹
   42.      42332 ozanerkaya                          3,096      [LOS] Boom [COP]
