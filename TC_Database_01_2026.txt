@@ -1,6 +1,6 @@
 January 2026
 Data from (dated files): TC_Database_01_2026.db
-Generated on: 2026-01-25 11:19:22
+Generated on: 2026-01-25 13:25:20
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -13,13 +13,13 @@ Driven_distance:
                      Delivery_Driven_distance_loaded:                         439
                      Busing_Driven_distance:                                  150
                      Taxiing_Driven_distance:                                 658
-   2.      45913 whatalife                          11,245      whatalife
-                     Civil_stats_Driven_distance:                          10,757
+   2.      45913 whatalife                          11,281      whatalife
+                     Civil_stats_Driven_distance:                          10,791
                      Civil_stats_Driven_distance_on_bikes:                  9,537
                      Robber_stats_Driven_distance_being_chased:                38
                      Delivery_Driven_distance_loaded:                          53
                      Mail_Courier_Driven_distance:                            464
-                     Busing_Driven_distance:                                  584
+                     Busing_Driven_distance:                                  616
                      Taxiing_Driven_distance:                                  12
    3.      10038 keskitalo                           6,832      #58 KESKITALO
                      Civil_stats_Driven_distance:                           6,598
@@ -67,8 +67,8 @@ Driven_distance:
                      Robber_stats_Driven_distance_being_chased:               128
                      Delivery_Driven_distance_loaded:                           8
                      Taxiing_Driven_distance:                                  35
-  10.        489 =Wolf=[NO]                          4,278      ™ DB JoeValla
-                     Civil_stats_Driven_distance:                           4,277
+  10.        489 =Wolf=[NO]                          4,359      ™ DB JoeValla
+                     Civil_stats_Driven_distance:                           4,359
                      Robber_stats_Driven_distance_being_chased:                24
   11.      41376 glenn quagmire                      4,146      Quagmire
                      Civil_stats_Driven_distance:                           2,356
@@ -85,15 +85,8 @@ Driven_distance:
                      Robber_stats_Driven_distance_being_chased:               437
                      Delivery_Driven_distance_loaded:                           2
                      Taxiing_Driven_distance:                                 268
-  13.        731 Lucky Loser                         3,892      [ DS ] Nitram
-                     Civil_stats_Driven_distance:                           3,769
-                     Civil_stats_Driven_distance_on_bikes:                  2,586
-                     Robber_stats_Driven_distance_being_chased:                43
-                     Delivery_Driven_distance_loaded:                          92
-                     Busing_Driven_distance:                                  171
-                     Taxiing_Driven_distance:                                  54
-  14.      25704 psykoze                             3,815      [ ﾏ ] Lolita
-                     Civil_stats_Driven_distance:                           3,292
+  13.      25704 psykoze                             3,902      [ ﾏ ] Lolita
+                     Civil_stats_Driven_distance:                           3,380
                      Civil_stats_Driven_distance_on_bikes:                    926
                      Robber_stats_Driven_distance_being_chased:               159
                      Cop_stats_Driven_distance_as_cop:                        363
@@ -101,6 +94,13 @@ Driven_distance:
                      Roleplaying_Driven_distance_as_MED_RES:                  159
                      Roleplaying_Driven_distance_in_SOS_calls:                 30
                      Busing_Driven_distance:                                    5
+  14.        731 Lucky Loser                         3,892      [ DS ] Nitram
+                     Civil_stats_Driven_distance:                           3,769
+                     Civil_stats_Driven_distance_on_bikes:                  2,586
+                     Robber_stats_Driven_distance_being_chased:                43
+                     Delivery_Driven_distance_loaded:                          92
+                     Busing_Driven_distance:                                  171
+                     Taxiing_Driven_distance:                                  54
   15.      22313 heavykick                           3,673      B2 ﾏ Heavy
                      Civil_stats_Driven_distance:                           3,632
                      Civil_stats_Driven_distance_on_bikes:                  3,635
@@ -197,8 +197,8 @@ Driven_distance:
                      Civil_stats_Driven_distance:                           2,961
                      Civil_stats_Driven_distance_on_bikes:                  1,410
                      Robber_stats_Driven_distance_being_chased:                77
-  31.      22858 gaga5555                            2,916      Majk Bro nxet
-                     Civil_stats_Driven_distance:                           2,759
+  31.      22858 gaga5555                            2,961      Majk Bro nxet
+                     Civil_stats_Driven_distance:                           2,804
                      Civil_stats_Driven_distance_on_bikes:                    137
                      Robber_stats_Driven_distance_being_chased:                 8
                      Delivery_Driven_distance_loaded:                           7
@@ -280,18 +280,18 @@ Driven_distance:
                      Civil_stats_Driven_distance_on_bikes:                     12
                      Robber_stats_Driven_distance_being_chased:                59
                      Delivery_Driven_distance_loaded:                         348
-  43.      43143 enesozdil                           2,478      < Enes Özdil >
+  43.      29924 icoha44                             2,572      CCI4
+                     Civil_stats_Driven_distance:                           2,464
+                     Civil_stats_Driven_distance_on_bikes:                     15
+                     Robber_stats_Driven_distance_being_chased:                87
+                     Mail_Courier_Driven_distance:                             20
+                     Busing_Driven_distance:                                   11
+  44.      43143 enesozdil                           2,478      < Enes Özdil >
                      Civil_stats_Driven_distance:                           2,478
                      Civil_stats_Driven_distance_on_bikes:                     49
                      Robber_stats_Driven_distance_being_chased:                40
                      Mail_Courier_Driven_distance:                            307
                      Busing_Driven_distance:                                   22
-  44.      29924 icoha44                             2,473      CCI4
-                     Civil_stats_Driven_distance:                           2,371
-                     Civil_stats_Driven_distance_on_bikes:                     15
-                     Robber_stats_Driven_distance_being_chased:                87
-                     Mail_Courier_Driven_distance:                             20
-                     Busing_Driven_distance:                                   11
   45.       4166 Valen                               2,397      AWx •Dree X ie
                      Civil_stats_Driven_distance:                           1,200
                      Civil_stats_Driven_distance_on_bikes:                    141
@@ -618,12 +618,15 @@ Driven_distance:
                      Civil_stats_Driven_distance_on_bikes:                    277
                      Robber_stats_Driven_distance_being_chased:                64
                      Delivery_Driven_distance_loaded:                          20
-  99.      10685 SpeedStars.fr                       1,362      sensei
+  99.      47374 ross2750                            1,374      Not Ross
+                     Civil_stats_Driven_distance:                           1,252
+                     Civil_stats_Driven_distance_on_bikes:                    159
+                     Robber_stats_Driven_distance_being_chased:                 8
+                     Roleplaying_Driven_distance_as_MED_RES:                    8
+                     Busing_Driven_distance:                                   19
+ 100.      10685 SpeedStars.fr                       1,362      sensei
                      Civil_stats_Driven_distance:                           1,313
                      Taxiing_Driven_distance:                                  21
- 100.       3704 ian78                               1,360      Ian [ROAD]
-                     Civil_stats_Driven_distance:                             878
-                     Mail_Courier_Driven_distance:                             12
 
 Total_Money:
  Rank    User ID Username                      Total_Money      Nickname
@@ -638,10 +641,10 @@ Total_Money:
                      Roleplaying_Received_donations:               592
                      Rent_Earned:                                  234
                      Rent_Paid:                                    689
-   2.      45913 whatalife                         724,183      whatalife
+   2.      45913 whatalife                         729,787      whatalife
                      Sent_Money:                                 3,560
                      Rece_Money:                                   210
-                     Earned_by_driving:                        354,927
+                     Earned_by_driving:                        356,507
                      Lost_by_driving:                              567
                      Lost_by_stealing:                             276
                      Robber_stats_Paid_fines:                    1,912
@@ -651,7 +654,7 @@ Total_Money:
                      Delivery_Paid_penalties:                      200
                      Mail_Courier_Earned_money:                 29,310
                      Mail_Courier_Paid_penalties:                  785
-                     Busing_Earned_money:                       26,441
+                     Busing_Earned_money:                       27,465
                      Taxiing_Earned_money:                         249
                      Taxiing_Paid_penalties:                        25
                      Rent_Earned:                                  155
@@ -711,14 +714,14 @@ Total_Money:
                      Mail_Courier_Earned_money:                    645
                      Rent_Paid:                                     13
                      Comp_Received:                                140
-   7.        489 =Wolf=[NO]                        149,050      ™ DB JoeValla
+   7.        489 =Wolf=[NO]                        149,300      ™ DB JoeValla
                      Sent_Money:                                 6,700
                      Rece_Money:                                 1,149
-                     Earned_by_driving:                         70,845
-                     Lost_by_driving:                            5,795
+                     Earned_by_driving:                         72,473
+                     Lost_by_driving:                            5,820
                      Robber_stats_Paid_fines:                    1,597
                      Roleplaying_Received_donations:             2,450
-                     Rent_Paid:                                  6,942
+                     Rent_Paid:                                  8,129
                      Comp_Received:                              1,000
                      Comp_Sent:                                  2,000
                      Bingo_Won:                                    115
@@ -758,16 +761,9 @@ Total_Money:
                      Rent_Paid:                                    166
                      Comp_Received:                                 60
                      Comp_Sent:                                    660
-  11.      28134 ke608                            -101,596      YIKES!
-                     Earned_by_driving:                         12,458
-                     Roleplaying_Received_donations:                24
-                     Delivery_Earned_money:                      6,015
-                     Mail_Courier_Earned_money:                  1,748
-                     Busing_Earned_money:                          697
-                     Rent_Paid:                                    137
-  12.      45835 raklomore                         101,342      rak[ROAD]
+  11.      45835 raklomore                         101,885      rak[ROAD]
                      Rece_Money:                                   100
-                     Earned_by_driving:                         17,250
+                     Earned_by_driving:                         17,352
                      Lost_by_driving:                            5,587
                      Robber_stats_Paid_fines:                      460
                      Cop_stats_Received_fines:                  15,991
@@ -775,8 +771,15 @@ Total_Money:
                      Roleplaying_Received_donations:               110
                      Mail_Courier_Paid_penalties:                    5
                      Taxiing_Earned_money:                         120
-                     Rent_Paid:                                  2,157
+                     Rent_Paid:                                  2,210
                      Comp_Received:                                550
+  12.      28134 ke608                            -101,596      YIKES!
+                     Earned_by_driving:                         12,458
+                     Roleplaying_Received_donations:                24
+                     Delivery_Earned_money:                      6,015
+                     Mail_Courier_Earned_money:                  1,748
+                     Busing_Earned_money:                          697
+                     Rent_Paid:                                    137
   13.      43034 kadirarslann                      -99,125      ＧＴＣゑ Kadir
                      Rece_Money:                                 1,000
                      Earned_by_driving:                            644
@@ -858,12 +861,27 @@ Total_Money:
                      Rent_Paid:                                  1,627
                      Comp_Received:                              2,870
                      Comp_Sent:                                  1,030
-  20.      47305 griffin20069                       68,140      Girfen
+  20.      29924 icoha44                            69,837      CCI4
+                     Earned_by_driving:                         44,105
+                     Lost_by_driving:                            5,067
+                     Lost_by_stealing:                             549
+                     Robber_stats_Paid_fines:                    1,935
+                     Roleplaying_Paid_donations:                   200
+                     Roleplaying_Received_donations:                10
+                     Mail_Courier_Earned_money:                  2,110
+                     Mail_Courier_Paid_penalties:                   20
+                     Busing_Earned_money:                          474
+                     Rent_Earned:                                1,649
+                     Rent_Paid:                                    612
+                     Comp_Received:                                120
+                     Comp_Sent:                                    710
+                     Bingo_Lost:                                    15
+  21.      47305 griffin20069                       68,140      Girfen
                      Earned_by_driving:                         28,984
                      Rent_Earned:                                  591
                      Rent_Paid:                                      5
                      Comp_Sent:                                     60
-  21.       2936 Tuuliqinen                         67,732      [ROAD] Tuuliainen
+  22.       2936 Tuuliqinen                         67,732      [ROAD] Tuuliainen
                      Rece_Money:                                   505
                      Earned_by_driving:                         26,750
                      Lost_by_driving:                           11,138
@@ -873,21 +891,6 @@ Total_Money:
                      Rent_Paid:                                  1,411
                      Comp_Received:                              1,100
                      Comp_Sent:                                  2,870
-  22.      29924 icoha44                            67,384      CCI4
-                     Earned_by_driving:                         43,281
-                     Lost_by_driving:                            5,056
-                     Lost_by_stealing:                             549
-                     Robber_stats_Paid_fines:                    1,935
-                     Roleplaying_Paid_donations:                   200
-                     Roleplaying_Received_donations:                10
-                     Mail_Courier_Earned_money:                  2,110
-                     Mail_Courier_Paid_penalties:                   20
-                     Busing_Earned_money:                          474
-                     Rent_Earned:                                1,649
-                     Rent_Paid:                                    602
-                     Comp_Received:                                120
-                     Comp_Sent:                                    710
-                     Bingo_Lost:                                    15
   23.      38196 laurynas683                        67,081      V M . DejaVu
                      Sent_Money:                                   100
                      Rece_Money:                                 2,783
@@ -918,16 +921,17 @@ Total_Money:
                      Comp_Received:                              2,820
                      Comp_Sent:                                    450
                      Bingo_Won:                                    145
-  25.      27293 J--                               -63,090      V M . January
+  25.      27293 J--                               -62,528      V M . January
                      Sent_Money:                                   202
-                     Earned_by_driving:                          4,160
-                     Lost_by_driving:                           17,981
+                     Earned_by_driving:                          4,574
+                     Lost_by_driving:                           17,993
                      Robber_stats_Paid_fines:                      716
                      Cop_stats_Received_fines:                     349
                      Roleplaying_Paid_donations:                     5
                      Roleplaying_Received_donations:               113
                      Rent_Earned:                                3,923
-                     Rent_Paid:                                  5,299
+                     Rent_Paid:                                  5,387
+                     Comp_Received:                                130
   26.      22170 soras99                           -61,027      [COP] Erox
                      Sent_Money:                                 2,279
                      Earned_by_driving:                         11,544
@@ -1078,16 +1082,16 @@ Total_Money:
                      Comp_Sent:                                    630
                      Bingo_Won:                                  7,640
                      Bingo_Lost:                                    15
-  40.      47374 ross2750                           48,813      Not Ross
+  40.      47374 ross2750                           50,345      Not Ross
                      Rece_Money:                                 1,000
-                     Earned_by_driving:                         30,411
-                     Lost_by_driving:                              962
+                     Earned_by_driving:                         31,571
+                     Lost_by_driving:                            1,089
                      Robber_stats_Paid_fines:                      334
                      Roleplaying_Paid_donations:                   400
                      Roleplaying_Received_donations:               520
-                     Busing_Earned_money:                          595
-                     Rent_Earned:                                  735
-                     Rent_Paid:                                    567
+                     Busing_Earned_money:                          878
+                     Rent_Earned:                                  790
+                     Rent_Paid:                                    619
                      Comp_Received:                                230
                      Comp_Sent:                                    670
   41.      21023 kanade                            -48,693      SO • Yukine
@@ -1581,20 +1585,7 @@ Total_Money:
                      Rent_Paid:                                    867
                      Comp_Received:                                610
                      Comp_Sent:                                    360
-  90.      22858 gaga5555                           23,212      Majk Bro nxet
-                     Sent_Money:                                 1,000
-                     Rece_Money:                                   550
-                     Earned_by_driving:                         43,108
-                     Lost_by_driving:                           15,612
-                     Robber_stats_Paid_fines:                    1,830
-                     Roleplaying_Received_donations:               174
-                     Delivery_Earned_money:                        162
-                     Mail_Courier_Earned_money:                    164
-                     Busing_Earned_money:                          331
-                     Taxiing_Earned_money:                         749
-                     Rent_Paid:                                  7,416
-                     Comp_Received:                                460
-  91.      42617 rubbel_31                          23,191      raconworks
+  90.      42617 rubbel_31                          23,191      raconworks
                      Sent_Money:                                   200
                      Rece_Money:                                   150
                      Earned_by_driving:                         43,574
@@ -1608,17 +1599,17 @@ Total_Money:
                      Rent_Earned:                                  124
                      Rent_Paid:                                  1,022
                      Comp_Received:                                340
-  92.      17995 rocky_4                           -23,111      Dawid
+  91.      17995 rocky_4                           -23,111      Dawid
                      Earned_by_driving:                          1,554
                      Delivery_Earned_money:                      1,144
                      Delivery_Paid_penalties:                      100
                      Busing_Earned_money:                          331
-  93.      11881 vince00702                         22,916      #111 SoSoye Vinz
+  92.      11881 vince00702                         22,916      #111 SoSoye Vinz
                      Earned_by_driving:                          6,984
                      Lost_by_driving:                                2
                      Delivery_Earned_money:                      2,513
                      Rent_Paid:                                     10
-  94.      23047 gaaz                               22,851      SO • Gaz
+  93.      23047 gaaz                               22,851      SO • Gaz
                      Rece_Money:                                   100
                      Earned_by_driving:                         33,045
                      Lost_by_driving:                            2,240
@@ -1630,6 +1621,19 @@ Total_Money:
                      Rent_Paid:                                  1,713
                      Comp_Received:                              1,290
                      Comp_Sent:                                  1,590
+  94.      22858 gaga5555                           22,849      Majk Bro nxet
+                     Sent_Money:                                 1,000
+                     Rece_Money:                                   550
+                     Earned_by_driving:                         43,437
+                     Lost_by_driving:                           16,315
+                     Robber_stats_Paid_fines:                    1,830
+                     Roleplaying_Received_donations:               174
+                     Delivery_Earned_money:                        162
+                     Mail_Courier_Earned_money:                    164
+                     Busing_Earned_money:                          331
+                     Taxiing_Earned_money:                         749
+                     Rent_Paid:                                  7,416
+                     Comp_Received:                                460
   95.      23210 sergey29                           22,620      [6S] Angel
                      Earned_by_driving:                          7,708
                      Lost_by_driving:                            4,878
@@ -1905,7 +1909,7 @@ Earned_by_driving:
  Rank    User ID Username                  Earned_by_driving      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                         354,927      whatalife
+   1.      45913 whatalife                         356,507      whatalife
    2.       2107 P V L                             320,783      [ DS ] [TAXI]
    3.      10038 keskitalo                         164,930      #58 KESKITALO
    4.      48810 1divineninja                      115,189      1DivineNinja TTV
@@ -1920,7 +1924,7 @@ Earned_by_driving:
   13.      49218 sahraoui212                        74,479      MoroccanDriver|VR|
   14.      48922 diccus                             74,227      Diccus
   15.      49279 silva2525                          74,069      silva25
-  16.        489 =Wolf=[NO]                         70,845      ™ DB JoeValla
+  16.        489 =Wolf=[NO]                         72,473      ™ DB JoeValla
   17.      46103 scs binman                         70,068      SCS BinMan
   18.      29620 pimpinho62                         69,478      Pim pi nho 62
   19.      22313 heavykick                          67,062      B2 ﾏ Heavy
@@ -1929,9 +1933,9 @@ Earned_by_driving:
   22.      36535 raif6708                           65,578      [TOW] R A IF
   23.      49239 r4sseli                            63,794      Rasseli
   24.      37428 sierra335                          61,009      み Sierra
-  25.      49230 nora vale                          58,438      N V
-  26.      48062 topcuzeus                          58,267      [MED] Zeus
-  27.      25704 psykoze                            57,487      [ ﾏ ] Lolita
+  25.      25704 psykoze                            59,056      [ ﾏ ] Lolita
+  26.      49230 nora vale                          58,438      N V
+  27.      48062 topcuzeus                          58,267      [MED] Zeus
   28.      49036 mfz snipe1out                      57,379      MFZ | SNIPE1 OUT
   29.      20104 nico2550                           56,866      AWx • H aycerus
   30.      49030 lukenas1234                        56,786      [MED] -F ru zv
@@ -1942,10 +1946,10 @@ Earned_by_driving:
   35.      46021 aligamingarabic                    52,283      AliGaming
   36.      49337 padesiu                            47,360      [COP] Pades IU
   37.       1041 Berni25                            46,966      [ DS ] Berni
-  38.      40672 burgazada                          43,804      capeta
-  39.      42617 rubbel_31                          43,574      raconworks
-  40.      29924 icoha44                            43,281      CCI4
-  41.      22858 gaga5555                           43,108      Majk Bro nxet
+  38.      29924 icoha44                            44,105      CCI4
+  39.      40672 burgazada                          43,804      capeta
+  40.      42617 rubbel_31                          43,574      raconworks
+  41.      22858 gaga5555                           43,437      Majk Bro nxet
   42.      41476 p1nhe1r0                           43,107      P1NHE1RØ
   43.      44996 jakevm                             42,853      Ja ke VM
   44.      39882 vartolu_sadettin                   42,606      Das Auto
@@ -1968,9 +1972,9 @@ Earned_by_driving:
   61.      49237 n0n0x                              32,358      N0N0X
   62.      30933 kentwolf                           32,277      [6S] Feb [COP]
   63.      47376 evari albo                         32,051      E S T ALBO
-  64.      24592 pepsiflyeah                        31,389      • • • pepsi «FLY»
-  65.      43770 pavle pepsi                        30,764      Budja[COP]
-  66.      47374 ross2750                           30,411      Not Ross
+  64.      47374 ross2750                           31,571      Not Ross
+  65.      24592 pepsiflyeah                        31,389      • • • pepsi «FLY»
+  66.      43770 pavle pepsi                        30,764      Budja[COP]
   67.       8597 NikoPDR                            29,235      S1DUS* uNite
   68.      49204 mecharnic                          28,998      Mecharnic™
   69.      47305 griffin20069                       28,984      Girfen
@@ -2021,18 +2025,18 @@ Lost_by_driving:
    9.      45961 snipez1234                         22,231      Julio69
   10.      28459 pro player128                      22,075      [ FIN ] Soppa
   11.      38196 laurynas683                        21,952      V M . DejaVu
-  12.      25704 psykoze                            20,593      [ ﾏ ] Lolita
+  12.      25704 psykoze                            20,701      [ ﾏ ] Lolita
   13.      32247 goncalovidigal                     18,721      вмкяgoиcаlo
-  14.      27293 J--                                17,981      V M . January
+  14.      27293 J--                                17,993      V M . January
   15.      27785 sir elton john                     17,942      [TC] ›Charlie‹
   16.      17555 !cr4zy!                            17,798      ! c r ﾑ z y !
   17.      40998 any333                             16,424      any333
-  18.      42979 firatrobert_07                     16,235      R obe r t _
-  19.      42234 lordjaguar                         15,988      SG ﾏ Loki
-  20.      30454 vilix                              15,749      [TC] ›Vilix‹
-  21.      44045 sirac.54_                          15,716      [CSR] Muffin
-  22.      23754 thijsssiiee                        15,683      [COP] Thijs
-  23.      22858 gaga5555                           15,612      Majk Bro nxet
+  18.      22858 gaga5555                           16,315      Majk Bro nxet
+  19.      42979 firatrobert_07                     16,235      R obe r t _
+  20.      42234 lordjaguar                         15,988      SG ﾏ Loki
+  21.      30454 vilix                              15,749      [TC] ›Vilix‹
+  22.      44045 sirac.54_                          15,716      [CSR] Muffin
+  23.      23754 thijsssiiee                        15,683      [COP] Thijs
   24.      26253 lucasazedo                         15,273      Redﾉ Lucas
   25.      37836 kropka                             15,225      // Kr 0 pka
   26.      29480 jonetuu                            13,761      Jonetuu
@@ -2096,7 +2100,7 @@ Lost_by_driving:
   84.      25196 imelohhi                            5,925      6S311
   85.      24464 monster110501                       5,887      C. Midgett
   86.      48414 janivagyok88                        5,884      janivagyok88
-  87.        489 =Wolf=[NO]                          5,795      ™ DB JoeValla
+  87.        489 =Wolf=[NO]                          5,820      ™ DB JoeValla
   88.      46503 monks1                              5,779      [PACT] Monks
   89.      29620 pimpinho62                          5,735      Pim pi nho 62
   90.      40107 fronzy34                            5,702      Emir
@@ -2116,7 +2120,7 @@ Total_Wealth:
 ------------------------------------------------------------------------
 
    1.      25215 m52b28                         -1,017,693      Selling (TC) Cars
-   2.      45913 whatalife                         727,470      whatalife
+   2.      45913 whatalife                         732,979      whatalife
    3.       2107 P V L                             350,025      [ DS ] [TAXI]
    4.       3245 [OD]Jardim                        266,505      ｢O K｣ Jardim
    5.      38227 ilya18101                         208,073      [COP] Lixy
@@ -2126,7 +2130,7 @@ Total_Wealth:
    9.      10038 keskitalo                         163,637      #58 KESKITALO
   10.       1224 Lisnu                             154,091      MrClassics
   11.       3704 ian78                             151,763      Ian [ROAD]
-  12.      45835 raklomore                         149,315      rak[ROAD]
+  12.      45835 raklomore                         149,858      rak[ROAD]
   13.      28938 speeddemonn                       128,754      RDM• Speed! [ROAD]
   14.      45444 argamingarabic                    115,042      Mr r p
   15.      49223 chrisandkitt                      113,907      CHRISANDKITT
@@ -2154,16 +2158,16 @@ Total_Wealth:
   37.       1107 A3rox                              64,361      F alken. A3rox
   38.      39096 novais20                           63,136      [ROAD] Novais
   39.      41376 glenn quagmire                     61,639      Quagmire
-  40.      48924 faduck                             59,932      FaDuck
-  41.      29924 icoha44                            58,436      CCI4
-  42.      29620 pimpinho62                         58,136      Pim pi nho 62
-  43.      35188 agbaltop                           58,078      AGBAL
-  44.      47374 ross2750                           57,764      Not Ross
+  40.      29924 icoha44                            60,718      CCI4
+  41.      48924 faduck                             59,932      FaDuck
+  42.      47374 ross2750                           59,213      Not Ross
+  43.      29620 pimpinho62                         58,136      Pim pi nho 62
+  44.      35188 agbaltop                           58,078      AGBAL
   45.      42461 robotokonas                        56,312      Robo
   46.      49036 mfz snipe1out                      55,109      MFZ | SNIPE1 OUT
   47.      44996 jakevm                             54,877      Ja ke VM
   48.      46697 bosca                              53,610      Bosca
-  49.        489 =Wolf=[NO]                         53,330      ™ DB JoeValla
+  49.        489 =Wolf=[NO]                         53,580      ™ DB JoeValla
   50.      46103 scs binman                         53,288      SCS BinMan
   51.      42454 jambrudas                          52,914      Redﾉ PίcκΖ
   52.      48324 b0ldeau                            51,946      Bold
@@ -2174,8 +2178,8 @@ Total_Wealth:
   57.      43143 enesozdil                          47,298      < Enes Özdil >
   58.      45457 picaroon03                         46,430      Picaroon 03
   59.      40242 astraxan                           46,119      [COP] VIAGRA
-  60.      34216 xtremesp33d                        44,629      iodine ²
-  61.      49175 haitiandadttv                      44,129      HaitianDad ttv
+  60.      49175 haitiandadttv                      45,893      HaitianDad ttv
+  61.      34216 xtremesp33d                        44,629      iodine ²
   62.      46021 aligamingarabic                   -44,017      AliGaming
   63.      49279 silva2525                          43,610      silva25
   64.      39882 vartolu_sadettin                   42,601      Das Auto
@@ -2184,7 +2188,7 @@ Total_Wealth:
   67.      48062 topcuzeus                          41,419      [MED] Zeus
   68.      17555 !cr4zy!                           -40,936      ! c r ﾑ z y !
   69.      46227 dragonhi                           40,667      dragonhi
-  70.          4 chucknorris                        40,321      * ‹ :Chuck›
+  70.          4 chucknorris                        40,328      * ‹ :Chuck›
   71.      26082 1993s14                            40,014      2 $low 2 curiou$
   72.      26457 rb26dettlove                      -39,636      el ukrain
   73.      41346 tkgx                              -39,573      [ RDSR ] TKGX
@@ -2353,20 +2357,20 @@ Civil_stats_Driven_distance:
  Rank    User ID Username                  Civil_stats_Driven_distance      Nickname
 ------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                          10,757      whatalife
+   1.      45913 whatalife                          10,791      whatalife
    2.       2107 P V L                               9,918      [ DS ] [TAXI]
    3.      10038 keskitalo                           6,598      #58 KESKITALO
    4.      13773 nssf                                6,344      Dahl GOAT Biker
    5.      48324 b0ldeau                             5,568      Bold
    6.      48810 1divineninja                        4,700      1DivineNinja TTV
    7.      39729 keith_392                           4,581      N u M a
-   8.        489 =Wolf=[NO]                          4,277      ™ DB JoeValla
+   8.        489 =Wolf=[NO]                          4,359      ™ DB JoeValla
    9.       1107 A3rox                               4,265      F alken. A3rox
   10.        731 Lucky Loser                         3,769      [ DS ] Nitram
   11.      22313 heavykick                           3,632      B2 ﾏ Heavy
-  12.      41476 p1nhe1r0                            3,378      P1NHE1RØ
-  13.      48924 faduck                              3,367      FaDuck
-  14.      25704 psykoze                             3,292      [ ﾏ ] Lolita
+  12.      25704 psykoze                             3,380      [ ﾏ ] Lolita
+  13.      41476 p1nhe1r0                            3,378      P1NHE1RØ
+  14.      48924 faduck                              3,367      FaDuck
   15.      49060 just bask                           3,245      bask
   16.      29620 pimpinho62                          3,243      Pim pi nho 62
   17.      45026 gtaplay                             3,111      ＰＩＬＯＴ
@@ -2376,13 +2380,13 @@ Civil_stats_Driven_distance:
   21.      48922 diccus                              2,878      Diccus
   22.      46103 scs binman                          2,871      SCS BinMan
   23.      49279 silva2525                           2,869      silva25
-  24.      22858 gaga5555                            2,759      Majk Bro nxet
+  24.      22858 gaga5555                            2,804      Majk Bro nxet
   25.      46021 aligamingarabic                     2,602      AliGaming
   26.      39516 mehmetgulec                         2,594      ηgµ ｫ japon
   27.       1249 DanLevy91                           2,588      kaz
   28.      43143 enesozdil                           2,478      < Enes Özdil >
-  29.      29480 jonetuu                             2,433      Jonetuu
-  30.      29924 icoha44                             2,371      CCI4
+  29.      29924 icoha44                             2,464      CCI4
+  30.      29480 jonetuu                             2,433      Jonetuu
   31.      41376 glenn quagmire                      2,356      Quagmire
   32.      40998 any333                              2,340      any333
   33.      39882 vartolu_sadettin                    2,337      Das Auto
@@ -2436,10 +2440,10 @@ Civil_stats_Driven_distance:
   81.      40361 cocusz                              1,270      almad T150
   82.      48552 gatisq                              1,259      Gatis
   83.      30454 vilix                               1,253      [TC] ›Vilix‹
-  84.      14929 juanann                             1,246      [ RC ] Reyju
-  85.      26211 9xxadrianxx9                        1,226      [TC] ›Adrian‹
-  86.      44922 luanlk123                           1,223      / / / Anya
-  87.      47374 ross2750                            1,214      Not Ross
+  84.      47374 ross2750                            1,252      Not Ross
+  85.      14929 juanann                             1,246      [ RC ] Reyju
+  86.      26211 9xxadrianxx9                        1,226      [TC] ›Adrian‹
+  87.      44922 luanlk123                           1,223      / / / Anya
   88.      49337 padesiu                             1,209      [COP] Pades IU
   89.      16185 turb0keule                          1,200      Keule
   90.       4166 Valen                               1,200      AWx •Dree X ie
@@ -2557,7 +2561,7 @@ Civil_stats_Driven_distance_on_bikes:
   97.      42023 xs4ncakx                              256      'Sancak
   98.      45112 cionada                               254      F15
   99.      49323 pawlito8100                           239      ‹B.O.S›pawlito8100
- 100.      24823 rmegane                               236      STANCED
+ 100.      24823 rmegane                               238      STANCED
 
 Robber_stats_Driven_distance_being_chased:
  Rank    User ID Username                  Robber_stats_Driven_distance_being_chased      Nickname
@@ -4288,16 +4292,16 @@ Delivery_Started_jobs:
   88.      21023 kanade                                  8      SO • Yukine
   89.      29480 jonetuu                                 8      Jonetuu
   90.       3245 [OD]Jardim                              8      ｢O K｣ Jardim
-  91.      43344 burgerdude24                            8      hamburgir
-  92.      46978 marcius78                               8      Zefkis
-  93.      48946 magicdrip                               8      MagicDrip
-  94.      49342 filipitus                               8      Filipitus
-  95.       6131 Zero7                                   8      Zero7
-  96.      23655 lewis2212                               7      【 Lewis 】
-  97.      43057 map_emece                               7      G ﾏ ™ MAP
-  98.      45444 argamingarabic                          7      Mr r p
-  99.      48589 ugizzs                                  7      ‹B.O.S› ugi zzs
- 100.      48843 eliasmm                                 7      [DBC] pix
+  91.      41196 m4t4n4z1                                8      Jaguara
+  92.      43344 burgerdude24                            8      hamburgir
+  93.      46978 marcius78                               8      Zefkis
+  94.      48946 magicdrip                               8      MagicDrip
+  95.      49342 filipitus                               8      Filipitus
+  96.       6131 Zero7                                   8      Zero7
+  97.      23655 lewis2212                               7      【 Lewis 】
+  98.      43057 map_emece                               7      G ﾏ ™ MAP
+  99.      45444 argamingarabic                          7      Mr r p
+ 100.      48589 ugizzs                                  7      ‹B.O.S› ugi zzs
 
 Delivery_Finished_trips:
  Rank    User ID Username                  Delivery_Finished_trips      Nickname
@@ -4598,21 +4602,21 @@ Delivery_Driven_distance_loaded:
   83.      49406 jonathan918                            28      Jonathan918
   84.      29553 tobberobbe                             28      turbopleb
   85.      48062 topcuzeus                              27      [MED] Zeus
-  86.      44989 rubberband                             26      junkyard 740i
-  87.      28892 ibtasim6781                            25      ghutra
-  88.        299 zak_mull                               25      Sparky
-  89.      43057 map_emece                              25      G ﾏ ™ MAP
-  90.      49127 haker118                               25      Diodas
-  91.      23655 lewis2212                              24      【 Lewis 】
-  92.      48911 aivar44                                24      Bomz[TAXI]
-  93.      49443 itsme_me                               24      itsme_me
-  94.      18423 otone                                  23      Gen R Ricardo
-  95.      23711 erlingtgn                              23      Nordhvald
-  96.       3245 [OD]Jardim                             23      ｢O K｣ Jardim
-  97.      42363 theratox                               23      D ZIN
-  98.      43770 pavle pepsi                            23      Budja[COP]
-  99.      48847 svetoslav2619                          23      Sve tos lav 26
- 100.      49342 filipitus                              23      Filipitus
+  86.      41196 m4t4n4z1                               26      Jaguara
+  87.      44989 rubberband                             26      junkyard 740i
+  88.      28892 ibtasim6781                            25      ghutra
+  89.        299 zak_mull                               25      Sparky
+  90.      43057 map_emece                              25      G ﾏ ™ MAP
+  91.      49127 haker118                               25      Diodas
+  92.      23655 lewis2212                              24      【 Lewis 】
+  93.      48911 aivar44                                24      Bomz[TAXI]
+  94.      49443 itsme_me                               24      itsme_me
+  95.      18423 otone                                  23      Gen R Ricardo
+  96.      23711 erlingtgn                              23      Nordhvald
+  97.       3245 [OD]Jardim                             23      ｢O K｣ Jardim
+  98.      42363 theratox                               23      D ZIN
+  99.      43770 pavle pepsi                            23      Budja[COP]
+ 100.      48847 svetoslav2619                          23      Sve tos lav 26
 
 Delivery_Earned_money:
  Rank    User ID Username                  Delivery_Earned_money      Nickname
@@ -4824,8 +4828,8 @@ Mail_Courier_Delivered_parcels:
   25.      21677 antodrifto                            183      Ant
   26.      17163 wubwubwub                             176      santeXFz
   27.      43685 manubr423                             175      Pipoca ￢
-  28.      49480 wo1fmother                            173      Bud Holhurtz
-  29.      44804 kenji gaming                          170      Mica RHD
+  28.      44804 kenji gaming                          173      Mica RHD
+  29.      49480 wo1fmother                            173      Bud Holhurtz
   30.      39096 novais20                              164      [ROAD] Novais
   31.      39514 dialladk                              154      Alex Jones
   32.       5536 Wobo                                  147      wobo
@@ -4905,7 +4909,7 @@ Mail_Courier_Delivered_kg:
   22.      49480 wo1fmother                            465      Bud Holhurtz
   23.      49230 nora vale                             457      N V
   24.      21677 antodrifto                            456      Ant
-  25.      44804 kenji gaming                          443      Mica RHD
+  25.      44804 kenji gaming                          450      Mica RHD
   26.      17163 wubwubwub                             431      santeXFz
   27.      21023 kanade                                419      SO • Yukine
   28.      45204 luvzc                                 418      Pixie
@@ -4982,7 +4986,7 @@ Mail_Courier_Driven_distance:
   15.      39514 dialladk                              169      Alex Jones
   16.      12536 rubstie                               156      Ru bs tie
   17.      39729 keith_392                             136      N u M a
-  18.      44804 kenji gaming                          121      Mica RHD
+  18.      44804 kenji gaming                          125      Mica RHD
   19.      43685 manubr423                             110      Pipoca ￢
   20.      44069 edzia                                 104      eDziA
   21.      21677 antodrifto                            103      Ant
@@ -5076,7 +5080,7 @@ Mail_Courier_Earned_money:
   22.      39729 keith_392                           1,960      N u M a
   23.      42461 robotokonas                         1,919      Robo
   24.      17163 wubwubwub                           1,881      santeXFz
-  25.      44804 kenji gaming                        1,804      Mica RHD
+  25.      44804 kenji gaming                        1,833      Mica RHD
   26.      28134 ke608                               1,748      YIKES!
   27.      49230 nora vale                           1,723      N V
   28.      21677 antodrifto                          1,566      Ant
@@ -5178,7 +5182,7 @@ Busing_Started_trips:
  Rank    User ID Username                  Busing_Started_trips      Nickname
 -----------------------------------------------------------------------------
 
-   1.      45913 whatalife                             137      whatalife
+   1.      45913 whatalife                             141      whatalife
    2.      46103 scs binman                             62      SCS BinMan
    3.      46227 dragonhi                               53      dragonhi
    4.        731 Lucky Loser                            49      [ DS ] Nitram
@@ -5235,24 +5239,24 @@ Busing_Started_trips:
   55.      42324 bluechewbacca                           3      [LRC] Pasha
   56.      43143 enesozdil                               3      < Enes Özdil >
   57.      46601 strangeguy                              3      ye
-  58.      48414 janivagyok88                            3      janivagyok88
-  59.      49279 silva2525                               3      silva25
-  60.      49540 taly                                    3      taly
-  61.       1041 Berni25                                 2      [ DS ] Berni
-  62.      16185 turb0keule                              2      Keule
-  63.          2 Bug_Mafia                               2      V M . Tuner
-  64.      22041 chris is awesome                        2      H A I Y A A
-  65.      23047 gaaz                                    2      SO • Gaz
-  66.      23655 lewis2212                               2      【 Lewis 】
-  67.      29924 icoha44                                 2      CCI4
-  68.      32674 vajtusbat                               2      KEBAP
-  69.      32870 galofrito                               2      ﾚa .Mafia^Lam .ｧ
-  70.      33723 xxbobixx                                2      xXbobiXx
-  71.      42979 firatrobert_07                          2      R obe r t _
-  72.      43126 rich-add                                2      Jays 7³
-  73.      44069 edzia                                   2      eDziA
-  74.      44804 kenji gaming                            2      Mica RHD
-  75.      47374 ross2750                                2      Not Ross
+  58.      47374 ross2750                                3      Not Ross
+  59.      48414 janivagyok88                            3      janivagyok88
+  60.      49279 silva2525                               3      silva25
+  61.      49540 taly                                    3      taly
+  62.       1041 Berni25                                 2      [ DS ] Berni
+  63.      16185 turb0keule                              2      Keule
+  64.          2 Bug_Mafia                               2      V M . Tuner
+  65.      22041 chris is awesome                        2      H A I Y A A
+  66.      23047 gaaz                                    2      SO • Gaz
+  67.      23655 lewis2212                               2      【 Lewis 】
+  68.      29924 icoha44                                 2      CCI4
+  69.      32674 vajtusbat                               2      KEBAP
+  70.      32870 galofrito                               2      ﾚa .Mafia^Lam .ｧ
+  71.      33723 xxbobixx                                2      xXbobiXx
+  72.      42979 firatrobert_07                          2      R obe r t _
+  73.      43126 rich-add                                2      Jays 7³
+  74.      44069 edzia                                   2      eDziA
+  75.      44804 kenji gaming                            2      Mica RHD
   76.      47731 lotche                                  2      ｬ Lotche
   77.      48478 midranit                                2      Kayra Tevzadze
   78.      48753 manolasus                               2      [ROAD] RAMBO
@@ -5283,7 +5287,7 @@ Busing_Finished_trips:
  Rank    User ID Username                  Busing_Finished_trips      Nickname
 ------------------------------------------------------------------------------
 
-   1.      45913 whatalife                             137      whatalife
+   1.      45913 whatalife                             141      whatalife
    2.      46103 scs binman                             62      SCS BinMan
    3.      46227 dragonhi                               53      dragonhi
    4.        731 Lucky Loser                            49      [ DS ] Nitram
@@ -5340,24 +5344,24 @@ Busing_Finished_trips:
   55.      42324 bluechewbacca                           3      [LRC] Pasha
   56.      43143 enesozdil                               3      < Enes Özdil >
   57.      46601 strangeguy                              3      ye
-  58.      48414 janivagyok88                            3      janivagyok88
-  59.      49279 silva2525                               3      silva25
-  60.      49540 taly                                    3      taly
-  61.       1041 Berni25                                 2      [ DS ] Berni
-  62.      16185 turb0keule                              2      Keule
-  63.          2 Bug_Mafia                               2      V M . Tuner
-  64.      22041 chris is awesome                        2      H A I Y A A
-  65.      23047 gaaz                                    2      SO • Gaz
-  66.      23655 lewis2212                               2      【 Lewis 】
-  67.      29924 icoha44                                 2      CCI4
-  68.      32674 vajtusbat                               2      KEBAP
-  69.      32870 galofrito                               2      ﾚa .Mafia^Lam .ｧ
-  70.      33723 xxbobixx                                2      xXbobiXx
-  71.      42979 firatrobert_07                          2      R obe r t _
-  72.      43126 rich-add                                2      Jays 7³
-  73.      44069 edzia                                   2      eDziA
-  74.      44804 kenji gaming                            2      Mica RHD
-  75.      47374 ross2750                                2      Not Ross
+  58.      47374 ross2750                                3      Not Ross
+  59.      48414 janivagyok88                            3      janivagyok88
+  60.      49279 silva2525                               3      silva25
+  61.      49540 taly                                    3      taly
+  62.       1041 Berni25                                 2      [ DS ] Berni
+  63.      16185 turb0keule                              2      Keule
+  64.          2 Bug_Mafia                               2      V M . Tuner
+  65.      22041 chris is awesome                        2      H A I Y A A
+  66.      23047 gaaz                                    2      SO • Gaz
+  67.      23655 lewis2212                               2      【 Lewis 】
+  68.      29924 icoha44                                 2      CCI4
+  69.      32674 vajtusbat                               2      KEBAP
+  70.      32870 galofrito                               2      ﾚa .Mafia^Lam .ｧ
+  71.      33723 xxbobixx                                2      xXbobiXx
+  72.      42979 firatrobert_07                          2      R obe r t _
+  73.      43126 rich-add                                2      Jays 7³
+  74.      44069 edzia                                   2      eDziA
+  75.      44804 kenji gaming                            2      Mica RHD
   76.      47731 lotche                                  2      ｬ Lotche
   77.      48478 midranit                                2      Kayra Tevzadze
   78.      48753 manolasus                               2      [ROAD] RAMBO
@@ -5388,7 +5392,7 @@ Busing_Driven_distance:
  Rank    User ID Username                  Busing_Driven_distance      Nickname
 -------------------------------------------------------------------------------
 
-   1.      45913 whatalife                             584      whatalife
+   1.      45913 whatalife                             616      whatalife
    2.      36535 raif6708                              376      [TOW] R A IF
    3.      46227 dragonhi                              257      dragonhi
    4.      31311 zgrywus1908                           184      RDR • Zgryw [RES]
@@ -5442,26 +5446,26 @@ Busing_Driven_distance:
   52.      49330 berkereiswt                            20      The Rauch
   53.      42324 bluechewbacca                          19      [LRC] Pasha
   54.      42979 firatrobert_07                         19      R obe r t _
-  55.          2 Bug_Mafia                              18      V M . Tuner
-  56.      22041 chris is awesome                       18      H A I Y A A
-  57.      48911 aivar44                                18      Bomz[TAXI]
-  58.      32870 galofrito                              17      ﾚa .Mafia^Lam .ｧ
-  59.      33723 xxbobixx                               17      xXbobiXx
-  60.      43126 rich-add                               17      Jays 7³
-  61.      38109 gabey1                                 16      ( F F ) Tikvosha
-  62.      45425 by_smoky                               16      Midnight
-  63.      46169 grassic                                16      ηgµ ｫ grassic
-  64.      24635 annon512                               15      Teceka
-  65.      28134 ke608                                  15      YIKES!
-  66.      47731 lotche                                 15      ｬ Lotche
-  67.      45943 eronluc                                14      E R O N
-  68.      49496 berkmericyilmaz                        14      Berk
-  69.      49511 mambanegra                             14      MAMBANEGRA
-  70.      28654 mbt                                    13      ｢O K｣ мвт
-  71.      30637 waszpan82                              13      GHOSTRIDER ®
-  72.       3895 Piggy501                               13      [TC] ›Nick‹ [VCU]
-  73.      44436 wanted king                            13      ηgμ ｫ wanted
-  74.      47374 ross2750                               13      Not Ross
+  55.      47374 ross2750                               19      Not Ross
+  56.          2 Bug_Mafia                              18      V M . Tuner
+  57.      22041 chris is awesome                       18      H A I Y A A
+  58.      48911 aivar44                                18      Bomz[TAXI]
+  59.      32870 galofrito                              17      ﾚa .Mafia^Lam .ｧ
+  60.      33723 xxbobixx                               17      xXbobiXx
+  61.      43126 rich-add                               17      Jays 7³
+  62.      38109 gabey1                                 16      ( F F ) Tikvosha
+  63.      45425 by_smoky                               16      Midnight
+  64.      46169 grassic                                16      ηgµ ｫ grassic
+  65.      24635 annon512                               15      Teceka
+  66.      28134 ke608                                  15      YIKES!
+  67.      47731 lotche                                 15      ｬ Lotche
+  68.      45943 eronluc                                14      E R O N
+  69.      49496 berkmericyilmaz                        14      Berk
+  70.      49511 mambanegra                             14      MAMBANEGRA
+  71.      28654 mbt                                    13      ｢O K｣ мвт
+  72.      30637 waszpan82                              13      GHOSTRIDER ®
+  73.       3895 Piggy501                               13      [TC] ›Nick‹ [VCU]
+  74.      44436 wanted king                            13      ηgμ ｫ wanted
   75.      49112 syco_                                  13      NOGOOD SyCo
   76.      49279 silva2525                              13      silva25
   77.      14785 verbatimz                              12      Neotux :]
@@ -5493,7 +5497,7 @@ Busing_Earned_money:
  Rank    User ID Username                  Busing_Earned_money      Nickname
 ----------------------------------------------------------------------------
 
-   1.      45913 whatalife                          26,441      whatalife
+   1.      45913 whatalife                          27,465      whatalife
    2.      36535 raif6708                           15,301      [TOW] R A IF
    3.      46227 dragonhi                           14,396      dragonhi
    4.      46103 scs binman                          9,250      SCS BinMan
@@ -5540,23 +5544,23 @@ Busing_Earned_money:
   45.      49111 majynsylver                         1,040      Majyn Sylver
   46.      48414 janivagyok88                          903      janivagyok88
   47.         27 Dennis-1994                           883      Paradise
-  48.      42979 firatrobert_07                        830      R obe r t _
-  49.      43126 rich-add                              830      Jays 7³
-  50.      44804 kenji gaming                          824      Mica RHD
-  51.      43143 enesozdil                             814      < Enes Özdil >
-  52.          2 Bug_Mafia                             796      V M . Tuner
-  53.      46169 grassic                               783      ηgµ ｫ grassic
-  54.      43768 marcelsimp                            742      marcelsimp
-  55.      22041 chris is awesome                      741      H A I Y A A
-  56.      32870 galofrito                             737      ﾚa .Mafia^Lam .ｧ
-  57.      42324 bluechewbacca                         729      [LRC] Pasha
-  58.      31975 coyotek                               719      [ROAD]Coyotek
-  59.      28134 ke608                                 697      YIKES!
-  60.      47731 lotche                                674      ｬ Lotche
-  61.      24635 annon512                              659      Teceka
-  62.      49279 silva2525                             639      silva25
-  63.      16185 turb0keule                            598      Keule
-  64.      47374 ross2750                              595      Not Ross
+  48.      47374 ross2750                              878      Not Ross
+  49.      42979 firatrobert_07                        830      R obe r t _
+  50.      43126 rich-add                              830      Jays 7³
+  51.      44804 kenji gaming                          824      Mica RHD
+  52.      43143 enesozdil                             814      < Enes Özdil >
+  53.          2 Bug_Mafia                             796      V M . Tuner
+  54.      46169 grassic                               783      ηgµ ｫ grassic
+  55.      43768 marcelsimp                            742      marcelsimp
+  56.      22041 chris is awesome                      741      H A I Y A A
+  57.      32870 galofrito                             737      ﾚa .Mafia^Lam .ｧ
+  58.      42324 bluechewbacca                         729      [LRC] Pasha
+  59.      31975 coyotek                               719      [ROAD]Coyotek
+  60.      28134 ke608                                 697      YIKES!
+  61.      47731 lotche                                674      ｬ Lotche
+  62.      24635 annon512                              659      Teceka
+  63.      49279 silva2525                             639      silva25
+  64.      16185 turb0keule                            598      Keule
   65.      33723 xxbobixx                              587      xXbobiXx
   66.      30637 waszpan82                             565      GHOSTRIDER ®
   67.       1041 Berni25                               542      [ DS ] Berni
@@ -5765,13 +5769,13 @@ Taxiing_Finished_trips:
   66.      42332 ozanerkaya                              5      [LOS] Boom [COP]
   67.      44922 luanlk123                               5      / / / Anya
   68.      45835 raklomore                               5      rak[ROAD]
-  69.      47714 eugeniuszpro                            5      Eugeniusz
-  70.      35514 mkvilnius                               5      Schteini
-  71.      22170 soras99                                 4      [COP] Erox
-  72.      40141 subarino89                              4      Gio va nni
-  73.      41134 jeff.snn                                4      / / / Jeff
-  74.      43981 mil_014                                 4      [ ﾏ ]Rendon
-  75.      48181 rawly                                   4      Paxzima
+  69.      48181 rawly                                   5      Paxzima
+  70.      47714 eugeniuszpro                            5      Eugeniusz
+  71.      35514 mkvilnius                               5      Schteini
+  72.      22170 soras99                                 4      [COP] Erox
+  73.      40141 subarino89                              4      Gio va nni
+  74.      41134 jeff.snn                                4      / / / Jeff
+  75.      43981 mil_014                                 4      [ ﾏ ]Rendon
   76.      49111 majynsylver                             4      Majyn Sylver
   77.      24635 annon512                                3      Teceka
   78.        299 zak_mull                                3      Sparky
@@ -5852,7 +5856,7 @@ Taxiing_Driven_distance:
   57.      23711 erlingtgn                              15      Nordhvald
   58.      41376 glenn quagmire                         15      Quagmire
   59.      41486 efsorm                                 15      [TAXI] #biziz
-  60.      48181 rawly                                  14      Paxzima
+  60.      48181 rawly                                  15      Paxzima
   61.      40361 cocusz                                 12      almad T150
   62.      41134 jeff.snn                               12      / / / Jeff
   63.      45913 whatalife                              12      whatalife
@@ -5960,14 +5964,14 @@ Taxiing_Earned_money:
   67.      48675 kreba                                 174      ＫＲＥＢＡ
   68.      40672 burgazada                             165      capeta
   69.      47714 eugeniuszpro                          162      Eugeniusz
-  70.      35514 mkvilnius                             140      Schteini
-  71.      39624 sekyin                                139      Sekyin
-  72.      40141 subarino89                            137      Gio va nni
-  73.      49111 majynsylver                           125      Majyn Sylver
-  74.      38215 artislv                               123      [ LV ]Artis
-  75.      45835 raklomore                             120      rak[ROAD]
-  76.      22170 soras99                               118      [COP] Erox
-  77.      48181 rawly                                 118      Paxzima
+  70.      48181 rawly                                 142      Paxzima
+  71.      35514 mkvilnius                             140      Schteini
+  72.      39624 sekyin                                139      Sekyin
+  73.      40141 subarino89                            137      Gio va nni
+  74.      49111 majynsylver                           125      Majyn Sylver
+  75.      38215 artislv                               123      [ LV ]Artis
+  76.      45835 raklomore                             120      rak[ROAD]
+  77.      22170 soras99                               118      [COP] Erox
   78.      42771 h.kasabovv                            116      [TOW] xpxpkckc
   79.      24635 annon512                              113      Teceka
   80.      43981 mil_014                               111      [ ﾏ ]Rendon
@@ -6116,7 +6120,7 @@ Rent_Earned:
   17.      48271 bravehearth                         4,019      # Brave Hearth ..
   18.      27293 J--                                 3,923      V M . January
   19.      46087 yetkinbaba                          3,905      Redﾉ Lancer
-  20.          4 chucknorris                         3,550      * ‹ :Chuck›
+  20.          4 chucknorris                         3,643      * ‹ :Chuck›
   21.       1041 Berni25                             3,533      [ DS ] Berni
   22.      44630 bekirrr                             3,357      Bekir
   23.       2935 PioneerLv                           3,010      [TAXI] _Forwox LAT
@@ -6169,11 +6173,11 @@ Rent_Earned:
   70.      24859 thuglife_                             818      Redﾉ Kaiku
   71.      22170 soras99                               808      [COP] Erox
   72.        571 Drifteris                             800      { SQUID } SIMOX
-  73.      23047 gaaz                                  763      SO • Gaz
-  74.      10038 keskitalo                             749      #58 KESKITALO
-  75.      38227 ilya18101                             749      [COP] Lixy
-  76.      28654 mbt                                   736      ｢O K｣ мвт
-  77.      47374 ross2750                              735      Not Ross
+  73.      47374 ross2750                              790      Not Ross
+  74.      23047 gaaz                                  763      SO • Gaz
+  75.      10038 keskitalo                             749      #58 KESKITALO
+  76.      38227 ilya18101                             749      [COP] Lixy
+  77.      28654 mbt                                   736      ｢O K｣ мвт
   78.      26468 shadowfast                            721      [6S] Hakou [COP]
   79.      45636 biggie48                              707      [ LCS -ﾏ] BIG
   80.      41476 p1nhe1r0                              705      P1NHE1RØ
@@ -6204,15 +6208,15 @@ Rent_Paid:
 
    1.      38196 laurynas683                        13,537      V M . DejaVu
    2.      33376 krisar4321bg                        9,985      [TC]›TDS‹[VCU]
-   3.      17555 !cr4zy!                             9,774      ! c r ﾑ z y !
-   4.      25704 psykoze                             9,632      [ ﾏ ] Lolita
+   3.      25704 psykoze                             9,818      [ ﾏ ] Lolita
+   4.      17555 !cr4zy!                             9,774      ! c r ﾑ z y !
    5.      24464 monster110501                       9,193      C. Midgett
    6.      15750 Shino98                             9,087      [TC-G] Shino
    7.       1249 DanLevy91                           8,361      kaz
    8.       3895 Piggy501                            8,172      [TC] ›Nick‹ [VCU]
-   9.      44849 kinghenny111                        7,673      demontime
-  10.      22858 gaga5555                            7,416      Majk Bro nxet
-  11.        489 =Wolf=[NO]                          6,942      ™ DB JoeValla
+   9.        489 =Wolf=[NO]                          8,129      ™ DB JoeValla
+  10.      44849 kinghenny111                        7,673      demontime
+  11.      22858 gaga5555                            7,416      Majk Bro nxet
   12.      12846 DJmad                               6,756      insurance fraud.
   13.      40659 cgtyksy55                           6,663      Redﾉ CCTV
   14.      48062 topcuzeus                           6,489      [MED] Zeus
@@ -6223,9 +6227,9 @@ Rent_Paid:
   19.      39516 mehmetgulec                         5,524      ηgµ ｫ japon
   20.      44045 sirac.54_                           5,514      [CSR] Muffin
   21.      44922 luanlk123                           5,407      / / / Anya
-  22.      40605 emileker                            5,347      silentkiller [COP]
-  23.      22170 soras99                             5,339      [COP] Erox
-  24.      27293 J--                                 5,299      V M . January
+  22.      27293 J--                                 5,387      V M . January
+  23.      40605 emileker                            5,347      silentkiller [COP]
+  24.      22170 soras99                             5,339      [COP] Erox
   25.       5778 darck.pl                            5,299      D z ej .
   26.      43143 enesozdil                           5,051      < Enes Özdil >
   27.      41796 countess                            4,972      Count
@@ -6293,15 +6297,15 @@ Rent_Paid:
   89.      41376 glenn quagmire                      2,324      Quagmire
   90.      14773 adrianxl                            2,310      D.Adrian
   91.      45840 vt no beat 073                      2,298      VT_
-  92.      39917 ziskox                              2,270      [ RDSR ] Zisko
-  93.       4166 Valen                               2,243      AWx •Dree X ie
-  94.      35012 badkapp62                           2,218      Redﾉ Badkapp
-  95.      49479 theusx44                            2,208      Theusx
-  96.      45114 cezar meireles                      2,207      VRTﾎ R A S H
-  97.      49175 haitiandadttv                       2,207      HaitianDad ttv
-  98.      30415 specdo                              2,179      [PACT] Jocke
-  99.      48789 roksens                             2,158      Roksens
- 100.      45835 raklomore                           2,157      rak[ROAD]
+  92.      49175 haitiandadttv                       2,294      HaitianDad ttv
+  93.      39917 ziskox                              2,270      [ RDSR ] Zisko
+  94.       4166 Valen                               2,243      AWx •Dree X ie
+  95.      35012 badkapp62                           2,218      Redﾉ Badkapp
+  96.      45835 raklomore                           2,210      rak[ROAD]
+  97.      49479 theusx44                            2,208      Theusx
+  98.      45114 cezar meireles                      2,207      VRTﾎ R A S H
+  99.      30415 specdo                              2,179      [PACT] Jocke
+ 100.      48789 roksens                             2,158      Roksens
 
 Comp_Received:
  Rank    User ID Username                    Comp_Received      Nickname
@@ -6536,87 +6540,87 @@ Bingo_Won:
   17.      39729 keith_392                             315      N u M a
   18.        299 zak_mull                              300      Sparky
   19.      48973 naixonn                               300      naixoN
-  20.       3245 [OD]Jardim                            275      ｢O K｣ Jardim
-  21.      40902 sadecealpha                           275      ＧＴＣゑ Alpha°
-  22.      42839 smokynagatha                          275      S a N t o S__
-  23.      44069 edzia                                 260      eDziA
-  24.      30642 w4d3                                  245      ice o lator
-  25.       1249 DanLevy91                             235      kaz
-  26.      48511 wiktor2                               230      W.CARS
-  27.      42691 sopinhas264                           230      sopinhas264
-  28.      32220 compactrhone                          220      ™ DB Rhone
-  29.      10685 SpeedStars.fr                         215      sensei
-  30.      22443 cegonha02                             215      Joao
-  31.      49328 norbenr2                              215      domas
-  32.      49338 yodo19                                215      [ BG ] Yodo
-  33.      29147 nikkihenry                            205      apex
-  34.      45566 stratu1                               205      Stratu1
-  35.      40773 rlight                                200      ARTI
-  36.      41297 mrjoao007                             200      [COP] MONTANELAS
-  37.      41867 lundquist motorsport2                 190      27. G.Lundquist
-  38.      49067 beamerboy75                           190      Beamer
-  39.      39578 tannerwheelman                        160      [ SF ] Hornet SC
-  40.      13756 Drift_Anton                           145      Laphroaig ～ ★
-  41.      19091 xgames123                             145      D eeBeeX
-  42.      23310 xspeedasx                             145      GeddyV
-  43.      38943 playerdynamic                         145      ﾌynamic
-  44.      48324 b0ldeau                               145      Bold
-  45.      48478 midranit                              145      Kayra Tevzadze
-  46.      49053 skid86                                145      [TOW] skid86
-  47.      49182 magrelohvh                            145      Raul
-  48.        731 Lucky Loser                           145      [ DS ] Nitram
-  49.      10116 mopedisti                             130      Santeri
-  50.      17163 wubwubwub                             130      santeXFz
-  51.      17492 proluffe                              130      ™ DB Luffe
-  52.          2 Bug_Mafia                             130      V M . Tuner
-  53.      25809 themanerick                           130      { The Man Erick }
-  54.      26794 fillakilla12                          130      Redﾉ Filla
-  55.      31979 kebaben                               130      Mile Kitic
-  56.      42313 artimeyo                              130      artime
-  57.      42387 kdrsrl116                             130      'Kadir
-  58.      47936 tugrul_tr                             130      TUGRUL _ TR [V900]
-  59.      49224 bgwish                                130      BG WI SH
-  60.       5778 darck.pl                              130      D z ej .
-  61.      18619 d.doig                                115      DOIG
-  62.      25485 thestigusa                            115      Redﾉ Stig
-  63.      26253 lucasazedo                            115      Redﾉ Lucas
-  64.      28148 theverybigtallman                     115      bigdave387
-  65.      29413 lewisfaescotland                      115      KFC
-  66.      32247 goncalovidigal                        115      вмкяgoиcаlo
-  67.      36132 defoclv                               115      rTs · DeFoc
-  68.      39172 latvian video                         115      SO • LV
-  69.      41373 shinigami85                           115      { Squid } Sweety
-  70.      43868 rodrogah                              115      κｓτ 云 Rodroga
-  71.      47706 louda                                 115      Banana • Louda
-  72.      48705 saye312                               115      SAYE312
-  73.        489 =Wolf=[NO]                            115      ™ DB JoeValla
-  74.      48921 enzom                                 115      ~ enzin ~
-  75.      48992 xxuldukis                             115      kostee
-  76.      49077 febryce                               115      Brees
-  77.      49218 sahraoui212                           115      MoroccanDriver|VR|
-  78.      49223 chrisandkitt                          115      CHRISANDKITT
-  79.      49244 sayroo                                115      SayRoo
-  80.      49368 toblas                                115      AlfredoDalo
-  81.       5337 teemu86                               115      Te e mu
-  82.      49510 macius332                             115      Macius332
-  83.      20461 idrun2                                100      Krypto
-  84.      20526 fat wrecked                           100      OZ emi
-  85.      21677 antodrifto                            100      Ant
-  86.      22313 heavykick                             100      B2 ﾏ Heavy
-  87.      23018 longtr                                100      LonGTR
-  88.       2566 SKEETE                                100      Skeete
-  89.      26186 tuupas                                100      Suolitukos
-  90.      26457 rb26dettlove                          100      el ukrain
-  91.      30421 tafu                                  100      tafu
-  92.      30508 octosquad                             100      88. TheUltraRealDave
-  93.      37317 bayanofmansorofisky                   100      Redﾉ BM
-  94.      38724 m4ntas                                100      [COP] Mantis
-  95.      39770 wellynton222                          100      wellynton
-  96.      41868 rashrusted                            100      Rash Rusted
-  97.      44147 yusuf gulden                          100      omer
-  98.      47880 henriquebarbosa                       100      Rattao
-  99.      48374 angel_420                             100      Rimukas
- 100.      48433 thealiveg                             100      TheAliveG
+  20.      47105 buraktzr                              300      BURAKTZR,
+  21.       3245 [OD]Jardim                            275      ｢O K｣ Jardim
+  22.      40902 sadecealpha                           275      ＧＴＣゑ Alpha°
+  23.      42839 smokynagatha                          275      S a N t o S__
+  24.      44069 edzia                                 260      eDziA
+  25.      30642 w4d3                                  245      ice o lator
+  26.       1249 DanLevy91                             235      kaz
+  27.      48511 wiktor2                               230      W.CARS
+  28.      42691 sopinhas264                           230      sopinhas264
+  29.      32220 compactrhone                          220      ™ DB Rhone
+  30.      10685 SpeedStars.fr                         215      sensei
+  31.      22443 cegonha02                             215      Joao
+  32.      49328 norbenr2                              215      domas
+  33.      49338 yodo19                                215      [ BG ] Yodo
+  34.      29147 nikkihenry                            205      apex
+  35.      45566 stratu1                               205      Stratu1
+  36.      40773 rlight                                200      ARTI
+  37.      41297 mrjoao007                             200      [COP] MONTANELAS
+  38.      41867 lundquist motorsport2                 190      27. G.Lundquist
+  39.      49067 beamerboy75                           190      Beamer
+  40.      39578 tannerwheelman                        160      [ SF ] Hornet SC
+  41.      13756 Drift_Anton                           145      Laphroaig ～ ★
+  42.      19091 xgames123                             145      D eeBeeX
+  43.      23310 xspeedasx                             145      GeddyV
+  44.      38943 playerdynamic                         145      ﾌynamic
+  45.      48324 b0ldeau                               145      Bold
+  46.      48478 midranit                              145      Kayra Tevzadze
+  47.      49053 skid86                                145      [TOW] skid86
+  48.      49182 magrelohvh                            145      Raul
+  49.        731 Lucky Loser                           145      [ DS ] Nitram
+  50.      10116 mopedisti                             130      Santeri
+  51.      17163 wubwubwub                             130      santeXFz
+  52.      17492 proluffe                              130      ™ DB Luffe
+  53.          2 Bug_Mafia                             130      V M . Tuner
+  54.      25809 themanerick                           130      { The Man Erick }
+  55.      26794 fillakilla12                          130      Redﾉ Filla
+  56.      31979 kebaben                               130      Mile Kitic
+  57.      42313 artimeyo                              130      artime
+  58.      42387 kdrsrl116                             130      'Kadir
+  59.      47936 tugrul_tr                             130      TUGRUL _ TR [V900]
+  60.      49224 bgwish                                130      BG WI SH
+  61.       5778 darck.pl                              130      D z ej .
+  62.      18619 d.doig                                115      DOIG
+  63.      25485 thestigusa                            115      Redﾉ Stig
+  64.      26253 lucasazedo                            115      Redﾉ Lucas
+  65.      28148 theverybigtallman                     115      bigdave387
+  66.      29413 lewisfaescotland                      115      KFC
+  67.      32247 goncalovidigal                        115      вмкяgoиcаlo
+  68.      36132 defoclv                               115      rTs · DeFoc
+  69.      39172 latvian video                         115      SO • LV
+  70.      41373 shinigami85                           115      { Squid } Sweety
+  71.      43868 rodrogah                              115      κｓτ 云 Rodroga
+  72.      47706 louda                                 115      Banana • Louda
+  73.      48705 saye312                               115      SAYE312
+  74.        489 =Wolf=[NO]                            115      ™ DB JoeValla
+  75.      48921 enzom                                 115      ~ enzin ~
+  76.      48992 xxuldukis                             115      kostee
+  77.      49077 febryce                               115      Brees
+  78.      49218 sahraoui212                           115      MoroccanDriver|VR|
+  79.      49223 chrisandkitt                          115      CHRISANDKITT
+  80.      49244 sayroo                                115      SayRoo
+  81.      49368 toblas                                115      AlfredoDalo
+  82.       5337 teemu86                               115      Te e mu
+  83.      49510 macius332                             115      Macius332
+  84.      20461 idrun2                                100      Krypto
+  85.      20526 fat wrecked                           100      OZ emi
+  86.      21677 antodrifto                            100      Ant
+  87.      22313 heavykick                             100      B2 ﾏ Heavy
+  88.      23018 longtr                                100      LonGTR
+  89.       2566 SKEETE                                100      Skeete
+  90.      26186 tuupas                                100      Suolitukos
+  91.      26457 rb26dettlove                          100      el ukrain
+  92.      30421 tafu                                  100      tafu
+  93.      30508 octosquad                             100      88. TheUltraRealDave
+  94.      37317 bayanofmansorofisky                   100      Redﾉ BM
+  95.      38724 m4ntas                                100      [COP] Mantis
+  96.      39770 wellynton222                          100      wellynton
+  97.      41868 rashrusted                            100      Rash Rusted
+  98.      44147 yusuf gulden                          100      omer
+  99.      47880 henriquebarbosa                       100      Rattao
+ 100.      48374 angel_420                             100      Rimukas
 
 Bingo_Lost:
  Rank    User ID Username                       Bingo_Lost      Nickname
