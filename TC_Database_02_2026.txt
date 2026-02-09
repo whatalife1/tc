@@ -1,6 +1,6 @@
 February 2026
 Data from (dated files): TC_Database_02_2026.db
-Generated on: 2026-02-09 09:01:14
+Generated on: 2026-02-09 11:07:14
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -12,7 +12,7 @@ Driven_distance:
                      Delivery_Driven_distance_loaded:                          82
                      Busing_Driven_distance:                                   79
                      Taxiing_Driven_distance:                                 255
-   2.      45913 whatalife                           3,630      whatalife
+   2.      45913 whatalife                           3,636      whatalife
                      Civil_stats_Driven_distance:                           3,596
                      Civil_stats_Driven_distance_on_bikes:                  2,538
                      Robber_stats_Driven_distance_being_chased:                 7
@@ -56,14 +56,16 @@ Driven_distance:
                      Robber_stats_Driven_distance_being_chased:                25
                      Delivery_Driven_distance_loaded:                         128
                      Taxiing_Driven_distance:                                  59
-  11.      42979 firatrobert_07                      1,128      R obert [COP]
+  11.      30398 barbecuedpossumyt                   1,137      Rﾉ BarbecuedPossum
+                     Civil_stats_Driven_distance:                             938
+  12.      42979 firatrobert_07                      1,128      R obert [COP]
                      Civil_stats_Driven_distance:                             597
                      Civil_stats_Driven_distance_on_bikes:                     78
                      Robber_stats_Driven_distance_being_chased:               162
                      Cop_stats_Driven_distance_as_cop:                        492
                      Cop_stats_Driven_distance_chasing:                       353
                      Roleplaying_Driven_distance_in_SOS_calls:                  2
-  12.      48062 topcuzeus                           1,120      Topcu Zeus
+  13.      48062 topcuzeus                           1,120      Topcu Zeus
                      Civil_stats_Driven_distance:                             709
                      Civil_stats_Driven_distance_on_bikes:                    182
                      Robber_stats_Driven_distance_being_chased:                34
@@ -73,8 +75,6 @@ Driven_distance:
                      Delivery_Driven_distance_loaded:                          52
                      Mail_Courier_Driven_distance:                             21
                      Taxiing_Driven_distance:                                  11
-  13.      30398 barbecuedpossumyt                   1,099      Rﾉ BarbecuedPossum
-                     Civil_stats_Driven_distance:                             900
   14.      48810 1divineninja                        1,064      1DivineNinja TTVdrunk
                      Civil_stats_Driven_distance:                             898
                      Robber_stats_Driven_distance_being_chased:               128
@@ -86,8 +86,8 @@ Driven_distance:
                      Robber_stats_Driven_distance_being_chased:                 8
                      Cop_stats_Driven_distance_as_cop:                         18
                      Cop_stats_Driven_distance_chasing:                         1
-  16.      41376 glenn quagmire                        982      Quagmire
-                     Civil_stats_Driven_distance:                             614
+  16.      41376 glenn quagmire                        989      Quagmire
+                     Civil_stats_Driven_distance:                             621
                      Robber_stats_Driven_distance_being_chased:               102
                      Cop_stats_Driven_distance_as_cop:                        160
                      Cop_stats_Driven_distance_chasing:                       138
@@ -477,10 +477,10 @@ Total_Money:
  Rank    User ID Username                      Total_Money      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                         213,416      whatalife
+   1.      45913 whatalife                         217,688      whatalife
                      Sent_Money:                                 1,070
                      Rece_Money:                                   380
-                     Earned_by_driving:                        123,257
+                     Earned_by_driving:                        123,421
                      Lost_by_driving:                              597
                      Robber_stats_Paid_fines:                       80
                      Roleplaying_Received_donations:               556
@@ -523,16 +523,16 @@ Total_Money:
                      Robber_stats_Paid_fines:                      620
                      Roleplaying_Received_donations:                 5
                      Comp_Received:                                570
-   6.      41376 glenn quagmire                     55,460      Quagmire
+   6.      41376 glenn quagmire                     55,592      Quagmire
                      Sent_Money:                                    50
                      Rece_Money:                                    60
-                     Earned_by_driving:                          7,886
-                     Lost_by_driving:                            8,741
+                     Earned_by_driving:                          8,044
+                     Lost_by_driving:                            8,743
                      Robber_stats_Paid_fines:                    1,982
                      Cop_stats_Received_fines:                     878
                      Roleplaying_Received_donations:               150
                      Busing_Earned_money:                          278
-                     Rent_Paid:                                    868
+                     Rent_Paid:                                    892
                      Comp_Received:                                100
    7.      48062 topcuzeus                         -51,759      Topcu Zeus
                      Earned_by_driving:                         17,909
@@ -1155,7 +1155,14 @@ Total_Money:
                      Rent_Paid:                                  2,647
                      Comp_Received:                              1,130
                      Comp_Sent:                                    240
-  83.      47786 ramco_man8                          7,160      [COP] ramco man 8
+  83.      30398 barbecuedpossumyt                   7,249      Rﾉ BarbecuedPossum
+                     Earned_by_driving:                         11,794
+                     Lost_by_driving:                            5,565
+                     Roleplaying_Received_donations:               275
+                     Rent_Paid:                                     47
+                     Comp_Received:                                170
+                     Bingo_Won:                                    115
+  84.      47786 ramco_man8                          7,160      [COP] ramco man 8
                      Sent_Money:                                   500
                      Rece_Money:                                   200
                      Earned_by_driving:                          8,299
@@ -1167,14 +1174,14 @@ Total_Money:
                      Rent_Paid:                                  1,167
                      Comp_Received:                                440
                      Comp_Sent:                                    330
-  84.      15790 alexb11                             7,155      RDP • Alex [COP]
+  85.      15790 alexb11                             7,155      RDP • Alex [COP]
                      Sent_Money:                                   601
                      Rece_Money:                                   300
                      Earned_by_driving:                          2,418
                      Lost_by_driving:                              153
                      Cop_stats_Received_fines:                   3,481
                      Roleplaying_Received_donations:               100
-  85.      45189 psm05                              -6,938      MarisolRCPL
+  86.      45189 psm05                              -6,938      MarisolRCPL
                      Earned_by_driving:                          3,179
                      Lost_by_driving:                               86
                      Robber_stats_Paid_fines:                    1,250
@@ -1182,20 +1189,13 @@ Total_Money:
                      Rent_Paid:                                    196
                      Comp_Received:                                 70
                      Comp_Sent:                                    110
-  86.       1224 Lisnu                              -6,825      MrClassics
+  87.       1224 Lisnu                              -6,825      MrClassics
                      Earned_by_driving:                         21,350
                      Lost_by_driving:                                3
                      Roleplaying_Paid_donations:                   100
                      Rent_Earned:                                   10
                      Comp_Received:                                320
                      Bingo_Won:                                    145
-  87.      30398 barbecuedpossumyt                   6,742      Rﾉ BarbecuedPossum
-                     Earned_by_driving:                         11,295
-                     Lost_by_driving:                            5,428
-                     Roleplaying_Received_donations:               275
-                     Rent_Paid:                                     47
-                     Comp_Received:                                170
-                     Bingo_Won:                                    115
   88.      40672 burgazada                          -6,733      capeta
                      Earned_by_driving:                          5,078
                      Lost_by_driving:                            1,981
@@ -1386,7 +1386,7 @@ Earned_by_driving:
 --------------------------------------------------------------------------
 
    1.       2107 P V L                             146,190      [ DS ] P V L
-   2.      45913 whatalife                         123,257      whatalife
+   2.      45913 whatalife                         123,421      whatalife
    3.      14439 Gerald31                           42,049      Ho ck ir
    4.      11370 loo77                              33,128      L o o 77
    5.      47628 amagimoon                          32,832      AmagiMoon
@@ -1419,10 +1419,10 @@ Earned_by_driving:
   32.      25809 themanerick                        12,370      { The Man Erick }
   33.      19091 xgames123                          12,133      D eeBeeX
   34.      26082 1993s14                            11,853      2 $low 2 curiou$
-  35.      44639 tomce.                             11,754      tomce.
-  36.      48478 midranit                           11,532      Kayra Tevzadze
-  37.      49036 mfz snipe1out                      11,358      MFZ | SNIPE1 OUT
-  38.      30398 barbecuedpossumyt                  11,295      Rﾉ BarbecuedPossum
+  35.      30398 barbecuedpossumyt                  11,794      Rﾉ BarbecuedPossum
+  36.      44639 tomce.                             11,754      tomce.
+  37.      48478 midranit                           11,532      Kayra Tevzadze
+  38.      49036 mfz snipe1out                      11,358      MFZ | SNIPE1 OUT
   39.      36227 ali awad                           10,982      Mr_Racer024
   40.      37428 sierra335                          10,901      み Sierra
   41.      49540 taly                               10,329      Taly
@@ -1443,7 +1443,7 @@ Earned_by_driving:
   56.      24865 raphi_59                            8,202      [ RDSR ] Raphi
   57.       5778 darck.pl                            8,153      D z ej .
   58.       3704 ian78                               8,094      Ian
-  59.      41376 glenn quagmire                      7,886      Quagmire
+  59.      41376 glenn quagmire                      8,044      Quagmire
   60.      39040 kaiser2                             7,556      BillyCherokee
   61.      39239 jordanvalov                         7,470      [CSR] Yordan
   62.      22127 sensejs                             7,357      FlyElvis
@@ -1499,7 +1499,7 @@ Lost_by_driving:
    7.       3895 Piggy501                            9,695      [TC] ›Nick‹
    8.      38196 laurynas683                         9,279      V M . DejaVu[COP]
    9.      45504 matutkruse                          9,102      Matut
-  10.      41376 glenn quagmire                      8,741      Quagmire
+  10.      41376 glenn quagmire                      8,743      Quagmire
   11.      30933 kentwolf                            8,531      [6S] February
   12.      37428 sierra335                           8,434      み Sierra
   13.      40361 cocusz                              7,400      almad T150
@@ -1513,7 +1513,7 @@ Lost_by_driving:
   21.      39521 ho4hou_kot                          5,986      Ho4Hou_KoT
   22.      46983 shamrox                             5,683      Just woke up.
   23.       1505 klbbadd2002                         5,672      [TC]›Dizzle‹[VCU]
-  24.      30398 barbecuedpossumyt                   5,428      Rﾉ BarbecuedPossum
+  24.      30398 barbecuedpossumyt                   5,565      Rﾉ BarbecuedPossum
   25.      41796 countess                            5,313      Count
   26.      22858 gaga5555                            5,310      Majk Bro nxet
   27.      46552 talhasever_54                       5,289      Prime
@@ -1596,7 +1596,7 @@ Total_Wealth:
 ------------------------------------------------------------------------
 
    1.      29823 mtdgknkbg37                      -220,618      LLort08
-   2.      45913 whatalife                         207,773      whatalife
+   2.      45913 whatalife                         211,883      whatalife
    3.       2107 P V L                             191,280      [ DS ] P V L
    4.      44110 bigdog123777                      176,269      ＧＥＴＺ'ＣＩＩ
    5.      25215 m52b28                            -98,473      Selling (TC) Cars
@@ -1641,7 +1641,7 @@ Total_Wealth:
   44.      42454 jambrudas                          16,538      Rﾉ PίcκΖ [ROAD]
   45.      25809 themanerick                       -15,638      { The Man Erick }
   46.        489 =Wolf=[NO]                        -15,492      ™ DB JoeValla
-  47.      41376 glenn quagmire                    -15,091      Quagmire
+  47.      41376 glenn quagmire                    -14,959      Quagmire
   48.      29924 icoha44                            14,741      CCI4
   49.      29093 hunterhei                          14,500      HunterHei
   50.      11368 sako123                            14,013      [TC-G] LowRider
@@ -1678,7 +1678,7 @@ Total_Wealth:
   81.      24865 raphi_59                           -7,198      [ RDSR ] Raphi
   82.      49631 mergentenjin                        7,162      Mergen
   83.      32443 alau07                             -6,842      [ LCS- マ] Lausk
-  84.      30398 barbecuedpossumyt                  -6,620      Rﾉ BarbecuedPossum
+  84.      30398 barbecuedpossumyt                  -6,679      Rﾉ BarbecuedPossum
   85.      49639 donae36                            -6,612      WSTD
   86.      37836 kropka                             -6,597      // Kr 0 pka
   87.      46103 scs binman                          6,514      SCS BinMan
@@ -1826,9 +1826,9 @@ Civil_stats_Driven_distance:
    9.      41196 m4t4n4z1                            1,027      Ja gua ra
   10.      13424 sxsdt                                 974      Sxsdt
   11.      22313 heavykick                             961      B2 ﾏ Heavy
-  12.      28536 piieter050                            930      Piieter
-  13.      49644 swagducky                             920      Swagducky
-  14.      30398 barbecuedpossumyt                     900      Rﾉ BarbecuedPossum
+  12.      30398 barbecuedpossumyt                     938      Rﾉ BarbecuedPossum
+  13.      28536 piieter050                            930      Piieter
+  14.      49644 swagducky                             920      Swagducky
   15.      29924 icoha44                               898      CCI4
   16.      48810 1divineninja                          898      1DivineNinja TTVdrunk
   17.      49697 carlosmt_360                         -848      empanada
@@ -1849,7 +1849,7 @@ Civil_stats_Driven_distance:
   32.      28459 pro player128                         655      [ FIN ] Soppa
   33.      40361 cocusz                                646      almad T150
   34.      25809 themanerick                           629      { The Man Erick }
-  35.      41376 glenn quagmire                        614      Quagmire
+  35.      41376 glenn quagmire                        621      Quagmire
   36.      49036 mfz snipe1out                         610      MFZ | SNIPE1 OUT
   37.      44639 tomce.                                598      tomce.
   38.      42979 firatrobert_07                        597      R obert [COP]
@@ -4265,12 +4265,12 @@ Rent_Paid:
   53.      36497 giulio niewiadomski                   934      [PM] Vitas 993
   54.       3245 [OD]Jardim                            922      ｢OK｣ Jardim [COP]
   55.      11368 sako123                               910      [TC-G] LowRider
-  56.      29480 jonetuu                               889      Jone
-  57.      20375 notsosideways                         882      [TC-G] Blacktop
-  58.      28536 piieter050                            871      Piieter
-  59.      40974 pauliusna                             868      Paulius N
-  60.      12846 DJmad                                 868      insurance fraud.
-  61.      41376 glenn quagmire                        868      Quagmire
+  56.      41376 glenn quagmire                        892      Quagmire
+  57.      29480 jonetuu                               889      Jone
+  58.      20375 notsosideways                         882      [TC-G] Blacktop
+  59.      28536 piieter050                            871      Piieter
+  60.      40974 pauliusna                             868      Paulius N
+  61.      12846 DJmad                                 868      insurance fraud.
   62.      29823 mtdgknkbg37                           849      LLort08
   63.      45961 snipez1234                            844      Julio69
   64.      40659 cgtyksy55                             830      Redﾉ CCTV
