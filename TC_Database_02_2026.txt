@@ -1,6 +1,6 @@
 February 2026
 Data from (dated files): TC_Database_02_2026.db
-Generated on: 2026-02-17 14:11:22
+Generated on: 2026-02-17 14:18:22
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -22,8 +22,8 @@ Driven_distance:
                      Civil_stats_Driven_distance:                           3,517
                      Civil_stats_Driven_distance_on_bikes:                  3,501
                      Robber_stats_Driven_distance_being_chased:                27
-   4.      38196 laurynas683                         3,054      V M . DejaVu[COP]
-                     Civil_stats_Driven_distance:                           1,565
+   4.      38196 laurynas683                         3,059      V M . DejaVu[COP]
+                     Civil_stats_Driven_distance:                           1,570
                      Civil_stats_Driven_distance_on_bikes:                      8
                      Robber_stats_Driven_distance_being_chased:               282
                      Cop_stats_Driven_distance_as_cop:                      1,400
@@ -290,8 +290,8 @@ Driven_distance:
                      Roleplaying_Driven_distance_as_TOW:                      142
                      Roleplaying_Driven_distance_in_SOS_calls:                 28
                      Delivery_Driven_distance_loaded:                          54
-  52.      43444 slyvute                             1,009      [PACT] Traxyss
-                     Civil_stats_Driven_distance:                             970
+  52.      43444 slyvute                             1,013      [PACT] Traxyss
+                     Civil_stats_Driven_distance:                             974
                      Civil_stats_Driven_distance_on_bikes:                    107
                      Robber_stats_Driven_distance_being_chased:               162
                      Cop_stats_Driven_distance_as_cop:                         40
@@ -375,14 +375,14 @@ Driven_distance:
                      Roleplaying_Driven_distance_as_MED_RES:                  119
                      Roleplaying_Driven_distance_in_SOS_calls:                 10
                      Busing_Driven_distance:                                   42
-  68.      34106 urke_radovanovic                      861      [ DS ] Urke
-                     Civil_stats_Driven_distance:                             860
-                     Robber_stats_Driven_distance_being_chased:                39
-  69.      44818 rahhender                             860      Coca ine_ Boss
-                     Civil_stats_Driven_distance:                             809
+  68.      44818 rahhender                             863      Coca ine_ Boss
+                     Civil_stats_Driven_distance:                             813
                      Civil_stats_Driven_distance_on_bikes:                    118
                      Robber_stats_Driven_distance_being_chased:                 1
                      Taxiing_Driven_distance:                                  20
+  69.      34106 urke_radovanovic                      861      [ DS ] Urke
+                     Civil_stats_Driven_distance:                             860
+                     Robber_stats_Driven_distance_being_chased:                39
   70.      39882 vartolu_sadettin                      854      Das Auto
                      Civil_stats_Driven_distance:                             769
                      Robber_stats_Driven_distance_being_chased:                38
@@ -1273,9 +1273,16 @@ Total_Money:
                      Roleplaying_Received_donations:                50
                      Rent_Earned:                                  391
                      Rent_Paid:                                    425
-  83.      44818 rahhender                         -13,750      Coca ine_ Boss
+  83.      24338 vercetti87                         13,740      G R E T A
+                     Sent_Money:                                     1
+                     Earned_by_driving:                         16,091
+                     Lost_by_driving:                            1,399
+                     Robber_stats_Paid_fines:                      800
+                     Roleplaying_Received_donations:               100
+                     Rent_Paid:                                      5
+  84.      44818 rahhender                         -13,702      Coca ine_ Boss
                      Rece_Money:                                   500
-                     Earned_by_driving:                         16,713
+                     Earned_by_driving:                         16,761
                      Lost_by_driving:                              834
                      Lost_by_stealing:                              27
                      Robber_stats_Paid_fines:                      360
@@ -1283,13 +1290,6 @@ Total_Money:
                      Taxiing_Earned_money:                         582
                      Rent_Paid:                                  2,939
                      Comp_Received:                                510
-  84.      24338 vercetti87                         13,740      G R E T A
-                     Sent_Money:                                     1
-                     Earned_by_driving:                         16,091
-                     Lost_by_driving:                            1,399
-                     Robber_stats_Paid_fines:                      800
-                     Roleplaying_Received_donations:               100
-                     Rent_Paid:                                      5
   85.      27967 siikais1                          -13,687      FPD ™ ClassY
                      Sent_Money:                                     1
                      Earned_by_driving:                          3,445
@@ -1649,7 +1649,7 @@ Earned_by_driving:
   25.      49060 just bask                          26,079      bask
   26.      19091 xgames123                          25,841      D eeBeeX
   27.       1224 Lisnu                              25,435      MrClassics
-  28.      38196 laurynas683                        25,277      V M . DejaVu[COP]
+  28.      38196 laurynas683                        25,336      V M . DejaVu[COP]
   29.      13971 StYL3R                             24,214      dark
   30.      29480 jonetuu                            23,947      Jone
   31.      29924 icoha44                            23,687      CCI4
@@ -1668,7 +1668,7 @@ Earned_by_driving:
   44.      40394 terminatorss                       17,658      Redﾉ Unknown
   45.      22858 gaga5555                           17,631      MAJK BRON XET
   46.      29820 ambolex                            17,475      Ambolex
-  47.      44818 rahhender                          16,713      Coca ine_ Boss
+  47.      44818 rahhender                          16,761      Coca ine_ Boss
   48.       3895 Piggy501                           16,470      [TC] ›Nick‹
   49.      49425 dzejdzej000                        16,276      (BOS) dzejdzej 00
   50.      24338 vercetti87                         16,091      G R E T A
@@ -1688,7 +1688,7 @@ Earned_by_driving:
   64.      39148 luckv                              13,872      LucKy
   65.      43143 enesozdil                          13,804      < Enes Özdil >
   66.      41476 p1nhe1r0                           13,646      P1NHE1RØ
-  67.      43444 slyvute                            13,547      [PACT] Traxyss
+  67.      43444 slyvute                            13,602      [PACT] Traxyss
   68.      45204 luvzc                              13,530      · Pixie ·
   69.      46103 scs binman                         13,393      SCS BinMan
   70.      40672 burgazada                          12,811      capeta
@@ -1839,7 +1839,7 @@ Total_Wealth:
    5.      22127 sensejs                           179,555      FaarLo w
    6.      44110 bigdog123777                      176,269      ＧＥＴＺ'ＣＩＩ
    7.      33903 bedov                              81,125      Velika_Lignja
-   8.      38196 laurynas683                        76,269      V M . DejaVu[COP]
+   8.      38196 laurynas683                        76,320      V M . DejaVu[COP]
    9.      49540 taly                               69,577      Taly
   10.      24634 bkrisztian91                       66,377      [CSR] Botos [ROAD]
   11.      33904 pajcek                            -56,854      Domagoj
@@ -2072,7 +2072,7 @@ Civil_stats_Driven_distance:
   13.      13424 sxsdt                               1,648      Sxsdt
   14.      30398 barbecuedpossumyt                   1,621      Rﾉ BarbecuedPossum
   15.      22443 cegonha02                           1,612      Joao
-  16.      38196 laurynas683                         1,565      V M . DejaVu[COP]
+  16.      38196 laurynas683                         1,570      V M . DejaVu[COP]
   17.      39729 keith_392                           1,528      N u M a
   18.        489 =Wolf=[NO]                          1,527      ™ DB JoeValla
   19.      49540 taly                                1,513      Taly
@@ -2100,7 +2100,7 @@ Civil_stats_Driven_distance:
   41.      41376 glenn quagmire                        996      Quagmire
   42.      41476 p1nhe1r0                              995      P1NHE1RØ
   43.      49763 lana29                                978      Lana
-  44.      43444 slyvute                               970      [PACT] Traxyss
+  44.      43444 slyvute                               974      [PACT] Traxyss
   45.      17555 !cr4zy!                               967      ! c r ﾑ z y !
   46.      25704 psykoze                               943      [ ﾏ ] Lolita
   47.      49441 cukurinslv                            940      Skout
@@ -2112,7 +2112,7 @@ Civil_stats_Driven_distance:
   53.      49697 carlosmt_360                         -848      empanada
   54.      48786 s1a2s1h3k4o5bg                        844      Sash koPat rona
   55.      49506 nyuira                                821      nyuira
-  56.      44818 rahhender                             809      Coca ine_ Boss
+  56.      44818 rahhender                             813      Coca ine_ Boss
   57.      49724 bartugbey                            -806      | Bartuğ Bey |
   58.      12846 DJmad                                 803      insurance fraud.
   59.      32247 goncalovidigal                        802      вмкяgoиcаlo
