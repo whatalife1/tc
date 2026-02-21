@@ -1,6 +1,6 @@
 February 2026
 Data from (dated files): TC_Database_02_2026.db
-Generated on: 2026-02-21 04:24:29
+Generated on: 2026-02-21 06:30:30
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -12,9 +12,9 @@ Driven_distance:
                      Delivery_Driven_distance_loaded:                         100
                      Busing_Driven_distance:                                   79
                      Taxiing_Driven_distance:                                 255
-   2.      45913 whatalife                           9,158      whatalife
-                     Civil_stats_Driven_distance:                           9,092
-                     Civil_stats_Driven_distance_on_bikes:                  6,424
+   2.      45913 whatalife                           9,181      whatalife
+                     Civil_stats_Driven_distance:                           9,115
+                     Civil_stats_Driven_distance_on_bikes:                  6,447
                      Robber_stats_Driven_distance_being_chased:                46
                      Mail_Courier_Driven_distance:                             10
                      Busing_Driven_distance:                                2,418
@@ -132,10 +132,11 @@ Driven_distance:
                      Robber_stats_Driven_distance_being_chased:                10
                      Mail_Courier_Driven_distance:                              7
                      Busing_Driven_distance:                                   32
-  22.      41376 glenn quagmire                      1,679      Quagmire
-                     Civil_stats_Driven_distance:                           1,060
+  22.      41376 glenn quagmire                      1,684      Quagmire
+                     Civil_stats_Driven_distance:                           1,065
+                     Civil_stats_Driven_distance_on_bikes:                      5
                      Robber_stats_Driven_distance_being_chased:               144
-                     Cop_stats_Driven_distance_as_cop:                        410
+                     Cop_stats_Driven_distance_as_cop:                        411
                      Cop_stats_Driven_distance_chasing:                       232
                      Busing_Driven_distance:                                    6
   23.      49540 taly                                1,663      Taly
@@ -327,8 +328,8 @@ Driven_distance:
                      Cop_stats_Driven_distance_chasing:                       445
                      Roleplaying_Driven_distance_as_TOW:                       63
                      Roleplaying_Driven_distance_in_SOS_calls:                  6
-  55.      49036 mfz snipe1out                       1,170      MFZ | SNIPE1 OUT
-                     Civil_stats_Driven_distance:                           1,122
+  55.      49036 mfz snipe1out                       1,185      MFZ | SNIPE1 OUT
+                     Civil_stats_Driven_distance:                           1,137
                      Robber_stats_Driven_distance_being_chased:                67
   56.      39148 luckv                               1,167      LucKy
                      Civil_stats_Driven_distance:                           1,158
@@ -557,15 +558,15 @@ Total_Money:
  Rank    User ID Username                      Total_Money      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                         524,311      whatalife
+   1.      45913 whatalife                         525,403      whatalife
                      Sent_Money:                                 5,250
                      Rece_Money:                                 1,126
-                     Earned_by_driving:                        312,225
+                     Earned_by_driving:                        312,996
                      Lost_by_driving:                              752
                      Robber_stats_Paid_fines:                    3,108
                      Roleplaying_Received_donations:             3,338
                      Mail_Courier_Earned_money:                    173
-                     Busing_Earned_money:                      110,416
+                     Busing_Earned_money:                      110,737
                      Rent_Earned:                                  100
                      Rent_Paid:                                    252
                      Comp_Received:                              1,010
@@ -728,16 +729,16 @@ Total_Money:
                      Busing_Earned_money:                        1,715
                      Rent_Paid:                                  6,196
                      Comp_Received:                              1,340
-  18.      41376 glenn quagmire                     64,770      Quagmire
+  18.      41376 glenn quagmire                     64,559      Quagmire
                      Sent_Money:                                   250
                      Rece_Money:                                    60
-                     Earned_by_driving:                         18,217
-                     Lost_by_driving:                           12,026
+                     Earned_by_driving:                         18,246
+                     Lost_by_driving:                           12,296
                      Robber_stats_Paid_fines:                    3,296
                      Cop_stats_Received_fines:                   1,208
                      Roleplaying_Received_donations:               666
                      Busing_Earned_money:                          278
-                     Rent_Paid:                                  2,302
+                     Rent_Paid:                                  2,308
                      Comp_Received:                                100
   19.      22313 heavykick                          55,867      B2 ﾏ Heavy
                      Earned_by_driving:                          8,764
@@ -1166,10 +1167,10 @@ Total_Money:
                      Roleplaying_Received_donations:               230
                      Delivery_Earned_money:                        282
                      Rent_Paid:                                    438
-  63.      49036 mfz snipe1out                     -21,448      MFZ | SNIPE1 OUT
+  63.      49036 mfz snipe1out                     -21,416      MFZ | SNIPE1 OUT
                      Rece_Money:                                   200
-                     Earned_by_driving:                         19,639
-                     Lost_by_driving:                            2,572
+                     Earned_by_driving:                         19,810
+                     Lost_by_driving:                            2,711
                      Robber_stats_Paid_fines:                    3,179
                      Roleplaying_Paid_donations:                   650
                      Roleplaying_Received_donations:             3,550
@@ -1714,7 +1715,7 @@ Earned_by_driving:
  Rank    User ID Username                  Earned_by_driving      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                         312,225      whatalife
+   1.      45913 whatalife                         312,996      whatalife
    2.       2107 P V L                             240,185      [ DS ] P V L
    3.      13773 nssf                               72,822      Dahl GOAT Biker
    4.      46411 youngbud                           56,575      bud
@@ -1760,13 +1761,13 @@ Earned_by_driving:
   44.         27 Dennis-1994                        20,687      Paradise
   45.      34106 urke_radovanovic                   20,256      [ DS ] Urke
   46.      48786 s1a2s1h3k4o5bg                     20,251      Sash koPat rona
-  47.      49036 mfz snipe1out                      19,639      MFZ | SNIPE1 OUT
+  47.      49036 mfz snipe1out                      19,810      MFZ | SNIPE1 OUT
   48.      49506 nyuira                             19,014      nyuira
   49.      47864 huseyn31                           18,867      * ‹ | Devrem
   50.      22858 gaga5555                           18,861      MAJK BRON XET
   51.       3704 ian78                              18,482      Ian [ROAD]
   52.      41476 p1nhe1r0                           18,388      P1NHE1RØ
-  53.      41376 glenn quagmire                     18,217      Quagmire
+  53.      41376 glenn quagmire                     18,246      Quagmire
   54.      40394 terminatorss                       18,026      Redﾉ Unknown
   55.      43444 slyvute                            17,646      [PACT] Traxyss
   56.      45444 argamingarabic                     17,611      A RGaming
@@ -1838,7 +1839,7 @@ Lost_by_driving:
   17.      32247 goncalovidigal                     13,036      вмкяgoиcаlo
   18.      41796 countess                           12,687      Count
   19.      25704 psykoze                            12,372      [ ﾏ ] Lolita
-  20.      41376 glenn quagmire                     12,026      Quagmire
+  20.      41376 glenn quagmire                     12,296      Quagmire
   21.      22858 gaga5555                           11,493      MAJK BRON XET
   22.      30933 kentwolf                           11,485      [6S] Feb [COP]
   23.       3895 Piggy501                           11,385      [TC] ›Nick‹
@@ -1924,7 +1925,7 @@ Total_Wealth:
  Rank    User ID Username                     Total_Wealth      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                         510,084      whatalife
+   1.      45913 whatalife                         511,078      whatalife
    2.       2107 P V L                             305,170      [ DS ] P V L
    3.      25215 m52b28                           -258,414      Selling (TC) Cars
    4.      29823 mtdgknkbg37                      -221,290      LLort08
@@ -1972,7 +1973,7 @@ Total_Wealth:
   46.      39729 keith_392                          28,936      N u M a
   47.      46169 grassic                            27,865      ηgµ ｫ grassic
   48.      16185 turb0keule                         27,825      Keule
-  49.      49036 mfz snipe1out                      27,573      MFZ | SNIPE1 OUT
+  49.      49036 mfz snipe1out                      27,604      MFZ | SNIPE1 OUT
   50.      49060 just bask                          27,062      bask
   51.      30398 barbecuedpossumyt                 -25,928      Rﾉ BarbecuedPossum
   52.      48924 faduck                             25,732      FaDuck
@@ -2151,7 +2152,7 @@ Civil_stats_Driven_distance:
  Rank    User ID Username                  Civil_stats_Driven_distance      Nickname
 ------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           9,092      whatalife
+   1.      45913 whatalife                           9,115      whatalife
    2.       2107 P V L                               8,908      [ DS ] P V L
    3.      13773 nssf                                4,270      Dahl GOAT Biker
    4.      37428 sierra335                           3,185      み Sierra
@@ -2191,14 +2192,14 @@ Civil_stats_Driven_distance:
   38.      28459 pro player128                       1,239      [ FIN ] Soppa
   39.      22858 gaga5555                            1,211      MAJK BRON XET
   40.      39148 luckv                               1,158      LucKy
-  41.      49548 m4konnen                            1,131      M4K ON NEN
-  42.      49036 mfz snipe1out                       1,122      MFZ | SNIPE1 OUT
+  41.      49036 mfz snipe1out                       1,137      MFZ | SNIPE1 OUT
+  42.      49548 m4konnen                            1,131      M4K ON NEN
   43.      41196 m4t4n4z1                            1,086      Ja gua ra
   44.      49132 ruption ks                          1,071      Rupt KS
   45.      11368 sako123                             1,069      [TC-G] LowRider
   46.      49060 just bask                           1,068      bask
-  47.       1224 Lisnu                               1,064      MrClassics
-  48.      41376 glenn quagmire                      1,060      Quagmire
+  47.      41376 glenn quagmire                      1,065      Quagmire
+  48.       1224 Lisnu                               1,064      MrClassics
   49.      25704 psykoze                             1,032      [ ﾏ ] Lolita
   50.      40361 cocusz                              1,024      almad T150
   51.       3895 Piggy501                            1,019      [TC] ›Nick‹
@@ -2257,7 +2258,7 @@ Civil_stats_Driven_distance_on_bikes:
 ---------------------------------------------------------------------------------------------
 
    1.       2107 P V L                               8,370      [ DS ] P V L
-   2.      45913 whatalife                           6,424      whatalife
+   2.      45913 whatalife                           6,447      whatalife
    3.      13773 nssf                                3,894      Dahl GOAT Biker
    4.      14439 Gerald31                            1,379      Ho ck ir
    5.      26082 1993s14                             1,361      2 $low 2 curiou$
@@ -2894,7 +2895,7 @@ Cop_stats_Driven_distance_as_cop:
   11.      48435 ciuk4s                                566      [COP] XYZ
   12.      43145 milkereus                             482      {SQUID}Revvy
   13.      22170 soras99                               423      [COP] Erox
-  14.      41376 glenn quagmire                        410      Quagmire
+  14.      41376 glenn quagmire                        411      Quagmire
   15.      43573 wampy                                 409      Wa m py ™
   16.      31914 davidslv                              359      [COP] Supreme
   17.       1505 klbbadd2002                           355      [TC]›Dizzle‹[VCU]
@@ -4560,7 +4561,7 @@ Busing_Started_trips:
  Rank    User ID Username                  Busing_Started_trips      Nickname
 -----------------------------------------------------------------------------
 
-   1.      45913 whatalife                             323      whatalife
+   1.      45913 whatalife                             324      whatalife
    2.      11368 sako123                                73      [TC-G] LowRider
    3.      49540 taly                                   42      Taly
    4.      41329 rfi95                                  41      ® F Í 9 5
@@ -4624,7 +4625,7 @@ Busing_Finished_trips:
  Rank    User ID Username                  Busing_Finished_trips      Nickname
 ------------------------------------------------------------------------------
 
-   1.      45913 whatalife                             323      whatalife
+   1.      45913 whatalife                             324      whatalife
    2.      11368 sako123                                73      [TC-G] LowRider
    3.      49540 taly                                   42      Taly
    4.      41329 rfi95                                  41      ® F Í 9 5
@@ -4759,7 +4760,7 @@ Busing_Earned_money:
  Rank    User ID Username                  Busing_Earned_money      Nickname
 ----------------------------------------------------------------------------
 
-   1.      45913 whatalife                         110,416      whatalife
+   1.      45913 whatalife                         110,737      whatalife
    2.      11368 sako123                            26,396      [TC-G] LowRider
    3.      49540 taly                               15,916      Taly
    4.      41329 rfi95                              11,766      ® F Í 9 5
@@ -5311,7 +5312,7 @@ Rent_Paid:
   39.      28536 piieter050                          2,573      Piieter
   40.      30454 vilix                               2,393      [TC] ›Vilix‹
   41.       1238 Rascar13                            2,367      [TC]›Ras‹
-  42.      41376 glenn quagmire                      2,302      Quagmire
+  42.      41376 glenn quagmire                      2,308      Quagmire
   43.      25704 psykoze                             2,298      [ ﾏ ] Lolita
   44.      44829 jellis                              2,277      jellis VR
   45.      44922 luanlk123                           2,274      / / / Anya
