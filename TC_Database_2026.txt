@@ -1,6 +1,6 @@
 2026 Summary
 Data from (dated files): TC_Database_01_2026.db, TC_Database_02_2026.db
-Generated on: 2026-02-24 09:27:03
+Generated on: 2026-02-24 09:50:15
 
 Driven_distance:
  Rank    User ID Username                    Driven_distance      Nickname
@@ -15,15 +15,15 @@ Driven_distance:
                      Delivery_Driven_distance_loaded:                         613
                      Busing_Driven_distance:                                  232
                      Taxiing_Driven_distance:                               1,717
-   2.      45913 whatalife                            25,541      whatalife
+   2.      45913 whatalife                            25,549      whatalife
                  2026/01                              14,192
-                 2026/02                              11,349
-                     Civil_stats_Driven_distance:                          24,935
+                 2026/02                              11,357
+                     Civil_stats_Driven_distance:                          24,943
                      Civil_stats_Driven_distance_on_bikes:                 19,380
                      Robber_stats_Driven_distance_being_chased:               130
                      Delivery_Driven_distance_loaded:                          53
                      Mail_Courier_Driven_distance:                            474
-                     Busing_Driven_distance:                                4,571
+                     Busing_Driven_distance:                                4,578
                      Taxiing_Driven_distance:                                  12
    3.      13773 nssf                                 13,402      Dahl GOAT Biker
                  2026/01                               9,116
@@ -109,10 +109,10 @@ Driven_distance:
                      Roleplaying_Driven_distance_as_MED_RES:                1,681
                      Roleplaying_Driven_distance_in_SOS_calls:                302
                      Delivery_Driven_distance_loaded:                          33
-  12.      48324 b0ldeau                               7,692      Bold
+  12.      48324 b0ldeau                               7,715      Bold
                  2026/01                               7,327
-                 2026/02                                 365
-                     Civil_stats_Driven_distance:                           7,157
+                 2026/02                                 388
+                     Civil_stats_Driven_distance:                           7,180
                      Robber_stats_Driven_distance_being_chased:                69
                      Taxiing_Driven_distance:                                 192
   13.        489 =Wolf=[NO]                            7,060      ™ DB JoeValla
@@ -222,7 +222,16 @@ Driven_distance:
                      Mail_Courier_Driven_distance:                             11
                      Busing_Driven_distance:                                   56
                      Taxiing_Driven_distance:                                  10
-  24.      22858 gaga5555                              5,400      MAJK BRON XET
+  24.      26082 1993s14                               5,410      2 $low 2 curiou$
+                 2026/01                               2,967
+                 2026/02                               2,443
+                     Civil_stats_Driven_distance:                           4,847
+                     Civil_stats_Driven_distance_on_bikes:                  4,098
+                     Robber_stats_Driven_distance_being_chased:               235
+                     Cop_stats_Driven_distance_as_cop:                        192
+                     Cop_stats_Driven_distance_chasing:                       120
+                     Mail_Courier_Driven_distance:                             57
+  25.      22858 gaga5555                              5,400      MAJK BRON XET
                  2026/01                               3,637
                  2026/02                               1,763
                      Civil_stats_Driven_distance:                           5,008
@@ -232,15 +241,6 @@ Driven_distance:
                      Mail_Courier_Driven_distance:                              5
                      Busing_Driven_distance:                                   44
                      Taxiing_Driven_distance:                                 138
-  25.      26082 1993s14                               5,384      2 $low 2 curiou$
-                 2026/01                               2,967
-                 2026/02                               2,417
-                     Civil_stats_Driven_distance:                           4,821
-                     Civil_stats_Driven_distance_on_bikes:                  4,085
-                     Robber_stats_Driven_distance_being_chased:               235
-                     Cop_stats_Driven_distance_as_cop:                        192
-                     Cop_stats_Driven_distance_chasing:                       120
-                     Mail_Courier_Driven_distance:                             57
   26.       1249 DanLevy91                             5,365      kaz
                  2026/01                               2,934
                  2026/02                               2,431
@@ -877,12 +877,12 @@ Total_Money:
  Rank    User ID Username                        Total_Money      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                         1,500,189      whatalife
+   1.      45913 whatalife                         1,500,575      whatalife
                  2026/01                             874,761
-                 2026/02                             625,428
+                 2026/02                             625,814
                      Sent_Money:                                11,160
                      Rece_Money:                                 2,885
-                     Earned_by_driving:                        831,092
+                     Earned_by_driving:                        831,289
                      Lost_by_driving:                            1,656
                      Lost_by_stealing:                           6,914
                      Robber_stats_Paid_fines:                    6,820
@@ -1407,19 +1407,19 @@ Total_Money:
                      Comp_Received:                                630
                      Comp_Sent:                                    140
                      Bingo_Won:                                    145
-  38.      26082 1993s14                              74,284      2 $low 2 curiou$
+  38.      26082 1993s14                              74,819      2 $low 2 curiou$
                  2026/01                              28,324
-                 2026/02                              45,960
+                 2026/02                              46,495
                      Rece_Money:                                   650
-                     Earned_by_driving:                        116,982
-                     Lost_by_driving:                           26,787
+                     Earned_by_driving:                        117,476
+                     Lost_by_driving:                           26,807
                      Robber_stats_Paid_fines:                   11,283
                      Cop_stats_Received_fines:                   1,774
                      Roleplaying_Paid_donations:                 7,719
                      Roleplaying_Received_donations:             3,077
                      Mail_Courier_Earned_money:                    612
                      Rent_Earned:                                6,261
-                     Rent_Paid:                                  3,195
+                     Rent_Paid:                                  3,205
                      Comp_Received:                                890
                      Comp_Sent:                                  2,770
   39.       2566 SKEETE                              -72,874      S keete
@@ -2948,9 +2948,9 @@ Earned_by_driving:
  Rank    User ID Username                    Earned_by_driving      Nickname
 ----------------------------------------------------------------------------
 
-   1.      45913 whatalife                           831,092      whatalife
+   1.      45913 whatalife                           831,289      whatalife
                  2026/01                             453,357
-                 2026/02                             377,735
+                 2026/02                             377,932
    2.       2107 P V L                               706,223      [ DS ] P V L
                  2026/01                             465,967
                  2026/02                             240,256
@@ -2981,9 +2981,9 @@ Earned_by_driving:
   11.      46411 youngbud                            117,890      bud
                  2026/01                              51,336
                  2026/02                              66,554
-  12.      26082 1993s14                             116,982      2 $low 2 curiou$
+  12.      26082 1993s14                             117,476      2 $low 2 curiou$
                  2026/01                              69,544
-                 2026/02                              47,438
+                 2026/02                              47,932
   13.      49239 r4sseli                             111,236      Rasseli
                  2026/01                             103,499
                  2026/02                               7,737
@@ -3023,9 +3023,9 @@ Earned_by_driving:
   25.      48946 magicdrip                            86,986      Magic Drip
                  2026/01                              73,141
                  2026/02                              13,845
-  26.      48324 b0ldeau                              86,214      Bold
+  26.      48324 b0ldeau                              86,398      Bold
                  2026/01                              82,868
-                 2026/02                               3,346
+                 2026/02                               3,530
   27.      49279 silva2525                            85,798      silva25
                  2026/01                              80,758
                  2026/02                               5,040
@@ -3295,9 +3295,9 @@ Lost_by_driving:
   16.      22858 gaga5555                             37,841      MAJK BRON XET
                  2026/01                              25,804
                  2026/02                              12,037
-  17.      48324 b0ldeau                              37,185      Bold
+  17.      48324 b0ldeau                              37,211      Bold
                  2026/01                              34,796
-                 2026/02                               2,389
+                 2026/02                               2,415
   18.      44045 sirac.54_                            35,579      [CSR] Muffin
                  2026/01                              24,151
                  2026/02                              11,428
@@ -3343,9 +3343,9 @@ Lost_by_driving:
   32.      43573 wampy                                27,140      Wa m py ™
                  2026/01                               1,988
                  2026/02                              25,152
-  33.      26082 1993s14                              26,787      2 $low 2 curiou$
+  33.      26082 1993s14                              26,807      2 $low 2 curiou$
                  2026/01                              20,118
-                 2026/02                               6,669
+                 2026/02                               6,689
   34.      36473 jamarsk                              25,312      Ultra Mario
                  2026/01                              11,668
                  2026/02                              13,644
@@ -3549,9 +3549,9 @@ Total_Wealth:
  Rank    User ID Username                       Total_Wealth      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                         1,528,809      whatalife
+   1.      45913 whatalife                         1,529,193      whatalife
                  2026/01                             920,740
-                 2026/02                             608,069
+                 2026/02                             608,453
    2.      25215 m52b28                           -1,417,831      Selling (AFK) Cash
                  2026/01                          -1,228,316
                  2026/02                            -189,515
@@ -3694,12 +3694,12 @@ Total_Wealth:
                  2026/02                             -36,133
   50.      49218 sahraoui212                          86,330      MoroccanDriver|VR|
                  2026/01                              86,330
-  51.      33903 bedov                                84,905      Velika_Lignja
+  51.      26082 1993s14                              85,360      2 $low 2 curiou$
+                 2026/01                              44,430
+                 2026/02                              40,930
+  52.      33903 bedov                                84,905      Velika_Lignja
                  2026/01                                 165
                  2026/02                              84,740
-  52.      26082 1993s14                              84,847      2 $low 2 curiou$
-                 2026/01                              44,430
-                 2026/02                              40,417
   53.      47374 ross2750                             84,779      Not Ross
                  2026/01                              65,393
                  2026/02                              19,386
@@ -3766,9 +3766,9 @@ Total_Wealth:
   75.      43979 serkanbaybek                         63,105      Denz
                  2026/01                              61,980
                  2026/02                               1,125
-  76.      48324 b0ldeau                              63,070      Bold
+  76.      48324 b0ldeau                              63,091      Bold
                  2026/01                              62,601
-                 2026/02                                 469
+                 2026/02                                 490
   77.      49599 maskelilaz                           61,857      [TAXI] Efebey
                  2026/01                                -666
                  2026/02                              62,523
@@ -4427,9 +4427,9 @@ Civil_stats_Driven_distance:
  Rank    User ID Username                    Civil_stats_Driven_distance      Nickname
 --------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                            24,935      whatalife
+   1.      45913 whatalife                            24,943      whatalife
                  2026/01                              13,660
-                 2026/02                              11,275
+                 2026/02                              11,283
    2.       2107 P V L                                22,233      [ DS ] P V L
                  2026/01                              13,322
                  2026/02                               8,911
@@ -4445,9 +4445,9 @@ Civil_stats_Driven_distance:
    6.      39729 keith_392                             7,577      N u M a
                  2026/01                               5,847
                  2026/02                               1,730
-   7.      48324 b0ldeau                               7,157      Bold
+   7.      48324 b0ldeau                               7,180      Bold
                  2026/01                               6,851
-                 2026/02                                 306
+                 2026/02                                 329
    8.        489 =Wolf=[NO]                            7,058      ™ DB JoeValla
                  2026/01                               5,276
                  2026/02                               1,782
@@ -4490,9 +4490,9 @@ Civil_stats_Driven_distance:
   21.      31357 ulfrevo123                            4,881      MAЯїМUГОS
                  2026/01                               2,008
                  2026/02                               2,873
-  22.      26082 1993s14                               4,821      2 $low 2 curiou$
+  22.      26082 1993s14                               4,847      2 $low 2 curiou$
                  2026/01                               2,960
-                 2026/02                               1,861
+                 2026/02                               1,887
   23.      25704 psykoze                               4,689      [ ﾏ ]Lolita
                  2026/01                               3,608
                  2026/02                               1,081
@@ -4751,9 +4751,9 @@ Civil_stats_Driven_distance_on_bikes:
    8.        731 Lucky Loser                           4,230      [ DS ] Nitram
                  2026/01                               4,064
                  2026/02                                 166
-   9.      26082 1993s14                               4,085      2 $low 2 curiou$
+   9.      26082 1993s14                               4,098      2 $low 2 curiou$
                  2026/01                               2,350
-                 2026/02                               1,735
+                 2026/02                               1,748
   10.      37428 sierra335                             3,203      み Sierra
                  2026/01                               2,869
                  2026/02                                 334
@@ -12502,9 +12502,9 @@ Busing_Driven_distance:
  Rank    User ID Username                    Busing_Driven_distance      Nickname
 ---------------------------------------------------------------------------------
 
-   1.      45913 whatalife                             4,571      whatalife
+   1.      45913 whatalife                             4,578      whatalife
                  2026/01                               1,641
-                 2026/02                               2,930
+                 2026/02                               2,937
    2.      11368 sako123                                 705      [TC-G] LowRider
                  2026/01                                 126
                  2026/02                                 579
