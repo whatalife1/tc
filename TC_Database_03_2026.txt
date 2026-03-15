@@ -1,14 +1,14 @@
 March 2026
 Data from (dated files): TC_Database_03_2026.db
-Generated on: 2026-03-15 09:55:07
+Generated on: 2026-03-15 12:01:07
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                           7,012      whatalife
-                     Civil_stats_Driven_distance:                           7,000
-                     Civil_stats_Driven_distance_on_bikes:                  5,434
+   1.      45913 whatalife                           7,119      whatalife
+                     Civil_stats_Driven_distance:                           7,108
+                     Civil_stats_Driven_distance_on_bikes:                  5,542
                      Robber_stats_Driven_distance_being_chased:                10
                      Mail_Courier_Driven_distance:                             17
                      Busing_Driven_distance:                                1,383
@@ -85,14 +85,17 @@ Driven_distance:
                      Civil_stats_Driven_distance:                           1,536
                      Civil_stats_Driven_distance_on_bikes:                    652
                      Robber_stats_Driven_distance_being_chased:               164
-  13.      23754 thijsssiiee                         1,458      [CSR] Thijs
+  13.      47305 griffin20069                        1,496      [ LCS- ﾏ] Girfen
+                     Civil_stats_Driven_distance:                           1,493
+                     Civil_stats_Driven_distance_on_bikes:                    342
+  14.      23754 thijsssiiee                         1,458      [CSR] Thijs
                      Civil_stats_Driven_distance:                             973
                      Civil_stats_Driven_distance_on_bikes:                     10
                      Robber_stats_Driven_distance_being_chased:                66
                      Cop_stats_Driven_distance_as_cop:                        485
                      Cop_stats_Driven_distance_chasing:                       368
                      Roleplaying_Driven_distance_in_SOS_calls:                  3
-  14.      38196 laurynas683                         1,453      V M . DejaVu
+  15.      38196 laurynas683                         1,453      V M . DejaVu
                      Civil_stats_Driven_distance:                           1,220
                      Civil_stats_Driven_distance_on_bikes:                    183
                      Robber_stats_Driven_distance_being_chased:                96
@@ -101,9 +104,6 @@ Driven_distance:
                      Delivery_Driven_distance_loaded:                          16
                      Busing_Driven_distance:                                   18
                      Taxiing_Driven_distance:                                  38
-  15.      47305 griffin20069                        1,450      [ LCS- ﾏ] Girfen
-                     Civil_stats_Driven_distance:                           1,447
-                     Civil_stats_Driven_distance_on_bikes:                    342
   16.      47628 amagimoon                           1,433      Bombyx Mori
                      Civil_stats_Driven_distance:                           1,416
                      Robber_stats_Driven_distance_being_chased:                 2
@@ -166,14 +166,14 @@ Driven_distance:
                      Robber_stats_Driven_distance_being_chased:                32
   29.      43649 orhan45                               988      Mnsli
                      Civil_stats_Driven_distance:                             988
-  30.      31993 aplastador200                         918      [ RDSR ] Aplazt
-                     Civil_stats_Driven_distance:                             392
+  30.      31993 aplastador200                         955      [ RDSR ] Aplazt
+                     Civil_stats_Driven_distance:                             429
                      Civil_stats_Driven_distance_on_bikes:                     68
                      Robber_stats_Driven_distance_being_chased:                26
                      Cop_stats_Driven_distance_as_cop:                        515
                      Cop_stats_Driven_distance_chasing:                       384
                      Roleplaying_Driven_distance_as_MED_RES:                    1
-                     Delivery_Driven_distance_loaded:                          27
+                     Delivery_Driven_distance_loaded:                          47
   31.      35188 agbaltop                              900      AGBAL
                      Civil_stats_Driven_distance:                             900
                      Civil_stats_Driven_distance_on_bikes:                     13
@@ -512,11 +512,11 @@ Total_Money:
  Rank    User ID Username                      Total_Money      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                         312,630      whatalife
+   1.      45913 whatalife                         317,336      whatalife
                      Sent_Money:                                 8,300
                      Rece_Money:                                   438
-                     Earned_by_driving:                        221,689
-                     Lost_by_driving:                              262
+                     Earned_by_driving:                        225,536
+                     Lost_by_driving:                              264
                      Roleplaying_Received_donations:             4,978
                      Mail_Courier_Earned_money:                    180
                      Mail_Courier_Paid_penalties:                   15
@@ -606,9 +606,9 @@ Total_Money:
                      Rent_Earned:                                  512
                      Rent_Paid:                                    965
                      Comp_Received:                                 70
-  12.      47305 griffin20069                       44,857      [ LCS- ﾏ] Girfen
+  12.      47305 griffin20069                       46,118      [ LCS- ﾏ] Girfen
                      Sent_Money:                                   300
-                     Earned_by_driving:                         39,364
+                     Earned_by_driving:                         40,448
                      Lost_by_driving:                              211
                      Roleplaying_Received_donations:               501
                      Rent_Earned:                                  141
@@ -736,23 +736,12 @@ Total_Money:
                      Rent_Paid:                                      6
                      Comp_Received:                                100
                      Comp_Sent:                                    190
-  28.      31993 aplastador200                     -25,078      [ RDSR ] Aplazt
-                     Earned_by_driving:                          9,463
-                     Lost_by_driving:                            2,379
-                     Robber_stats_Paid_fines:                    1,200
-                     Cop_stats_Received_fines:                   6,042
-                     Roleplaying_Paid_donations:                    60
-                     Roleplaying_Received_donations:               210
-                     Delivery_Earned_money:                      1,175
-                     Delivery_Paid_penalties:                      200
-                     Rent_Paid:                                  1,904
-                     Comp_Received:                                180
-  29.      28452 r..                               -24,387      A13
+  28.      28452 r..                               -24,387      A13
                      Sent_Money:                                   200
                      Earned_by_driving:                          2,209
                      Lost_by_driving:                            2,404
                      Rent_Paid:                                    484
-  30.      26308 _aojai_                           -24,380      [GKG] ole_bigN
+  29.      26308 _aojai_                           -24,380      [GKG] ole_bigN
                      Rece_Money:                                   501
                      Earned_by_driving:                         18,986
                      Lost_by_driving:                            1,373
@@ -762,6 +751,17 @@ Total_Money:
                      Rent_Paid:                                  2,136
                      Comp_Received:                                300
                      Comp_Sent:                                    840
+  30.      31993 aplastador200                     -23,171      [ RDSR ] Aplazt
+                     Earned_by_driving:                         10,478
+                     Lost_by_driving:                            2,379
+                     Robber_stats_Paid_fines:                    1,200
+                     Cop_stats_Received_fines:                   6,042
+                     Roleplaying_Paid_donations:                    60
+                     Roleplaying_Received_donations:               210
+                     Delivery_Earned_money:                      2,044
+                     Delivery_Paid_penalties:                      200
+                     Rent_Paid:                                  1,904
+                     Comp_Received:                                180
   31.      32443 alau07                            -23,064      [ LCS- マ] Lausk
                      Sent_Money:                                    89
                      Rece_Money:                                   546
@@ -1485,12 +1485,12 @@ Earned_by_driving:
  Rank    User ID Username                  Earned_by_driving      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                         221,689      whatalife
+   1.      45913 whatalife                         225,536      whatalife
    2.      49599 maskelilaz                         52,926      ＥＦＥＢＥ Ｙ
    3.      49671 mr.carrots                         44,847      7B7R
    4.      31357 ulfrevo123                         42,807      [GKG] MARIMUTOS
    5.      11368 sako123                            40,668      [TC-G] LowRider
-   6.      47305 griffin20069                       39,364      [ LCS- ﾏ] Girfen
+   6.      47305 griffin20069                       40,448      [ LCS- ﾏ] Girfen
    7.      43573 wampy                              35,632      Wa m py ™
    8.      47628 amagimoon                          33,535      Bombyx Mori
    9.      46411 youngbud                           32,780      bud
@@ -1523,11 +1523,11 @@ Earned_by_driving:
   36.      49672 hamtaro.                           10,765      hamtaro
   37.       1238 Rascar13                           10,613      [TC]›Ras‹
   38.      49013 cemld                              10,529      ＮＯＴＯＲＩＯＵＳ
-  39.      49054 dunj                               10,259      DunJ
-  40.      46125 angelopascarella                    9,870      [P R ] Takumi F
-  41.      48324 b0ldeau                             9,648      ßØŁĐ
-  42.      49820 romkazmogiss                        9,550      halogenas
-  43.      31993 aplastador200                       9,463      [ RDSR ] Aplazt
+  39.      31993 aplastador200                      10,478      [ RDSR ] Aplazt
+  40.      49054 dunj                               10,259      DunJ
+  41.      46125 angelopascarella                    9,870      [P R ] Takumi F
+  42.      48324 b0ldeau                             9,648      ßØŁĐ
+  43.      49820 romkazmogiss                        9,550      halogenas
   44.      23018 longtr                              9,387      Lon GTR
   45.      39882 vartolu_sadettin                    9,382      Das Auto
   46.      41476 p1nhe1r0                            9,219      P1NHE1RØ
@@ -1695,14 +1695,14 @@ Total_Wealth:
  Rank    User ID Username                     Total_Wealth      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                         316,569      whatalife
+   1.      45913 whatalife                         321,263      whatalife
    2.      41712 edvinaxas                         101,068      Swim> AWECA
    3.      25215 m52b28                            -99,643      Selling (TC) Cars
    4.      49599 maskelilaz                         58,547      ＥＦＥＢＥ Ｙ
    5.      35188 agbaltop                           51,249      AGBAL
    6.      45026 gtaplay                           -48,138      ＰＩＬＯＴ
    7.      31357 ulfrevo123                         47,261      [GKG] MARIMUTOS
-   8.      47305 griffin20069                       44,463      [ LCS- ﾏ] Girfen
+   8.      47305 griffin20069                       45,724      [ LCS- ﾏ] Girfen
    9.      17555 !cr4zy!                           -41,590      ! c r ﾑ z y !
   10.      43649 orhan45                            38,497      Mnsli
   11.      47628 amagimoon                         -38,398      Bombyx Mori
@@ -1720,10 +1720,10 @@ Total_Wealth:
   23.      26308 _aojai_                            18,303      [GKG] ole_bigN
   24.      38747 sweatformystyle                   -17,449      Max
   25.      47376 evari albo                         17,425      E S T ALBO
-  26.      38196 laurynas683                        16,288      V M . DejaVu
-  27.      47374 ross2750                           16,274      Not Ross
-  28.      34860 ramblinman                        -15,435      Ａｒｔ ☆ Zeyus
-  29.      31993 aplastador200                      14,631      [ RDSR ] Aplazt
+  26.      31993 aplastador200                      16,538      [ RDSR ] Aplazt
+  27.      38196 laurynas683                        16,288      V M . DejaVu
+  28.      47374 ross2750                           16,274      Not Ross
+  29.      34860 ramblinman                        -15,435      Ａｒｔ ☆ Zeyus
   30.      34216 xtremesp33d                        14,534      iodine ²
   31.      35921 edvinasw124                       -14,030      weghrumıı
   32.      49230 nora vale                          13,976      Nora ﾞ
@@ -1919,7 +1919,7 @@ Civil_stats_Driven_distance:
  Rank    User ID Username                  Civil_stats_Driven_distance      Nickname
 ------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           7,000      whatalife
+   1.      45913 whatalife                           7,108      whatalife
    2.      29480 jonetuu                             2,913      Jone
    3.      31357 ulfrevo123                          2,463      [GKG] MARIMUTOS
    4.      32443 alau07                              2,190      [ LCS- マ] Lausk
@@ -1928,7 +1928,7 @@ Civil_stats_Driven_distance:
    7.      46411 youngbud                            1,646      bud
    8.      39867 racing101                           1,552      V M . SMOKEY
    9.      41376 glenn quagmire                      1,536      Quagmire
-  10.      47305 griffin20069                        1,447      [ LCS- ﾏ] Girfen
+  10.      47305 griffin20069                        1,493      [ LCS- ﾏ] Girfen
   11.      47628 amagimoon                           1,416      Bombyx Mori
   12.      43573 wampy                               1,282      Wa m py ™
   13.      49036 mfz snipe1out                       1,250      MFZ | SNIPE1 OUT
@@ -1999,17 +1999,17 @@ Civil_stats_Driven_distance:
   78.      13773 nssf                                  432      Dahl GOAT Biker
   79.      48705 saye312                               431      SAYE312
   80.      48493 zaliasierra                           430      zaliasierra
-  81.      45487 cagri2601                             429      cagri
-  82.      48324 b0ldeau                               429      ßØŁĐ
-  83.      17492 proluffe                              428      ™ DB Luffe
-  84.      49865 cbask439                             -419      cbask439
-  85.       8309 terga                                 419      Tucker Carlson
-  86.      40974 pauliusna                             418      Paulius N
-  87.      44664 abdullahlfs37                         412      Z I M B A
-  88.      49013 cemld                                 412      ＮＯＴＯＲＩＯＵＳ
-  89.      49332 joozinho                             -395      Joozinho
-  90.      49672 hamtaro.                              393      hamtaro
-  91.      31993 aplastador200                         392      [ RDSR ] Aplazt
+  81.      31993 aplastador200                         429      [ RDSR ] Aplazt
+  82.      45487 cagri2601                             429      cagri
+  83.      48324 b0ldeau                               429      ßØŁĐ
+  84.      17492 proluffe                              428      ™ DB Luffe
+  85.      49865 cbask439                             -419      cbask439
+  86.       8309 terga                                 419      Tucker Carlson
+  87.      40974 pauliusna                             418      Paulius N
+  88.      44664 abdullahlfs37                         412      Z I M B A
+  89.      49013 cemld                                 412      ＮＯＴＯＲＩＯＵＳ
+  90.      49332 joozinho                             -395      Joozinho
+  91.      49672 hamtaro.                              393      hamtaro
   92.      35337 transit1                              391      clio
   93.      28452 r..                                   385      A13
   94.      40696 neverdiea                             385      neverdie
@@ -2024,7 +2024,7 @@ Civil_stats_Driven_distance_on_bikes:
  Rank    User ID Username                  Civil_stats_Driven_distance_on_bikes      Nickname
 ---------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           5,434      whatalife
+   1.      45913 whatalife                           5,542      whatalife
    2.      49983 merttuncer                            814      MertTuncer
    3.      49894 galaxy-cards                          804      [FRAUD]
    4.      43573 wampy                                 799      Wa m py ™
@@ -3266,15 +3266,15 @@ Delivery_Started_jobs:
   11.      30855 ez_krieg3r                             16      » derMiepz «
   12.      40088 goncalo190d                            15      Goncalo190d
   13.      49048 muhammedaydmr50                        15      M. AYDEMİR
-  14.      39485 0033549                                13      Hiroshi
-  15.        123 SoNiC_DRiFT                            12      Pablo E36
-  16.        346 stickers2                              11      stickers2
-  17.      49672 hamtaro.                               11      hamtaro
-  18.       1238 Rascar13                               10      [TC]›Ras‹
-  19.      42724 vjustant                               10      vJustAnt
-  20.      48200 volfukas                               10      NE1L 3DZO
-  21.      42909 lordferius                             10      SG ﾏ MadJester
-  22.      31993 aplastador200                           9      [ RDSR ] Aplazt
+  14.      31993 aplastador200                          14      [ RDSR ] Aplazt
+  15.      39485 0033549                                13      Hiroshi
+  16.        123 SoNiC_DRiFT                            12      Pablo E36
+  17.        346 stickers2                              11      stickers2
+  18.      49672 hamtaro.                               11      hamtaro
+  19.       1238 Rascar13                               10      [TC]›Ras‹
+  20.      42724 vjustant                               10      vJustAnt
+  21.      48200 volfukas                               10      NE1L 3DZO
+  22.      42909 lordferius                             10      SG ﾏ MadJester
   23.      43811 sami59593                               9      T.Ryosuke
   24.      49599 maskelilaz                              9      ＥＦＥＢＥ Ｙ
   25.       1283 THE WIZARD DK                           8      THE WIZARD DK ﾂ
@@ -3346,20 +3346,20 @@ Delivery_Finished_trips:
   13.      39485 0033549                                16      Hiroshi
   14.      49721 giggino99                              16      giggino99
   15.      49882 zenamaxx                               15      Zenamaxx
-  16.      40361 cocusz                                 13      almad T150 [TAXI]
-  17.      49048 muhammedaydmr50                        13      M. AYDEMİR
-  18.      49599 maskelilaz                             13      ＥＦＥＢＥ Ｙ
-  19.        123 SoNiC_DRiFT                            12      Pablo E36
-  20.      49672 hamtaro.                               11      hamtaro
-  21.      42909 lordferius                             11      SG ﾏ MadJester
-  22.      49208 mat3rka                                11      Ma t3r ka
-  23.       1238 Rascar13                               10      [TC]›Ras‹
-  24.      40863 augustinaslfs                          10      Augisz
-  25.      49906 lukels                                 10      #48 L.Pakalnis
-  26.      42724 vjustant                                9      vJustAnt
-  27.      43811 sami59593                               9      T.Ryosuke
-  28.       1283 THE WIZARD DK                           8      THE WIZARD DK ﾂ
-  29.      31993 aplastador200                           8      [ RDSR ] Aplazt
+  16.      31993 aplastador200                          13      [ RDSR ] Aplazt
+  17.      40361 cocusz                                 13      almad T150 [TAXI]
+  18.      49048 muhammedaydmr50                        13      M. AYDEMİR
+  19.      49599 maskelilaz                             13      ＥＦＥＢＥ Ｙ
+  20.        123 SoNiC_DRiFT                            12      Pablo E36
+  21.      49672 hamtaro.                               11      hamtaro
+  22.      42909 lordferius                             11      SG ﾏ MadJester
+  23.      49208 mat3rka                                11      Ma t3r ka
+  24.       1238 Rascar13                               10      [TC]›Ras‹
+  25.      40863 augustinaslfs                          10      Augisz
+  26.      49906 lukels                                 10      #48 L.Pakalnis
+  27.      42724 vjustant                                9      vJustAnt
+  28.      43811 sami59593                               9      T.Ryosuke
+  29.       1283 THE WIZARD DK                           8      THE WIZARD DK ﾂ
   30.      48705 saye312                                 8      SAYE312
   31.      49510 macius332                               8      Macius332
   32.      27293 J--                                     7      V M . January
@@ -3409,9 +3409,9 @@ Delivery_Delivered_kg:
 
    1.      11368 sako123                           158,880      [TC-G] LowRider
    2.      28134 ke608                              80,620      YIKES!
-   3.      49871 canakarer                          50,460      cndurden001
-   4.      49672 hamtaro.                           47,860      hamtaro
-   5.      31993 aplastador200                      41,210      [ RDSR ] Aplazt
+   3.      31993 aplastador200                      71,665      [ RDSR ] Aplazt
+   4.      49871 canakarer                          50,460      cndurden001
+   5.      49672 hamtaro.                           47,860      hamtaro
    6.      32443 alau07                             38,300      [ LCS- マ] Lausk
    7.      49633 mikiimiiki                         37,310      mikiimiiki
    8.      42724 vjustant                           36,900      vJustAnt
@@ -3493,17 +3493,17 @@ Delivery_Driven_distance_loaded:
    8.      11368 sako123                                63      [TC-G] LowRider
    9.      12143 thijs-boy                              57      Zkadet
   10.      49871 canakarer                              49      cndurden001
-  11.      30855 ez_krieg3r                             46      » derMiepz «
-  12.        346 stickers2                              42      stickers2
-  13.      49599 maskelilaz                             40      ＥＦＥＢＥ Ｙ
-  14.      49882 zenamaxx                               39      Zenamaxx
-  15.      49048 muhammedaydmr50                        36      M. AYDEMİR
-  16.      49921 acanpro                                36      A. CAN
-  17.       1238 Rascar13                               35      [TC]›Ras‹
-  18.      49208 mat3rka                                33      Ma t3r ka
-  19.        123 SoNiC_DRiFT                            29      Pablo E36
-  20.      39485 0033549                                29      Hiroshi
-  21.      31993 aplastador200                          27      [ RDSR ] Aplazt
+  11.      31993 aplastador200                          47      [ RDSR ] Aplazt
+  12.      30855 ez_krieg3r                             46      » derMiepz «
+  13.        346 stickers2                              42      stickers2
+  14.      49599 maskelilaz                             40      ＥＦＥＢＥ Ｙ
+  15.      49882 zenamaxx                               39      Zenamaxx
+  16.      49048 muhammedaydmr50                        36      M. AYDEMİR
+  17.      49921 acanpro                                36      A. CAN
+  18.       1238 Rascar13                               35      [TC]›Ras‹
+  19.      49208 mat3rka                                33      Ma t3r ka
+  20.        123 SoNiC_DRiFT                            29      Pablo E36
+  21.      39485 0033549                                29      Hiroshi
   22.      49510 macius332                              26      Macius332
   23.      40361 cocusz                                 25      almad T150 [TAXI]
   24.      49672 hamtaro.                               25      hamtaro
@@ -3562,10 +3562,10 @@ Delivery_Earned_money:
 
    1.      11368 sako123                             4,064      [TC-G] LowRider
    2.      28134 ke608                               2,159      YIKES!
-   3.      49633 mikiimiiki                          1,951      mikiimiiki
-   4.       1249 DanLevy91                           1,560      kaz
-   5.      47462 nico_ft                             1,472      nico_ft
-   6.      31993 aplastador200                       1,175      [ RDSR ] Aplazt
+   3.      31993 aplastador200                       2,044      [ RDSR ] Aplazt
+   4.      49633 mikiimiiki                          1,951      mikiimiiki
+   5.       1249 DanLevy91                           1,560      kaz
+   6.      47462 nico_ft                             1,472      nico_ft
    7.      49871 canakarer                           1,144      cndurden001
    8.      49672 hamtaro.                            1,032      hamtaro
    9.      42724 vjustant                            1,023      vJustAnt
