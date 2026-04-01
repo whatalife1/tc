@@ -1,15 +1,16 @@
 April 2026
 Data from (dated files): TC_Database_04_2026.db
-Generated on: 2026-04-01 11:25:05
+Generated on: 2026-04-01 11:32:04
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                             320      whatalife
-                     Civil_stats_Driven_distance:                             286
+   1.      45913 whatalife                             322      whatalife
+                     Civil_stats_Driven_distance:                             288
                      Civil_stats_Driven_distance_on_bikes:                    314
                      Robber_stats_Driven_distance_being_chased:                 2
+                     Busing_Driven_distance:                                    3
    2.      32247 goncalovidigal                         78      вмкяgoиcаlo
    3.      47305 griffin20069                           65      [ LCS- ﾏ] Girfen
                      Civil_stats_Driven_distance:                              65
@@ -17,8 +18,8 @@ Driven_distance:
    4.      47980 thamboo                                65      [P R ] Thamboo
                      Civil_stats_Driven_distance:                              14
                      Civil_stats_Driven_distance_on_bikes:                     24
-   5.      47374 ross2750                               47      Not Ross
-                     Civil_stats_Driven_distance:                              45
+   5.      47374 ross2750                               52      Not Ross
+                     Civil_stats_Driven_distance:                              50
                      Civil_stats_Driven_distance_on_bikes:                     19
                      Roleplaying_Driven_distance_as_MED_RES:                    2
                      Roleplaying_Driven_distance_in_SOS_calls:                  1
@@ -38,8 +39,8 @@ Total_Money:
    1.      47980 thamboo                           -14,476      [P R ] Thamboo
                      Earned_by_driving:                            599
                      Rent_Paid:                                     75
-   2.      45913 whatalife                          10,839      whatalife
-                     Earned_by_driving:                          9,709
+   2.      45913 whatalife                          10,941      whatalife
+                     Earned_by_driving:                          9,811
                      Lost_by_driving:                               29
                      Robber_stats_Paid_fines:                      300
                      Rent_Paid:                                      5
@@ -51,8 +52,8 @@ Total_Money:
                      Robber_stats_Paid_fines:                      317
                      Busing_Earned_money:                          410
                      Rent_Paid:                                     90
-   5.      47374 ross2750                            1,492      Not Ross
-                     Earned_by_driving:                          1,496
+   5.      47374 ross2750                            1,718      Not Ross
+                     Earned_by_driving:                          1,659
                      Lost_by_driving:                               30
                      Rent_Earned:                                   15
                      Rent_Paid:                                     10
@@ -78,9 +79,9 @@ Earned_by_driving:
  Rank    User ID Username                  Earned_by_driving      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                           9,709      whatalife
+   1.      45913 whatalife                           9,811      whatalife
    2.      47305 griffin20069                        2,376      [ LCS- ﾏ] Girfen
-   3.      47374 ross2750                            1,496      Not Ross
+   3.      47374 ross2750                            1,659      Not Ross
    4.      23555 zorrousz                              813      Ｚｏｒｒｏｕｓ :)
    5.      47980 thamboo                               599      [P R ] Thamboo
    6.      35440 regal123                              514      Regal Andre
@@ -98,10 +99,10 @@ Total_Wealth:
  Rank    User ID Username                     Total_Wealth      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                          10,586      whatalife
+   1.      45913 whatalife                          10,683      whatalife
    2.      47305 griffin20069                        2,405      [ LCS- ﾏ] Girfen
    3.      35440 regal123                           -2,080      Regal Andre
-   4.      47374 ross2750                            1,406      Not Ross
+   4.      47374 ross2750                            1,641      Not Ross
    5.      23555 zorrousz                            1,190      Ｚｏｒｒｏｕｓ :)
    6.      32247 goncalovidigal                       -111      вмкяgoиcаlo
    7.      47980 thamboo                                22      [P R ] Thamboo
@@ -128,9 +129,9 @@ Civil_stats_Driven_distance:
  Rank    User ID Username                  Civil_stats_Driven_distance      Nickname
 ------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                             286      whatalife
+   1.      45913 whatalife                             288      whatalife
    2.      47305 griffin20069                           65      [ LCS- ﾏ] Girfen
-   3.      47374 ross2750                               45      Not Ross
+   3.      47374 ross2750                               50      Not Ross
    4.      35440 regal123                               24      Regal Andre
    5.      23555 zorrousz                               20      Ｚｏｒｒｏｕｓ :)
    6.      47980 thamboo                                14      [P R ] Thamboo
@@ -230,6 +231,7 @@ Busing_Driven_distance:
 -------------------------------------------------------------------------------
 
    1.      35440 regal123                               11      Regal Andre
+   2.      45913 whatalife                               3      whatalife
 
 Busing_Earned_money:
  Rank    User ID Username                  Busing_Earned_money      Nickname
