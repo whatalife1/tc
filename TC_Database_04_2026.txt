@@ -1,6 +1,6 @@
 April 2026
 Data from (dated files): TC_Database_04_2026.db
-Generated on: 2026-04-01 17:57:03
+Generated on: 2026-04-01 20:03:03
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -28,19 +28,32 @@ Driven_distance:
    7.      28706 tdilevi                                58      [CSR] Levi
                      Civil_stats_Driven_distance:                              58
                      Civil_stats_Driven_distance_on_bikes:                     44
-   8.      23555 zorrousz                               45      Ｚｏｒｒｏｕｓ :)
+   8.      23754 thijsssiiee                            54      [CSR] Thijs
+   9.      23555 zorrousz                               45      Ｚｏｒｒｏｕｓ :)
                      Civil_stats_Driven_distance:                              20
                      Cop_stats_Driven_distance_as_cop:                         24
                      Cop_stats_Driven_distance_chasing:                         9
-   9.      35440 regal123                               24      Regal Andre
+  10.      35440 regal123                               24      Regal Andre
                      Civil_stats_Driven_distance:                              24
                      Robber_stats_Driven_distance_being_chased:                 6
                      Busing_Driven_distance:                                   11
-  10.      48993 cimars                                 11      DRIVER
+  11.      44045 sirac.54_                              19      [CSR]› Muff ‹[COP]
+                     Civil_stats_Driven_distance:                               5
+                     Cop_stats_Driven_distance_as_cop:                         14
+                     Cop_stats_Driven_distance_chasing:                        14
+  12.      48185 hasnainsenna                           16      HasnainSenna
+                     Civil_stats_Driven_distance:                              16
+                     Robber_stats_Driven_distance_being_chased:                14
+  13.      48993 cimars                                 11      DRIVER
                      Civil_stats_Driven_distance:                              11
                      Busing_Driven_distance:                                    3
-  11.      29639 13brotary                              10      13brotary
+  14.      29639 13brotary                              10      13brotary
                      Civil_stats_Driven_distance:                              10
+  15.      28459 pro player128                           7      [ FIN ] Soppa
+                     Civil_stats_Driven_distance:                               6
+  16.      48400 arieliago                               2      arieliago
+                     Civil_stats_Driven_distance:                               2
+                     Busing_Driven_distance:                                    2
 
 Total_Money:
  Rank    User ID Username                      Total_Money      Nickname
@@ -85,7 +98,23 @@ Total_Money:
   10.      29639 13brotary                             179      13brotary
                      Earned_by_driving:                            200
                      Rent_Paid:                                     21
-  11.      32247 goncalovidigal                          1      вмкяgoиcаlo
+  11.      44045 sirac.54_                             176      [CSR]› Muff ‹[COP]
+                     Earned_by_driving:                            233
+                     Rent_Paid:                                     71
+  12.      48400 arieliago                             115      arieliago
+                     Earned_by_driving:                            115
+  13.      23754 thijsssiiee                           -98      [CSR] Thijs
+                     Rent_Paid:                                     98
+  14.      40605 emileker                               98      silentkiller
+                     Rent_Earned:                                   98
+  15.      28459 pro player128                          61      [ FIN ] Soppa
+                     Earned_by_driving:                             92
+                     Lost_by_driving:                                2
+                     Rent_Paid:                                     29
+  16.      48185 hasnainsenna                            5      HasnainSenna
+                     Earned_by_driving:                             99
+                     Lost_by_driving:                               94
+  17.      32247 goncalovidigal                          1      вмкяgoиcаlo
 
 Time:
  Rank    User ID Username                             Time      Nickname
@@ -95,11 +124,13 @@ Time:
    2.      47374 ross2750                                3      Not Ross
    3.      47980 thamboo                                 2      [P R ] Thamboo
    4.      39867 racing101                               2      V M . SMOKEY
-   5.      32247 goncalovidigal                          1      вмкяgoиcаlo
-   6.      23555 zorrousz                                1      Ｚｏｒｒｏｕｓ :)
-   7.      35440 regal123                                1      Regal Andre
-   8.      28706 tdilevi                                 1      [CSR] Levi
-   9.      29639 13brotary                               1      13brotary
+   5.      23754 thijsssiiee                             2      [CSR] Thijs
+   6.      32247 goncalovidigal                          1      вмкяgoиcаlo
+   7.      23555 zorrousz                                1      Ｚｏｒｒｏｕｓ :)
+   8.      35440 regal123                                1      Regal Andre
+   9.      28706 tdilevi                                 1      [CSR] Levi
+  10.      29639 13brotary                               1      13brotary
+  11.      44045 sirac.54_                               1      [CSR]› Muff ‹[COP]
 
 Earned_by_driving:
  Rank    User ID Username                  Earned_by_driving      Nickname
@@ -114,7 +145,11 @@ Earned_by_driving:
    7.      47980 thamboo                               599      [P R ] Thamboo
    8.      35440 regal123                              514      Regal Andre
    9.      48993 cimars                                236      DRIVER
-  10.      29639 13brotary                             200      13brotary
+  10.      44045 sirac.54_                             233      [CSR]› Muff ‹[COP]
+  11.      29639 13brotary                             200      13brotary
+  12.      48400 arieliago                             115      arieliago
+  13.      48185 hasnainsenna                           99      HasnainSenna
+  14.      28459 pro player128                          92      [ FIN ] Soppa
 
 Lost_by_driving:
  Rank    User ID Username                  Lost_by_driving      Nickname
@@ -122,9 +157,11 @@ Lost_by_driving:
 
    1.      39867 racing101                             178      V M . SMOKEY
    2.      35440 regal123                              105      Regal Andre
-   3.      23555 zorrousz                               52      Ｚｏｒｒｏｕｓ :)
-   4.      47374 ross2750                               33      Not Ross
-   5.      45913 whatalife                              29      whatalife
+   3.      48185 hasnainsenna                           94      HasnainSenna
+   4.      23555 zorrousz                               52      Ｚｏｒｒｏｕｓ :)
+   5.      47374 ross2750                               33      Not Ross
+   6.      45913 whatalife                              29      whatalife
+   7.      28459 pro player128                           2      [ FIN ] Soppa
 
 Total_Wealth:
  Rank    User ID Username                     Total_Wealth      Nickname
@@ -138,9 +175,15 @@ Total_Wealth:
    6.      39867 racing101                           1,486      V M . SMOKEY
    7.      23555 zorrousz                            1,190      Ｚｏｒｒｏｕｓ :)
    8.      48993 cimars                                199      DRIVER
-   9.      29639 13brotary                             177      13brotary
-  10.      32247 goncalovidigal                       -111      вмкяgoиcаlo
-  11.      47980 thamboo                                22      [P R ] Thamboo
+   9.      44045 sirac.54_                             178      [CSR]› Muff ‹[COP]
+  10.      29639 13brotary                             177      13brotary
+  11.      32247 goncalovidigal                       -111      вмкяgoиcаlo
+  12.      23754 thijsssiiee                           -98      [CSR] Thijs
+  13.      40605 emileker                               98      silentkiller
+  14.      48400 arieliago                              95      arieliago
+  15.      28459 pro player128                          66      [ FIN ] Soppa
+  16.      47980 thamboo                                22      [P R ] Thamboo
+  17.      48185 hasnainsenna                           11      HasnainSenna
 
 Hard_crashes:
  Rank    User ID Username                     Hard_crashes      Nickname
@@ -180,9 +223,13 @@ Civil_stats_Driven_distance:
    5.      28706 tdilevi                                58      [CSR] Levi
    6.      35440 regal123                               24      Regal Andre
    7.      23555 zorrousz                               20      Ｚｏｒｒｏｕｓ :)
-   8.      47980 thamboo                                14      [P R ] Thamboo
-   9.      48993 cimars                                 11      DRIVER
-  10.      29639 13brotary                              10      13brotary
+   8.      48185 hasnainsenna                           16      HasnainSenna
+   9.      47980 thamboo                                14      [P R ] Thamboo
+  10.      48993 cimars                                 11      DRIVER
+  11.      29639 13brotary                              10      13brotary
+  12.      28459 pro player128                           6      [ FIN ] Soppa
+  13.      44045 sirac.54_                               5      [CSR]› Muff ‹[COP]
+  14.      48400 arieliago                               2      arieliago
 
 Civil_stats_Driven_distance_on_bikes:
  Rank    User ID Username                  Civil_stats_Driven_distance_on_bikes      Nickname
@@ -198,8 +245,9 @@ Robber_stats_Driven_distance_being_chased:
  Rank    User ID Username                  Robber_stats_Driven_distance_being_chased      Nickname
 --------------------------------------------------------------------------------------------------
 
-   1.      35440 regal123                                6      Regal Andre
-   2.      45913 whatalife                               2      whatalife
+   1.      48185 hasnainsenna                           14      HasnainSenna
+   2.      35440 regal123                                6      Regal Andre
+   3.      45913 whatalife                               2      whatalife
 
 Robber_stats_Paid_fines:
  Rank    User ID Username                  Robber_stats_Paid_fines      Nickname
@@ -208,12 +256,19 @@ Robber_stats_Paid_fines:
    1.      35440 regal123                              317      Regal Andre
    2.      45913 whatalife                             300      whatalife
 
+Robber_stats_Outran_cops:
+ Rank    User ID Username                  Robber_stats_Outran_cops      Nickname
+---------------------------------------------------------------------------------
+
+   1.      48185 hasnainsenna                            1      HasnainSenna
+
 Robber_stats_XP:
  Rank    User ID Username                  Robber_stats_XP      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                              63      whatalife
-   2.      35440 regal123                               47      Regal Andre
+   1.      48185 hasnainsenna                           90      HasnainSenna
+   2.      45913 whatalife                              63      whatalife
+   3.      35440 regal123                               47      Regal Andre
 
 Robber_stats_Attempted_thefts:
  Rank    User ID Username                  Robber_stats_Attempted_thefts      Nickname
@@ -238,12 +293,14 @@ Cop_stats_Driven_distance_as_cop:
 -----------------------------------------------------------------------------------------
 
    1.      23555 zorrousz                               24      Ｚｏｒｒｏｕｓ :)
+   2.      44045 sirac.54_                              14      [CSR]› Muff ‹[COP]
 
 Cop_stats_Driven_distance_chasing:
  Rank    User ID Username                  Cop_stats_Driven_distance_chasing      Nickname
 ------------------------------------------------------------------------------------------
 
-   1.      23555 zorrousz                                9      Ｚｏｒｒｏｕｓ :)
+   1.      44045 sirac.54_                              14      [CSR]› Muff ‹[COP]
+   2.      23555 zorrousz                                9      Ｚｏｒｒｏｕｓ :)
 
 Cop_stats_Received_fines:
  Rank    User ID Username                  Cop_stats_Received_fines      Nickname
@@ -302,6 +359,7 @@ Busing_Driven_distance:
    1.      45913 whatalife                              37      whatalife
    2.      35440 regal123                               11      Regal Andre
    3.      48993 cimars                                  3      DRIVER
+   4.      48400 arieliago                               2      arieliago
 
 Busing_Earned_money:
  Rank    User ID Username                  Busing_Earned_money      Nickname
@@ -314,17 +372,21 @@ Rent_Earned:
  Rank    User ID Username                      Rent_Earned      Nickname
 ------------------------------------------------------------------------
 
-   1.      47374 ross2750                               15      Not Ross
+   1.      40605 emileker                               98      silentkiller
+   2.      47374 ross2750                               15      Not Ross
 
 Rent_Paid:
  Rank    User ID Username                        Rent_Paid      Nickname
 ------------------------------------------------------------------------
 
    1.      23555 zorrousz                              156      Ｚｏｒｒｏｕｓ :)
-   2.      35440 regal123                               90      Regal Andre
-   3.      47980 thamboo                                75      [P R ] Thamboo
-   4.      48993 cimars                                 38      DRIVER
-   5.      29639 13brotary                              21      13brotary
-   6.      47374 ross2750                               10      Not Ross
-   7.      45913 whatalife                               5      whatalife
+   2.      23754 thijsssiiee                            98      [CSR] Thijs
+   3.      35440 regal123                               90      Regal Andre
+   4.      47980 thamboo                                75      [P R ] Thamboo
+   5.      44045 sirac.54_                              71      [CSR]› Muff ‹[COP]
+   6.      48993 cimars                                 38      DRIVER
+   7.      28459 pro player128                          29      [ FIN ] Soppa
+   8.      29639 13brotary                              21      13brotary
+   9.      47374 ross2750                               10      Not Ross
+  10.      45913 whatalife                               5      whatalife
 
