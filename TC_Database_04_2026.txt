@@ -1,16 +1,17 @@
 April 2026
 Data from (dated files): TC_Database_04_2026.db
-Generated on: 2026-04-05 10:16:05
+Generated on: 2026-04-05 12:22:04
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                           2,094      whatalife
-                     Civil_stats_Driven_distance:                           2,060
-                     Civil_stats_Driven_distance_on_bikes:                  1,869
+   1.      45913 whatalife                           2,152      whatalife
+                     Civil_stats_Driven_distance:                           2,118
+                     Civil_stats_Driven_distance_on_bikes:                  1,909
                      Robber_stats_Driven_distance_being_chased:                 2
-                     Busing_Driven_distance:                                  217
+                     Mail_Courier_Driven_distance:                             13
+                     Busing_Driven_distance:                                  220
    2.      39867 racing101                           1,253      V M . SMOKEY
                      Civil_stats_Driven_distance:                           1,214
                      Robber_stats_Driven_distance_being_chased:                74
@@ -340,14 +341,15 @@ Total_Money:
  Rank    User ID Username                      Total_Money      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                          80,421      whatalife
+   1.      45913 whatalife                          82,473      whatalife
                      Sent_Money:                                   500
-                     Earned_by_driving:                         61,185
-                     Lost_by_driving:                               71
+                     Earned_by_driving:                         62,736
+                     Lost_by_driving:                               89
                      Robber_stats_Paid_fines:                      300
                      Roleplaying_Received_donations:                 7
+                     Mail_Courier_Earned_money:                    200
                      Busing_Earned_money:                        7,944
-                     Rent_Paid:                                      5
+                     Rent_Paid:                                     10
                      Comp_Received:                                430
                      Comp_Sent:                                    430
    2.      48924 faduck                             35,925      Brown Rice
@@ -871,8 +873,8 @@ Time:
  Rank    User ID Username                             Time      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                              38      whatalife
-   2.      32443 alau07                                 38      [MED] Lausk
+   1.      45913 whatalife                              40      whatalife
+   2.      32443 alau07                                 40      [MED] Lausk
    3.      23754 thijsssiiee                            17      [CSR] Thijs
    4.      39867 racing101                              15      V M . SMOKEY
    5.      46590 miguelaleaf                            12      MIGUEL BUT PINK
@@ -1013,7 +1015,7 @@ Earned_by_driving:
  Rank    User ID Username                  Earned_by_driving      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                          61,185      whatalife
+   1.      45913 whatalife                          62,736      whatalife
    2.      47305 griffin20069                       14,806      [ LCS- ﾏ] Girfen
    3.      32443 alau07                             14,747      [MED] Lausk
    4.      46590 miguelaleaf                        10,991      MIGUEL BUT PINK
@@ -1154,8 +1156,8 @@ Lost_by_driving:
   34.      25968 atthis                                105      [ PM ] FLYING ET
   35.      23555 zorrousz                               93      Ｚｏｒｒｏｕｓ :)
   36.      46978 marcius78                              91      Zefkis
-  37.      49171 gustavo mendon                         75      Gustavo
-  38.      45913 whatalife                              71      whatalife
+  37.      45913 whatalife                              89      whatalife
+  38.      49171 gustavo mendon                         75      Gustavo
   39.      25529 hardovsky                              69      ｐｅｎｔｉｕｍⅡ
   40.      47138 viktolo                                66      T A V -VIKTOLO
   41.      49599 maskelilaz                             65      ＥＦＥＢＥ Ｙ
@@ -1223,7 +1225,7 @@ Total_Wealth:
  Rank    User ID Username                     Total_Wealth      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                          78,243      whatalife
+   1.      45913 whatalife                          80,093      whatalife
    2.      32443 alau07                             42,684      [MED] Lausk
    3.      28459 pro player128                     -25,427      [ FIN ] Soppa
    4.      47305 griffin20069                       16,290      [ LCS- ﾏ] Girfen
@@ -1386,7 +1388,7 @@ Civil_stats_Playing_time_civilian:
  Rank    User ID Username                  Civil_stats_Playing_time_civilian      Nickname
 ------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                              38      whatalife
+   1.      45913 whatalife                              40      whatalife
    2.      39867 racing101                              15      V M . SMOKEY
    3.      23754 thijsssiiee                            11      [CSR] Thijs
    4.      32443 alau07                                 11      [MED] Lausk
@@ -1491,7 +1493,7 @@ Civil_stats_Driven_distance:
  Rank    User ID Username                  Civil_stats_Driven_distance      Nickname
 ------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           2,060      whatalife
+   1.      45913 whatalife                           2,118      whatalife
    2.      39867 racing101                           1,214      V M . SMOKEY
    3.      23754 thijsssiiee                           491      [CSR] Thijs
    4.      32443 alau07                                462      [MED] Lausk
@@ -1596,7 +1598,7 @@ Civil_stats_Driven_distance_on_bikes:
  Rank    User ID Username                  Civil_stats_Driven_distance_on_bikes      Nickname
 ---------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           1,869      whatalife
+   1.      45913 whatalife                           1,909      whatalife
    2.      47305 griffin20069                          313      [ LCS- ﾏ] Girfen
    3.      26482 porsche_tune                          305      [GKG] LEGO
    4.      41376 glenn quagmire                        261      Quagmire
@@ -2104,6 +2106,7 @@ Mail_Courier_Delivered_parcels:
    3.      46590 miguelaleaf                           140      MIGUEL BUT PINK
    4.      45204 luvzc                                 111      Pixel
    5.      21023 kanade                                105      [TC-G] Yukine
+   6.      45913 whatalife                              27      whatalife
 
 Mail_Courier_Delivered_kg:
  Rank    User ID Username                  Mail_Courier_Delivered_kg      Nickname
@@ -2114,6 +2117,7 @@ Mail_Courier_Delivered_kg:
    3.      45204 luvzc                                 286      Pixel
    4.      21023 kanade                                276      [TC-G] Yukine
    5.      46590 miguelaleaf                           147      MIGUEL BUT PINK
+   6.      45913 whatalife                              40      whatalife
 
 Mail_Courier_Driven_distance:
  Rank    User ID Username                  Mail_Courier_Driven_distance      Nickname
@@ -2123,7 +2127,8 @@ Mail_Courier_Driven_distance:
    2.      49599 maskelilaz                             64      ＥＦＥＢＥ Ｙ
    3.      46590 miguelaleaf                            43      MIGUEL BUT PINK
    4.      45204 luvzc                                  19      Pixel
-   5.      21023 kanade                                 12      [TC-G] Yukine
+   5.      45913 whatalife                              13      whatalife
+   6.      21023 kanade                                 12      [TC-G] Yukine
 
 Mail_Courier_Earned_money:
  Rank    User ID Username                  Mail_Courier_Earned_money      Nickname
@@ -2134,6 +2139,7 @@ Mail_Courier_Earned_money:
    3.      46590 miguelaleaf                           885      MIGUEL BUT PINK
    4.      45204 luvzc                                 816      Pixel
    5.      21023 kanade                                666      [TC-G] Yukine
+   6.      45913 whatalife                             200      whatalife
 
 Mail_Courier_Paid_penalties:
  Rank    User ID Username                  Mail_Courier_Paid_penalties      Nickname
@@ -2167,7 +2173,7 @@ Busing_Driven_distance:
  Rank    User ID Username                  Busing_Driven_distance      Nickname
 -------------------------------------------------------------------------------
 
-   1.      45913 whatalife                             217      whatalife
+   1.      45913 whatalife                             220      whatalife
    2.      43811 sami59593                              19      T.Ryosuke
    3.      49599 maskelilaz                             14      ＥＦＥＢＥ Ｙ
    4.      35440 regal123                               11      Regal Andre
@@ -2370,15 +2376,15 @@ Rent_Paid:
   81.      25215 m52b28                                 11      Selling (TC) Cars
   82.      34216 xtremesp33d                            11      iodine ²
   83.      46503 monks1                                 11      [PACT] Monks
-  84.      47374 ross2750                               10      Not Ross
-  85.      49527 lincolnalemao                          10      lcn
-  86.      47864 huseyn31                                8      unnamed
-  87.      49171 gustavo mendon                          8      Gustavo
-  88.      29892 xseap-on                                7      exgang-emir
-  89.      32468 enderblazex271                          6      Blue Jay
-  90.      13794 nevatt48                                6      Nedved
-  91.      28626 scoezza                                 6      [COP] Ezza
-  92.      45913 whatalife                               5      whatalife
+  84.      45913 whatalife                              10      whatalife
+  85.      47374 ross2750                               10      Not Ross
+  86.      49527 lincolnalemao                          10      lcn
+  87.      47864 huseyn31                                8      unnamed
+  88.      49171 gustavo mendon                          8      Gustavo
+  89.      29892 xseap-on                                7      exgang-emir
+  90.      32468 enderblazex271                          6      Blue Jay
+  91.      13794 nevatt48                                6      Nedved
+  92.      28626 scoezza                                 6      [COP] Ezza
   93.      49223 chrisandkitt                            5      CHRISANDKITT
   94.      43471 hkuzucu06                               5      Huseyin K.
   95.      40583 petrikus                                5      Pet er
