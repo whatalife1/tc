@@ -1,14 +1,14 @@
 April 2026
 Data from (dated files): TC_Database_04_2026.db
-Generated on: 2026-04-07 09:10:06
+Generated on: 2026-04-07 09:17:05
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                           3,240      whatalife
-                     Civil_stats_Driven_distance:                           3,207
-                     Civil_stats_Driven_distance_on_bikes:                  2,846
+   1.      45913 whatalife                           3,250      whatalife
+                     Civil_stats_Driven_distance:                           3,216
+                     Civil_stats_Driven_distance_on_bikes:                  2,855
                      Robber_stats_Driven_distance_being_chased:                 2
                      Mail_Courier_Driven_distance:                             13
                      Busing_Driven_distance:                                  368
@@ -129,12 +129,12 @@ Driven_distance:
   27.      48786 s1a2s1h3k4o5bg                        250      Sash koPat rona
                      Civil_stats_Driven_distance:                             250
                      Robber_stats_Driven_distance_being_chased:                 1
-  28.      35128 pete211g                              234      †SRT e † Squis h
+  28.      50024 lau_r.d                               239      lau
+                     Civil_stats_Driven_distance:                             239
+                     Civil_stats_Driven_distance_on_bikes:                    239
+  29.      35128 pete211g                              234      †SRT e † Squis h
                      Civil_stats_Driven_distance:                             235
                      Civil_stats_Driven_distance_on_bikes:                    126
-  29.      50024 lau_r.d                               230      lau
-                     Civil_stats_Driven_distance:                             230
-                     Civil_stats_Driven_distance_on_bikes:                    230
   30.      17555 !cr4zy!                               227      ! c r ﾑ z y !
                      Civil_stats_Driven_distance:                             227
                      Civil_stats_Driven_distance_on_bikes:                     72
@@ -375,9 +375,9 @@ Total_Money:
  Rank    User ID Username                      Total_Money      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                         121,115      whatalife
+   1.      45913 whatalife                         121,562      whatalife
                      Sent_Money:                                   950
-                     Earned_by_driving:                         93,354
+                     Earned_by_driving:                         93,620
                      Lost_by_driving:                               91
                      Robber_stats_Paid_fines:                      300
                      Roleplaying_Received_donations:               287
@@ -549,7 +549,11 @@ Total_Money:
                      Lost_by_driving:                              187
                      Cop_stats_Received_fines:                     785
                      Roleplaying_Paid_donations:                   600
-  29.      39867 racing101                           5,637      V M . SMOKEY
+  29.      50024 lau_r.d                             5,641      lau
+                     Rece_Money:                                   100
+                     Earned_by_driving:                          4,701
+                     Lost_by_driving:                               61
+  30.      39867 racing101                           5,637      V M . SMOKEY
                      Sent_Money:                                     1
                      Rece_Money:                                   300
                      Earned_by_driving:                         12,220
@@ -561,10 +565,6 @@ Total_Money:
                      Rent_Paid:                                  3,515
                      Comp_Received:                                 80
                      Comp_Sent:                                    480
-  30.      50024 lau_r.d                             5,459      lau
-                     Rece_Money:                                   100
-                     Earned_by_driving:                          4,515
-                     Lost_by_driving:                               57
   31.      28654 mbt                                -4,996      ｢O K｣ мвт
                      Earned_by_driving:                             27
                      Lost_by_driving:                                3
@@ -1090,7 +1090,7 @@ Earned_by_driving:
  Rank    User ID Username                  Earned_by_driving      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                          93,354      whatalife
+   1.      45913 whatalife                          93,620      whatalife
    2.      32443 alau07                             19,244      [MED] AFK
    3.      47305 griffin20069                       14,806      [ LCS- ﾏ] Girfen
    4.      46590 miguelaleaf                        14,348      MIGUEL WITH HELMET
@@ -1112,8 +1112,8 @@ Earned_by_driving:
   20.      47374 ross2750                            5,041      Not Ross
   21.      41796 countess                            4,957      Count
   22.      34860 ramblinman                          4,826      Ａｒｔ☆ Zeyus
-  23.      40605 emileker                            4,562      silentkiller
-  24.      50024 lau_r.d                             4,515      lau
+  23.      50024 lau_r.d                             4,701      lau
+  24.      40605 emileker                            4,562      silentkiller
   25.      35128 pete211g                            4,269      †SRT e † Squis h
   26.      48810 1divineninja                        3,979      1DivineNinja TTV
   27.      48786 s1a2s1h3k4o5bg                      3,971      Sash koPat rona
@@ -1264,9 +1264,9 @@ Lost_by_driving:
   67.      27293 J--                                    63      V M . January
   68.       7370 FFD_Sivy121                            61      Mr.Pixel
   69.      39820 valdas1                                61      #408 V.Žemaičiūnas
-  70.      32468 enderblazex271                         59      Blue Jay
-  71.      21127 aadu                                   59      [ TT ] R.Fiets
-  72.      50024 lau_r.d                                57      lau
+  70.      50024 lau_r.d                                61      lau
+  71.      32468 enderblazex271                         59      Blue Jay
+  72.      21127 aadu                                   59      [ TT ] R.Fiets
   73.      12846 DJmad                                  47      insurance fraud.
   74.      29413 lewisfaescotland                       47      Schaefchen
   75.      49036 mfz snipe1out                          45      MFZ | SNIPE1 OUT
@@ -1300,7 +1300,7 @@ Total_Wealth:
  Rank    User ID Username                     Total_Wealth      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                         121,213      whatalife
+   1.      45913 whatalife                         121,678      whatalife
    2.      32443 alau07                             46,886      [MED] AFK
    3.      28459 pro player128                     -25,080      [ FIN ] Soppa
    4.      47305 griffin20069                       16,290      [ LCS- ﾏ] Girfen
@@ -1320,8 +1320,8 @@ Total_Wealth:
   18.      31357 ulfrevo123                          5,942      [GKG] MARIMUTOS
   19.      38215 artislv                             5,779      [ LV ] AR T IS
   20.      48810 1divineninja                        5,739      1DivineNinja TTV
-  21.      32247 goncalovidigal                      5,609      вмкяgoиcаlo
-  22.      50024 lau_r.d                             5,444      lau
+  21.      50024 lau_r.d                             5,635      lau
+  22.      32247 goncalovidigal                      5,609      вмкяgoиcаlo
   23.      28654 mbt                                -4,997      ｢O K｣ мвт
   24.      35128 pete211g                            4,588      †SRT e † Squis h
   25.      47374 ross2750                            4,377      Not Ross
@@ -1383,8 +1383,8 @@ Total_Wealth:
   81.      46590 miguelaleaf                          -976      MIGUEL WITH HELMET
   82.      45943 eronluc                               973      E R O N
   83.      48319 ladislavt                            -958      423 S. Ladislav
-  84.      22313 heavykick                            -924      B2 ﾏ Heavy
-  85.      45666 tony9675                             -908      TONY9675
+  84.      45666 tony9675                             -930      TONY9675
+  85.      22313 heavykick                            -924      B2 ﾏ Heavy
   86.      48993 cimars                               -879      DRIVER
   87.      32220 compactrhone                          866      ™ DB Rhone
   88.      42734 muhammetelvan                         821      PRODRIFT • [Mhn]
@@ -1588,7 +1588,7 @@ Civil_stats_Driven_distance:
  Rank    User ID Username                  Civil_stats_Driven_distance      Nickname
 ------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           3,207      whatalife
+   1.      45913 whatalife                           3,216      whatalife
    2.      39867 racing101                           1,815      V M . SMOKEY
    3.      41376 glenn quagmire                        697      Quagmire
    4.      26482 porsche_tune                          670      [GKG] LEGO
@@ -1612,8 +1612,8 @@ Civil_stats_Driven_distance:
   22.      34860 ramblinman                            291      Ａｒｔ☆ Zeyus
   23.      24338 vercetti87                            286      G R E T A
   24.      48786 s1a2s1h3k4o5bg                        250      Sash koPat rona
-  25.      35128 pete211g                              235      †SRT e † Squis h
-  26.      50024 lau_r.d                               230      lau
+  25.      50024 lau_r.d                               239      lau
+  26.      35128 pete211g                              235      †SRT e † Squis h
   27.      17555 !cr4zy!                               227      ! c r ﾑ z y !
   28.      48810 1divineninja                          220      1DivineNinja TTV
   29.      46783 knq-501                               206      Rayan
@@ -1693,14 +1693,14 @@ Civil_stats_Driven_distance_on_bikes:
  Rank    User ID Username                  Civil_stats_Driven_distance_on_bikes      Nickname
 ---------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           2,846      whatalife
+   1.      45913 whatalife                           2,855      whatalife
    2.      50101 ptanboy                               602      PT AN BOY
    3.      26482 porsche_tune                          599      [GKG] LEGO
    4.      41376 glenn quagmire                        390      Quagmire
    5.      47305 griffin20069                          313      [ LCS- ﾏ] Girfen
    6.      46590 miguelaleaf                           308      MIGUEL WITH HELMET
    7.      24338 vercetti87                            306      G R E T A
-   8.      50024 lau_r.d                               230      lau
+   8.      50024 lau_r.d                               239      lau
    9.      49036 mfz snipe1out                         209      MFZ | SNIPE1 OUT
   10.      28459 pro player128                         160      [ FIN ] Soppa
   11.      26082 1993s14                               134      2 $low 2 curiou$
