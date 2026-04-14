@@ -1,14 +1,14 @@
 April 2026
 Data from (dated files): TC_Database_04_2026.db
-Generated on: 2026-04-14 06:36:05
+Generated on: 2026-04-14 08:42:06
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                           6,880      whatalife
-                     Civil_stats_Driven_distance:                           6,846
-                     Civil_stats_Driven_distance_on_bikes:                  6,064
+   1.      45913 whatalife                           7,007      whatalife
+                     Civil_stats_Driven_distance:                           6,973
+                     Civil_stats_Driven_distance_on_bikes:                  6,190
                      Robber_stats_Driven_distance_being_chased:                24
                      Mail_Courier_Driven_distance:                             13
                      Busing_Driven_distance:                                  731
@@ -97,8 +97,8 @@ Driven_distance:
                      Cop_stats_Driven_distance_as_cop:                        129
                      Cop_stats_Driven_distance_chasing:                       111
                      Roleplaying_Driven_distance_in_SOS_calls:                  1
-  18.      47305 griffin20069                          902      [ LCS- ﾏ] Girfen
-                     Civil_stats_Driven_distance:                             903
+  18.      47305 griffin20069                          928      [ LCS- ﾏ] Girfen
+                     Civil_stats_Driven_distance:                             929
                      Civil_stats_Driven_distance_on_bikes:                    419
   19.      25704 psykoze                               876      [ ﾏ ] Lolita
                      Civil_stats_Driven_distance:                             876
@@ -117,13 +117,13 @@ Driven_distance:
                      Civil_stats_Driven_distance:                             774
                      Civil_stats_Driven_distance_on_bikes:                    519
                      Robber_stats_Driven_distance_being_chased:                10
-  23.      31357 ulfrevo123                            744      [GKG] MARIMUTOS
-                     Civil_stats_Driven_distance:                             710
-                     Robber_stats_Driven_distance_being_chased:                 1
-  24.      32247 goncalovidigal                        738      вмкяgoиcаlo
+  23.      32247 goncalovidigal                        760      вмкяgoиcаlo
                      Civil_stats_Driven_distance:                             451
                      Robber_stats_Driven_distance_being_chased:                11
-                     Taxiing_Driven_distance:                                  95
+                     Taxiing_Driven_distance:                                 107
+  24.      31357 ulfrevo123                            744      [GKG] MARIMUTOS
+                     Civil_stats_Driven_distance:                             710
+                     Robber_stats_Driven_distance_being_chased:                 1
   25.      47374 ross2750                              716      Not Ross
                      Civil_stats_Driven_distance:                             696
                      Civil_stats_Driven_distance_on_bikes:                    370
@@ -415,10 +415,10 @@ Total_Money:
  Rank    User ID Username                      Total_Money      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                         249,413      whatalife
+   1.      45913 whatalife                         253,761      whatalife
                      Sent_Money:                                 2,950
                      Rece_Money:                                 1,020
-                     Earned_by_driving:                        193,352
+                     Earned_by_driving:                        197,031
                      Lost_by_driving:                            1,392
                      Robber_stats_Paid_fines:                    1,272
                      Roleplaying_Received_donations:               362
@@ -448,7 +448,11 @@ Total_Money:
                      Mail_Courier_Earned_money:                  1,531
                      Mail_Courier_Paid_penalties:                  240
                      Rent_Paid:                                      5
-   6.      34216 xtremesp33d                       -33,069      iodine ²
+   6.      47305 griffin20069                       33,511      [ LCS- ﾏ] Girfen
+                     Earned_by_driving:                         29,248
+                     Roleplaying_Received_donations:                81
+                     Comp_Sent:                                     80
+   7.      34216 xtremesp33d                       -33,069      iodine ²
                      Sent_Money:                                   402
                      Rece_Money:                                 1,602
                      Earned_by_driving:                         14,627
@@ -460,7 +464,7 @@ Total_Money:
                      Rent_Paid:                                    494
                      Comp_Received:                                 90
                      Comp_Sent:                                    800
-   7.      41376 glenn quagmire                     32,873      Quagmire
+   8.      41376 glenn quagmire                     32,873      Quagmire
                      Sent_Money:                                   200
                      Rece_Money:                                   450
                      Earned_by_driving:                         26,028
@@ -471,10 +475,6 @@ Total_Money:
                      Rent_Paid:                                    821
                      Comp_Received:                                920
                      Comp_Sent:                                    660
-   8.      47305 griffin20069                       32,598      [ LCS- ﾏ] Girfen
-                     Earned_by_driving:                         28,501
-                     Roleplaying_Received_donations:                81
-                     Comp_Sent:                                     80
    9.      34860 ramblinman                        -29,287      Ａｒｔ☆ Zeyus
                      Sent_Money:                                 1,450
                      Rece_Money:                                 1,000
@@ -687,15 +687,24 @@ Total_Money:
                      Rent_Paid:                                  4,646
                      Comp_Received:                                710
                      Comp_Sent:                                    960
-  36.      50145 roseyjr07                          -8,691      rosey
+  36.      32247 goncalovidigal                      8,837      вмкяgoиcаlo
+                     Earned_by_driving:                          9,903
+                     Lost_by_driving:                            4,674
+                     Robber_stats_Paid_fines:                      420
+                     Roleplaying_Received_donations:               221
+                     Taxiing_Earned_money:                       2,174
+                     Taxiing_Paid_penalties:                        50
+                     Rent_Earned:                                   27
+                     Rent_Paid:                                     43
+  37.      50145 roseyjr07                          -8,691      rosey
                      Earned_by_driving:                          4,992
                      Lost_by_driving:                              290
                      Delivery_Earned_money:                         65
                      Delivery_Paid_penalties:                      100
                      Rent_Paid:                                      5
-  37.      45666 tony9675                            8,586      TONY9675
+  38.      45666 tony9675                            8,586      TONY9675
                      Earned_by_driving:                          1,748
-  38.      48185 hasnainsenna                        8,400      [COP] HasnainSenna
+  39.      48185 hasnainsenna                        8,400      [COP] HasnainSenna
                      Sent_Money:                                   473
                      Rece_Money:                                   368
                      Earned_by_driving:                          4,565
@@ -707,7 +716,7 @@ Total_Money:
                      Rent_Paid:                                  2,171
                      Comp_Received:                                 80
                      Comp_Sent:                                     70
-  39.      48552 gatisq                             -7,999      Gatis
+  40.      48552 gatisq                             -7,999      Gatis
                      Earned_by_driving:                          9,988
                      Lost_by_driving:                            2,241
                      Robber_stats_Paid_fines:                      875
@@ -715,15 +724,6 @@ Total_Money:
                      Rent_Earned:                                  107
                      Rent_Paid:                                    695
                      Comp_Received:                                120
-  40.      32247 goncalovidigal                      7,717      вмкяgoиcаlo
-                     Earned_by_driving:                          9,007
-                     Lost_by_driving:                            4,674
-                     Robber_stats_Paid_fines:                      420
-                     Roleplaying_Received_donations:               221
-                     Taxiing_Earned_money:                       1,974
-                     Taxiing_Paid_penalties:                        50
-                     Rent_Earned:                                   27
-                     Rent_Paid:                                     43
   41.      26482 porsche_tune                       -7,647      [GKG] LEGO
                      Earned_by_driving:                         10,604
                      Lost_by_driving:                            2,507
@@ -1082,9 +1082,9 @@ Time:
  Rank    User ID Username                             Time      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                             113      whatalife
+   1.      45913 whatalife                             115      whatalife
    2.      32443 alau07                                 98      [COP] Lausk
-   3.      49036 mfz snipe1out                          61      MFZ | SNIPE1 OUT
+   3.      49036 mfz snipe1out                          63      MFZ | SNIPE1 OUT
    4.      22974 seatleon110                           -52      984 B. Moi
    5.      39867 racing101                              42      V M . SMOKEY
    6.      50156 wikixx1997                             39      WisniaaVR6T
@@ -1128,11 +1128,11 @@ Time:
   44.      48185 hasnainsenna                           13      [COP] HasnainSenna
   45.      22313 heavykick                              12      B2 ﾏ Heavy
   46.      25704 psykoze                                12      [ ﾏ ] Lolita
-  47.      41772 scammergamerlol                        12      Burrito
-  48.      49171 gustavo mendon                         12      Gustavo
-  49.      49599 maskelilaz                             12      ＥＦＥＢＥ Ｙ
-  50.      50141 mauthess                               12      mauthess
-  51.      32247 goncalovidigal                         11      вмкяgoиcаlo
+  47.      32247 goncalovidigal                         12      вмкяgoиcаlo
+  48.      41772 scammergamerlol                        12      Burrito
+  49.      49171 gustavo mendon                         12      Gustavo
+  50.      49599 maskelilaz                             12      ＥＦＥＢＥ Ｙ
+  51.      50141 mauthess                               12      mauthess
   52.      46783 knq-501                                11      Rayan
   53.      47305 griffin20069                           11      [ LCS- ﾏ] Girfen
   54.      47628 amagimoon                              11      AmagiMoon
@@ -1257,11 +1257,11 @@ Earned_by_driving:
  Rank    User ID Username                  Earned_by_driving      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                         193,352      whatalife
+   1.      45913 whatalife                         197,031      whatalife
    2.      49036 mfz snipe1out                      47,462      MFZ | SNIPE1 OUT
    3.      48924 faduck                             36,457      Brown Rice
    4.      32443 alau07                             35,508      [COP] Lausk
-   5.      47305 griffin20069                       28,501      [ LCS- ﾏ] Girfen
+   5.      47305 griffin20069                       29,248      [ LCS- ﾏ] Girfen
    6.      41376 glenn quagmire                     26,028      Quagmire
    7.      50024 lau_r.d                            21,646      lau
    8.      47374 ross2750                           19,687      Not Ross
@@ -1281,10 +1281,10 @@ Earned_by_driving:
   22.      41796 countess                           10,976      Count
   23.      26482 porsche_tune                       10,604      [GKG] LEGO
   24.      48552 gatisq                              9,988      Gatis
-  25.      26082 1993s14                             9,644      2 $low 2 curiou$
-  26.      44911 pug=309                             9,544      Jason n
-  27.      24338 vercetti87                          9,328      G R E T A
-  28.      32247 goncalovidigal                      9,007      вмкяgoиcаlo
+  25.      32247 goncalovidigal                      9,903      вмкяgoиcаlo
+  26.      26082 1993s14                             9,644      2 $low 2 curiou$
+  27.      44911 pug=309                             9,544      Jason n
+  28.      24338 vercetti87                          9,328      G R E T A
   29.      23754 thijsssiiee                         8,470      [CSR] Thijs [COP]
   30.      44152 stikeriszx                          8,362      PÆß†•
   31.      31357 ulfrevo123                          7,319      [GKG] MARIMUTOS
@@ -1467,11 +1467,11 @@ Total_Wealth:
  Rank    User ID Username                     Total_Wealth      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                         248,247      whatalife
+   1.      45913 whatalife                         252,446      whatalife
    2.      32443 alau07                             63,503      [COP] Lausk
    3.      49036 mfz snipe1out                      53,312      MFZ | SNIPE1 OUT
    4.      48924 faduck                             35,147      Brown Rice
-   5.      47305 griffin20069                       31,934      [ LCS- ﾏ] Girfen
+   5.      47305 griffin20069                       32,810      [ LCS- ﾏ] Girfen
    6.      34860 ramblinman                        -28,942      Ａｒｔ☆ Zeyus
    7.      20375 notsosideways                     -27,599      [TC-G] Blacktop
    8.      28459 pro player128                     -25,080      [ FIN ] Soppa
@@ -1493,14 +1493,14 @@ Total_Wealth:
   24.      50112 fraciorekk12                        8,737      Volcan8bit1516
   25.      48185 hasnainsenna                        8,129      [COP] HasnainSenna
   26.      44152 stikeriszx                          7,939      PÆß†•
-  27.      40242 astraxan                            7,290      [COP] CALAHAN
-  28.      43811 sami59593                           7,282      [ROAD] TRyosuke
-  29.      46411 youngbud                           -7,114      [ LCS- マ] bud
-  30.      50133 elrumend                           -6,987      elrumend
-  31.      50100 m04032015m                         -6,850      Lollk
-  32.      50150 hanz8991631                         6,652      hanz
-  33.      26082 1993s14                             6,557      2 $low 2 curiou$
-  34.      32247 goncalovidigal                      6,535      вмкяgoиcаlo
+  27.      32247 goncalovidigal                      7,606      вмкяgoиcаlo
+  28.      40242 astraxan                            7,290      [COP] CALAHAN
+  29.      43811 sami59593                           7,282      [ROAD] TRyosuke
+  30.      46411 youngbud                           -7,114      [ LCS- マ] bud
+  31.      50133 elrumend                           -6,987      elrumend
+  32.      50100 m04032015m                         -6,850      Lollk
+  33.      50150 hanz8991631                         6,652      hanz
+  34.      26082 1993s14                             6,557      2 $low 2 curiou$
   35.      38090 stuchlo                             6,352      Stuchlo
   36.      31357 ulfrevo123                          5,738      [GKG] MARIMUTOS
   37.      26482 porsche_tune                        5,701      [GKG] LEGO
@@ -1686,8 +1686,8 @@ Civil_stats_Playing_time_civilian:
  Rank    User ID Username                  Civil_stats_Playing_time_civilian      Nickname
 ------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                             113      whatalife
-   2.      49036 mfz snipe1out                          58      MFZ | SNIPE1 OUT
+   1.      45913 whatalife                             115      whatalife
+   2.      49036 mfz snipe1out                          60      MFZ | SNIPE1 OUT
    3.      22974 seatleon110                           -52      984 B. Moi
    4.      50156 wikixx1997                             39      WisniaaVR6T
    5.      48786 s1a2s1h3k4o5bg                         37      Sash koPat rona
@@ -1735,10 +1735,10 @@ Civil_stats_Playing_time_civilian:
   47.      50141 mauthess                               12      mauthess
   48.      22313 heavykick                              11      B2 ﾏ Heavy
   49.      26082 1993s14                                11      2 $low 2 curiou$
-  50.      46783 knq-501                                11      Rayan
-  51.      47628 amagimoon                              11      AmagiMoon
-  52.      49599 maskelilaz                             11      ＥＦＥＢＥ Ｙ
-  53.      32247 goncalovidigal                         10      вмкяgoиcаlo
+  50.      32247 goncalovidigal                         11      вмкяgoиcаlo
+  51.      46783 knq-501                                11      Rayan
+  52.      47628 amagimoon                              11      AmagiMoon
+  53.      49599 maskelilaz                             11      ＥＦＥＢＥ Ｙ
   54.      35128 pete211g                               10      †SRT e † Squis h
   55.      48810 1divineninja                           10      1DivineNinja TTV
   56.      20375 notsosideways                           9      [TC-G] Blacktop
@@ -1791,7 +1791,7 @@ Civil_stats_Driven_distance:
  Rank    User ID Username                  Civil_stats_Driven_distance      Nickname
 ------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           6,846      whatalife
+   1.      45913 whatalife                           6,973      whatalife
    2.      39867 racing101                           2,772      V M . SMOKEY
    3.      49036 mfz snipe1out                       1,998      MFZ | SNIPE1 OUT
    4.      48924 faduck                              1,563      Brown Rice
@@ -1806,7 +1806,7 @@ Civil_stats_Driven_distance:
   13.      48552 gatisq                                965      Gatis
   14.      48786 s1a2s1h3k4o5bg                        942      Sash koPat rona
   15.      41796 countess                              931      Count
-  16.      47305 griffin20069                          903      [ LCS- ﾏ] Girfen
+  16.      47305 griffin20069                          929      [ LCS- ﾏ] Girfen
   17.      25704 psykoze                               876      [ ﾏ ] Lolita
   18.      49671 mr.carrots                            794      7B7R
   19.      40605 emileker                              791      silentkiller
@@ -1896,7 +1896,7 @@ Civil_stats_Driven_distance_on_bikes:
  Rank    User ID Username                  Civil_stats_Driven_distance_on_bikes      Nickname
 ---------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           6,064      whatalife
+   1.      45913 whatalife                           6,190      whatalife
    2.      41376 glenn quagmire                      1,228      Quagmire
    3.      50024 lau_r.d                               957      lau
    4.      50122 guipilot                              884      guigui
@@ -3141,78 +3141,82 @@ Taxiing_Started_trips:
  Rank    User ID Username                  Taxiing_Started_trips      Nickname
 ------------------------------------------------------------------------------
 
-   1.      32247 goncalovidigal                         71      вмкяgoиcаlo
+   1.      32247 goncalovidigal                         76      вмкяgoиcаlo
    2.      49599 maskelilaz                             24      ＥＦＥＢＥ Ｙ
    3.      49223 chrisandkitt                           14      CHRISANDKITT
    4.      50021 dennilol                               12      [TAXI] Need 2 rev
    5.      48324 b0ldeau                                10      ßØŁĐ
    6.      46590 miguelaleaf                             8      MIGUEL WITHOUT VR
-   7.      30855 ez_krieg3r                              6      » derMiepz «
-   8.       1238 Rascar13                                5      [TC]›Ras‹ [VCU]
-   9.      35440 regal123                                5      Regal Andre
-  10.      23555 zorrousz                                4      Ｚｏｒｒｏｕｓ :)
-  11.      44868 gamerzz_tr                              4      [TAXI] N asH
-  12.      40257 kiit1337                                1      Redﾉ Eric¥
-  13.      44736 b.e.r.a.t.e.x.e                         1      [TAXI] MARTI TAG
-  14.      48993 cimars                                  1      DRIVER
+   7.      43126 rich-add                                7      [TAXI] SLOW Jays 7³
+   8.      30855 ez_krieg3r                              6      » derMiepz «
+   9.       1238 Rascar13                                5      [TC]›Ras‹ [VCU]
+  10.      35440 regal123                                5      Regal Andre
+  11.      23555 zorrousz                                4      Ｚｏｒｒｏｕｓ :)
+  12.      44868 gamerzz_tr                              4      [TAXI] N asH
+  13.      40257 kiit1337                                1      Redﾉ Eric¥
+  14.      44736 b.e.r.a.t.e.x.e                         1      [TAXI] MARTI TAG
+  15.      48993 cimars                                  1      DRIVER
 
 Taxiing_Finished_trips:
  Rank    User ID Username                  Taxiing_Finished_trips      Nickname
 -------------------------------------------------------------------------------
 
-   1.      32247 goncalovidigal                         65      вмкяgoиcаlo
+   1.      32247 goncalovidigal                         70      вмкяgoиcаlo
    2.      49599 maskelilaz                             21      ＥＦＥＢＥ Ｙ
    3.      49223 chrisandkitt                           14      CHRISANDKITT
    4.      50021 dennilol                               11      [TAXI] Need 2 rev
    5.      48324 b0ldeau                                 9      ßØŁĐ
-   6.      46590 miguelaleaf                             7      MIGUEL WITHOUT VR
-   7.      30855 ez_krieg3r                              6      » derMiepz «
-   8.      35440 regal123                                5      Regal Andre
-   9.      23555 zorrousz                                4      Ｚｏｒｒｏｕｓ :)
-  10.      44868 gamerzz_tr                              3      [TAXI] N asH
-  11.       1238 Rascar13                                2      [TC]›Ras‹ [VCU]
-  12.      22858 gaga5555                                1      [TAXI] EASY TAXI
-  13.      40257 kiit1337                                1      Redﾉ Eric¥
-  14.      44736 b.e.r.a.t.e.x.e                         1      [TAXI] MARTI TAG
-  15.      48993 cimars                                  1      DRIVER
+   6.      43126 rich-add                                8      [TAXI] SLOW Jays 7³
+   7.      46590 miguelaleaf                             7      MIGUEL WITHOUT VR
+   8.      30855 ez_krieg3r                              6      » derMiepz «
+   9.      35440 regal123                                5      Regal Andre
+  10.      23555 zorrousz                                4      Ｚｏｒｒｏｕｓ :)
+  11.      44868 gamerzz_tr                              3      [TAXI] N asH
+  12.       1238 Rascar13                                2      [TC]›Ras‹ [VCU]
+  13.      22858 gaga5555                                1      [TAXI] EASY TAXI
+  14.      40257 kiit1337                                1      Redﾉ Eric¥
+  15.      44736 b.e.r.a.t.e.x.e                         1      [TAXI] MARTI TAG
+  16.      48993 cimars                                  1      DRIVER
 
 Taxiing_Driven_distance:
  Rank    User ID Username                  Taxiing_Driven_distance      Nickname
 --------------------------------------------------------------------------------
 
-   1.      32247 goncalovidigal                         95      вмкяgoиcаlo
+   1.      32247 goncalovidigal                        107      вмкяgoиcаlo
    2.      49599 maskelilaz                             22      ＥＦＥＢＥ Ｙ
    3.      50021 dennilol                               19      [TAXI] Need 2 rev
    4.      48324 b0ldeau                                18      ßØŁĐ
-   5.      49223 chrisandkitt                           13      CHRISANDKITT
-   6.      30855 ez_krieg3r                             11      » derMiepz «
-   7.      35440 regal123                               10      Regal Andre
-   8.      23555 zorrousz                                8      Ｚｏｒｒｏｕｓ :)
-   9.      46590 miguelaleaf                             7      MIGUEL WITHOUT VR
-  10.      44868 gamerzz_tr                              6      [TAXI] N asH
-  11.      48993 cimars                                  3      DRIVER
-  12.       1238 Rascar13                                2      [TC]›Ras‹ [VCU]
-  13.      22858 gaga5555                                1      [TAXI] EASY TAXI
+   5.      43126 rich-add                               15      [TAXI] SLOW Jays 7³
+   6.      49223 chrisandkitt                           13      CHRISANDKITT
+   7.      30855 ez_krieg3r                             11      » derMiepz «
+   8.      35440 regal123                               10      Regal Andre
+   9.      23555 zorrousz                                8      Ｚｏｒｒｏｕｓ :)
+  10.      46590 miguelaleaf                             7      MIGUEL WITHOUT VR
+  11.      44868 gamerzz_tr                              6      [TAXI] N asH
+  12.      48993 cimars                                  3      DRIVER
+  13.       1238 Rascar13                                2      [TC]›Ras‹ [VCU]
+  14.      22858 gaga5555                                1      [TAXI] EASY TAXI
 
 Taxiing_Earned_money:
  Rank    User ID Username                  Taxiing_Earned_money      Nickname
 -----------------------------------------------------------------------------
 
-   1.      32247 goncalovidigal                      1,974      вмкяgoиcаlo
+   1.      32247 goncalovidigal                      2,174      вмкяgoиcаlo
    2.      49599 maskelilaz                            529      ＥＦＥＢＥ Ｙ
    3.      49223 chrisandkitt                          349      CHRISANDKITT
    4.      50021 dennilol                              340      [TAXI] Need 2 rev
    5.      48324 b0ldeau                               313      ßØŁĐ
-   6.      30855 ez_krieg3r                            196      » derMiepz «
-   7.      46590 miguelaleaf                           181      MIGUEL WITHOUT VR
-   8.      35440 regal123                              163      Regal Andre
-   9.      23555 zorrousz                              144      Ｚｏｒｒｏｕｓ :)
-  10.      44868 gamerzz_tr                            108      [TAXI] N asH
-  11.       1238 Rascar13                               63      [TC]›Ras‹ [VCU]
-  12.      48993 cimars                                 42      DRIVER
-  13.      22858 gaga5555                               38      [TAXI] EASY TAXI
-  14.      44736 b.e.r.a.t.e.x.e                        28      [TAXI] MARTI TAG
-  15.      40257 kiit1337                               20      Redﾉ Eric¥
+   6.      43126 rich-add                              278      [TAXI] SLOW Jays 7³
+   7.      30855 ez_krieg3r                            196      » derMiepz «
+   8.      46590 miguelaleaf                           181      MIGUEL WITHOUT VR
+   9.      35440 regal123                              163      Regal Andre
+  10.      23555 zorrousz                              144      Ｚｏｒｒｏｕｓ :)
+  11.      44868 gamerzz_tr                            108      [TAXI] N asH
+  12.       1238 Rascar13                               63      [TC]›Ras‹ [VCU]
+  13.      48993 cimars                                 42      DRIVER
+  14.      22858 gaga5555                               38      [TAXI] EASY TAXI
+  15.      44736 b.e.r.a.t.e.x.e                        28      [TAXI] MARTI TAG
+  16.      40257 kiit1337                               20      Redﾉ Eric¥
 
 Taxiing_Paid_penalties:
  Rank    User ID Username                  Taxiing_Paid_penalties      Nickname
