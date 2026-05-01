@@ -1,6 +1,6 @@
 May 2026
 Data from (dated files): TC_Database_05_2026.db
-Generated on: 2026-05-02 00:19:06
+Generated on: 2026-05-02 02:25:03
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -15,11 +15,11 @@ Driven_distance:
                      Mail_Courier_Driven_distance:                             11
    4.      39882 vartolu_sadettin                      121      Das Auto
                      Civil_stats_Driven_distance:                             121
-   5.      45204 luvzc                                  91      Pixiee
-                     Civil_stats_Driven_distance:                              92
-   6.      48786 s1a2s1h3k4o5bg                         82      Sash koPat rona
-                     Civil_stats_Driven_distance:                              82
+   5.      48786 s1a2s1h3k4o5bg                        106      Sash koPat rona
+                     Civil_stats_Driven_distance:                             106
                      Robber_stats_Driven_distance_being_chased:                15
+   6.      45204 luvzc                                  91      Pixiee
+                     Civil_stats_Driven_distance:                              92
    7.      45913 whatalife                              56      whatalife
                      Civil_stats_Driven_distance:                              55
                      Civil_stats_Driven_distance_on_bikes:                     56
@@ -43,12 +43,15 @@ Driven_distance:
   14.      23754 thijsssiiee                            10      [CSR] Thijs
                      Civil_stats_Driven_distance:                              10
                      Civil_stats_Driven_distance_on_bikes:                     10
-  15.      50235 mwerrtt                                 3      mwerrtt
+  15.       1978 detail                                 10      detail
+                     Civil_stats_Driven_distance:                              11
+                     Delivery_Driven_distance_loaded:                           4
+  16.      50235 mwerrtt                                 3      mwerrtt
                      Civil_stats_Driven_distance:                               3
                      Civil_stats_Driven_distance_on_bikes:                    736
-  16.      43083 dz0fps                                  2      [ RDSR ] Redfox
+  17.      43083 dz0fps                                  2      [ RDSR ] Redfox
                      Civil_stats_Driven_distance:                               2
-  17.      41965 arnelisnx                               1      Arnelisnx
+  18.      41965 arnelisnx                               1      Arnelisnx
                      Civil_stats_Driven_distance:                               1
                      Civil_stats_Driven_distance_on_bikes:                   -142
 
@@ -79,11 +82,11 @@ Total_Money:
    6.       3704 ian78                               2,736      Ian [ROAD]
                      Earned_by_driving:                            381
                      Lost_by_driving:                                2
-   7.      48786 s1a2s1h3k4o5bg                     -2,283      Sash koPat rona
-                     Earned_by_driving:                            584
-                     Lost_by_driving:                              457
+   7.      48786 s1a2s1h3k4o5bg                     -2,084      Sash koPat rona
+                     Earned_by_driving:                            738
+                     Lost_by_driving:                              486
                      Robber_stats_Paid_fines:                      351
-                     Rent_Paid:                                     11
+                     Rent_Paid:                                     30
                      Comp_Sent:                                     80
    8.      39882 vartolu_sadettin                    1,574      Das Auto
                      Earned_by_driving:                          1,727
@@ -105,24 +108,27 @@ Total_Money:
                      Earned_by_driving:                            949
                      Lost_by_driving:                               15
                      Rent_Paid:                                     10
-  13.      48185 hasnainsenna                          407      [COP] HasnainSenna
+  13.       1978 detail                                585      detail
+                     Earned_by_driving:                            520
+                     Delivery_Earned_money:                         65
+  14.      48185 hasnainsenna                          407      [COP] HasnainSenna
                      Earned_by_driving:                            175
                      Lost_by_driving:                               48
                      Cop_stats_Received_fines:                     351
                      Rent_Paid:                                     88
-  14.      22858 gaga5555                              370      MAJK BRON XET
+  15.      22858 gaga5555                              370      MAJK BRON XET
                      Earned_by_driving:                            543
                      Lost_by_driving:                              140
                      Delivery_Earned_money:                         64
                      Rent_Paid:                                    110
-  15.      32247 goncalovidigal                       -283      вмкяgoиcаlo
+  16.      32247 goncalovidigal                       -283      вмкяgoиcаlo
                      Earned_by_driving:                             47
                      Lost_by_driving:                              330
-  16.      23754 thijsssiiee                           -64      [CSR] Thijs
+  17.      23754 thijsssiiee                           -64      [CSR] Thijs
                      Earned_by_driving:                            122
                      Lost_by_driving:                              116
                      Rent_Paid:                                     70
-  17.      43083 dz0fps                                 54      [ RDSR ] Redfox
+  18.      43083 dz0fps                                 54      [ RDSR ] Redfox
                      Earned_by_driving:                             64
                      Rent_Paid:                                     10
 
@@ -132,10 +138,10 @@ Time:
 
    1.      41965 arnelisnx                             -56      Arnelisnx
    2.      50235 mwerrtt                                14      mwerrtt
-   3.      49036 mfz snipe1out                          10      MFZ | SNIPE1 OUT
-   4.      47376 evari albo                              5      ALBO
-   5.      39882 vartolu_sadettin                        4      Das Auto
-   6.      48786 s1a2s1h3k4o5bg                          4      Sash koPat rona
+   3.      49036 mfz snipe1out                          12      MFZ | SNIPE1 OUT
+   4.      48786 s1a2s1h3k4o5bg                          6      Sash koPat rona
+   5.      47376 evari albo                              5      ALBO
+   6.      39882 vartolu_sadettin                        4      Das Auto
    7.      45204 luvzc                                   3      Pixiee
    8.        489 =Wolf=[NO]                              2      ™ DB JoeValla
    9.      49924 db-cam                                  2      ™ DB Cam
@@ -157,21 +163,22 @@ Earned_by_driving:
    6.      45913 whatalife                           1,083      whatalife
    7.      49013 cemld                                 949      ＮＯＴＯＲＩＯＵＳ
    8.      43796 toxipas                               776      HELL sas
-   9.      48786 s1a2s1h3k4o5bg                        584      Sash koPat rona
+   9.      48786 s1a2s1h3k4o5bg                        738      Sash koPat rona
   10.      22858 gaga5555                              543      MAJK BRON XET
-  11.       3704 ian78                                 381      Ian [ROAD]
-  12.      48185 hasnainsenna                          175      [COP] HasnainSenna
-  13.      23754 thijsssiiee                           122      [CSR] Thijs
-  14.      43083 dz0fps                                 64      [ RDSR ] Redfox
-  15.      41965 arnelisnx                              54      Arnelisnx
-  16.      50235 mwerrtt                                50      mwerrtt
-  17.      32247 goncalovidigal                         47      вмкяgoиcаlo
+  11.       1978 detail                                520      detail
+  12.       3704 ian78                                 381      Ian [ROAD]
+  13.      48185 hasnainsenna                          175      [COP] HasnainSenna
+  14.      23754 thijsssiiee                           122      [CSR] Thijs
+  15.      43083 dz0fps                                 64      [ RDSR ] Redfox
+  16.      41965 arnelisnx                              54      Arnelisnx
+  17.      50235 mwerrtt                                50      mwerrtt
+  18.      32247 goncalovidigal                         47      вмкяgoиcаlo
 
 Lost_by_driving:
  Rank    User ID Username                  Lost_by_driving      Nickname
 ------------------------------------------------------------------------
 
-   1.      48786 s1a2s1h3k4o5bg                        457      Sash koPat rona
+   1.      48786 s1a2s1h3k4o5bg                        486      Sash koPat rona
    2.      39882 vartolu_sadettin                      446      Das Auto
    3.      32247 goncalovidigal                        330      вмкяgoиcаlo
    4.      47376 evari albo                            289      ALBO
@@ -191,7 +198,7 @@ Total_Wealth:
  Rank    User ID Username                     Total_Wealth      Nickname
 ------------------------------------------------------------------------
 
-   1.      49036 mfz snipe1out                      16,657      MFZ | SNIPE1 OUT
+   1.      49036 mfz snipe1out                      16,635      MFZ | SNIPE1 OUT
    2.      47376 evari albo                          3,899      ALBO
    3.        489 =Wolf=[NO]                          3,256      ™ DB JoeValla
    4.       3704 ian78                               2,681      Ian [ROAD]
@@ -201,13 +208,14 @@ Total_Wealth:
    8.      45913 whatalife                           1,027      whatalife
    9.      50235 mwerrtt                              -989      mwerrtt
   10.      49013 cemld                                 952      ＮＯＴＯＲＩＯＵＳ
-  11.      48185 hasnainsenna                          406      [COP] HasnainSenna
-  12.      22858 gaga5555                              376      MAJK BRON XET
-  13.      32247 goncalovidigal                       -289      вмкяgoиcаlo
-  14.      48786 s1a2s1h3k4o5bg                       -184      Sash koPat rona
+  11.       1978 detail                                554      detail
+  12.      48185 hasnainsenna                          406      [COP] HasnainSenna
+  13.      22858 gaga5555                              376      MAJK BRON XET
+  14.      32247 goncalovidigal                       -289      вмкяgoиcаlo
   15.      23754 thijsssiiee                           -77      [CSR] Thijs
   16.      43083 dz0fps                                 54      [ RDSR ] Redfox
   17.      45204 luvzc                                 -48      Pixiee
+  18.      48786 s1a2s1h3k4o5bg                          9      Sash koPat rona
 
 Civil_stats_Playing_time_civilian:
  Rank    User ID Username                  Civil_stats_Playing_time_civilian      Nickname
@@ -215,10 +223,10 @@ Civil_stats_Playing_time_civilian:
 
    1.      41965 arnelisnx                             -55      Arnelisnx
    2.      50235 mwerrtt                                14      mwerrtt
-   3.      49036 mfz snipe1out                          10      MFZ | SNIPE1 OUT
-   4.      39882 vartolu_sadettin                        5      Das Auto
-   5.      47376 evari albo                              5      ALBO
-   6.      48786 s1a2s1h3k4o5bg                          4      Sash koPat rona
+   3.      49036 mfz snipe1out                          12      MFZ | SNIPE1 OUT
+   4.      48786 s1a2s1h3k4o5bg                          6      Sash koPat rona
+   5.      39882 vartolu_sadettin                        5      Das Auto
+   6.      47376 evari albo                              5      ALBO
    7.        489 =Wolf=[NO]                              2      ™ DB JoeValla
    8.      49924 db-cam                                  2      ™ DB Cam
    9.      45204 luvzc                                   2      Pixiee
@@ -233,18 +241,19 @@ Civil_stats_Driven_distance:
    2.        489 =Wolf=[NO]                            214      ™ DB JoeValla
    3.      47376 evari albo                            179      ALBO
    4.      39882 vartolu_sadettin                      121      Das Auto
-   5.      45204 luvzc                                  92      Pixiee
-   6.      48786 s1a2s1h3k4o5bg                         82      Sash koPat rona
+   5.      48786 s1a2s1h3k4o5bg                        106      Sash koPat rona
+   6.      45204 luvzc                                  92      Pixiee
    7.      45913 whatalife                              55      whatalife
    8.      49013 cemld                                  51      ＮＯＴＯＲＩＯＵＳ
    9.      22858 gaga5555                               47      MAJK BRON XET
   10.      43796 toxipas                                24      HELL sas
   11.      32247 goncalovidigal                         17      вмкяgoиcаlo
-  12.      23754 thijsssiiee                            10      [CSR] Thijs
-  13.       3704 ian78                                   6      Ian [ROAD]
-  14.      50235 mwerrtt                                 3      mwerrtt
-  15.      43083 dz0fps                                  2      [ RDSR ] Redfox
-  16.      41965 arnelisnx                               1      Arnelisnx
+  12.       1978 detail                                 11      detail
+  13.      23754 thijsssiiee                            10      [CSR] Thijs
+  14.       3704 ian78                                   6      Ian [ROAD]
+  15.      50235 mwerrtt                                 3      mwerrtt
+  16.      43083 dz0fps                                  2      [ RDSR ] Redfox
+  17.      41965 arnelisnx                               1      Arnelisnx
 
 Civil_stats_Driven_distance_on_bikes:
  Rank    User ID Username                  Civil_stats_Driven_distance_on_bikes      Nickname
@@ -328,30 +337,35 @@ Delivery_Started_jobs:
 ------------------------------------------------------------------------------
 
    1.      22858 gaga5555                                2      MAJK BRON XET
+   2.       1978 detail                                  2      detail
 
 Delivery_Finished_trips:
  Rank    User ID Username                  Delivery_Finished_trips      Nickname
 --------------------------------------------------------------------------------
 
    1.      22858 gaga5555                                2      MAJK BRON XET
+   2.       1978 detail                                  1      detail
 
 Delivery_Delivered_kg:
  Rank    User ID Username                  Delivery_Delivered_kg      Nickname
 ------------------------------------------------------------------------------
 
-   1.      22858 gaga5555                              470      MAJK BRON XET
+   1.       1978 detail                                910      detail
+   2.      22858 gaga5555                              470      MAJK BRON XET
 
 Delivery_Driven_distance_loaded:
  Rank    User ID Username                  Delivery_Driven_distance_loaded      Nickname
 ----------------------------------------------------------------------------------------
 
    1.      22858 gaga5555                                4      MAJK BRON XET
+   2.       1978 detail                                  4      detail
 
 Delivery_Earned_money:
  Rank    User ID Username                  Delivery_Earned_money      Nickname
 ------------------------------------------------------------------------------
 
-   1.      22858 gaga5555                               64      MAJK BRON XET
+   1.       1978 detail                                 65      detail
+   2.      22858 gaga5555                               64      MAJK BRON XET
 
 Mail_Courier_Delivered_parcels:
  Rank    User ID Username                  Mail_Courier_Delivered_parcels      Nickname
@@ -412,7 +426,7 @@ Rent_Paid:
    5.      47376 evari albo                             50      ALBO
    6.      43796 toxipas                                40      HELL sas
    7.      50235 mwerrtt                                36      mwerrtt
-   8.      48786 s1a2s1h3k4o5bg                         11      Sash koPat rona
+   8.      48786 s1a2s1h3k4o5bg                         30      Sash koPat rona
    9.      41965 arnelisnx                              10      Arnelisnx
   10.      49013 cemld                                  10      ＮＯＴＯＲＩＯＵＳ
   11.      43083 dz0fps                                 10      [ RDSR ] Redfox
