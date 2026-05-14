@@ -1,6 +1,6 @@
 May 2026
 Data from (dated files): TC_Database_05_2026.db
-Generated on: 2026-05-14 04:34:06
+Generated on: 2026-05-14 06:40:02
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -10,9 +10,9 @@ Driven_distance:
                      Civil_stats_Driven_distance:                           4,301
                      Civil_stats_Driven_distance_on_bikes:                  4,244
                      Busing_Driven_distance:                                   32
-   2.      49036 mfz snipe1out                       2,407      MFZ | SNIPE1 OUT
-                     Civil_stats_Driven_distance:                           2,407
-                     Civil_stats_Driven_distance_on_bikes:                  1,585
+   2.      49036 mfz snipe1out                       2,425      MFZ | SNIPE1 OUT
+                     Civil_stats_Driven_distance:                           2,425
+                     Civil_stats_Driven_distance_on_bikes:                  1,595
                      Robber_stats_Driven_distance_being_chased:                 1
    3.        489 =Wolf=[NO]                          1,913      ™ DB JoeValla
                      Civil_stats_Driven_distance:                           1,913
@@ -84,11 +84,11 @@ Driven_distance:
                      Civil_stats_Driven_distance_on_bikes:                     13
                      Roleplaying_Driven_distance_as_MED_RES:                   21
                      Roleplaying_Driven_distance_in_SOS_calls:                  2
-  27.      50234 thenoisycricket11                     165      thenoisycricket11
+  27.      41376 glenn quagmire                        170      Quagmire
+                     Civil_stats_Driven_distance:                             170
+                     Civil_stats_Driven_distance_on_bikes:                    151
+  28.      50234 thenoisycricket11                     165      thenoisycricket11
                      Civil_stats_Driven_distance:                             165
-  28.      41376 glenn quagmire                        161      Quagmire
-                     Civil_stats_Driven_distance:                             161
-                     Civil_stats_Driven_distance_on_bikes:                    142
   29.      26082 1993s14                               159      2 $low 2 curiou$
                      Civil_stats_Driven_distance:                             120
                      Civil_stats_Driven_distance_on_bikes:                    138
@@ -282,30 +282,20 @@ Total_Money:
                      Busing_Earned_money:                        1,378
                      Rent_Paid:                                    218
                      Comp_Sent:                                    640
-   2.      49036 mfz snipe1out                      58,226      MFZ | SNIPE1 OUT
-                     Rece_Money:                                51,101
-                     Earned_by_driving:                         72,551
-                     Lost_by_driving:                            1,721
-                     Robber_stats_Paid_fines:                       30
-                     Roleplaying_Paid_donations:                   100
-                     Roleplaying_Received_donations:             5,759
-                     Rent_Paid:                                  1,766
-                     Comp_Received:                                160
-                     Comp_Sent:                                     80
-   3.      23754 thijsssiiee                        41,872      [CSR] Thijs
+   2.      23754 thijsssiiee                        41,872      [CSR] Thijs
                      Earned_by_driving:                            745
                      Lost_by_driving:                            1,542
                      Rent_Paid:                                  1,214
                      Comp_Received:                                260
-   4.      18845 lukey747                          -39,847      [TC] ›Luke™‹ [VCU]
+   3.      18845 lukey747                          -39,847      [TC] ›Luke™‹ [VCU]
                      Earned_by_driving:                            146
-   5.        489 =Wolf=[NO]                         28,028      ™ DB JoeValla
+   4.        489 =Wolf=[NO]                         28,028      ™ DB JoeValla
                      Earned_by_driving:                         18,864
                      Lost_by_driving:                              719
                      Rent_Earned:                                   35
                      Rent_Paid:                                     45
                      Comp_Received:                                550
-   6.      47374 ross2750                           27,204      Not Ross
+   5.      47374 ross2750                           27,204      Not Ross
                      Sent_Money:                                   400
                      Rece_Money:                                   400
                      Earned_by_driving:                         27,175
@@ -313,10 +303,20 @@ Total_Money:
                      Rent_Earned:                                   81
                      Rent_Paid:                                    149
                      Comp_Received:                                150
-   7.      47305 griffin20069                       20,298      [ LCS- ﾏ] Girfen
+   6.      47305 griffin20069                       20,298      [ LCS- ﾏ] Girfen
                      Earned_by_driving:                         19,043
                      Lost_by_driving:                                2
                      Rent_Paid:                                     69
+   7.      49036 mfz snipe1out                      18,526      MFZ | SNIPE1 OUT
+                     Rece_Money:                                51,101
+                     Earned_by_driving:                         72,773
+                     Lost_by_driving:                            1,794
+                     Robber_stats_Paid_fines:                       30
+                     Roleplaying_Paid_donations:                   100
+                     Roleplaying_Received_donations:             5,759
+                     Rent_Paid:                                  1,815
+                     Comp_Received:                                160
+                     Comp_Sent:                                     80
    8.      47445 charles leclerc 16                -18,415      ( G T P ) Lewis
                      Sent_Money:                                     2
                      Earned_by_driving:                          1,582
@@ -403,13 +403,13 @@ Total_Money:
                      Lost_by_driving:                                3
                      Delivery_Earned_money:                        371
                      Bingo_Won:                                    160
-  23.      41376 glenn quagmire                     -4,375      Quagmire
+  23.      41376 glenn quagmire                     -4,864      Quagmire
                      Rece_Money:                                   620
-                     Earned_by_driving:                          2,293
-                     Lost_by_driving:                            2,202
+                     Earned_by_driving:                          2,395
+                     Lost_by_driving:                            2,287
                      Roleplaying_Paid_donations:                 1,000
                      Roleplaying_Received_donations:               210
-                     Rent_Paid:                                    292
+                     Rent_Paid:                                    298
                      Comp_Sent:                                    860
   24.      10040 vdubclubz                           4,347      Mﾏ. Volks
                      Earned_by_driving:                          3,932
@@ -752,7 +752,7 @@ Time:
  Rank    User ID Username                             Time      Nickname
 ------------------------------------------------------------------------
 
-   1.      49036 mfz snipe1out                         143      MFZ | SNIPE1 OUT
+   1.      49036 mfz snipe1out                         144      MFZ | SNIPE1 OUT
    2.      45913 whatalife                              78      whatalife
    3.      41965 arnelisnx                             -56      Arnelisnx
    4.      50260 eldariukas                            -41      Eldariukas
@@ -886,7 +886,7 @@ Earned_by_driving:
 --------------------------------------------------------------------------
 
    1.      45913 whatalife                         125,116      whatalife
-   2.      49036 mfz snipe1out                      72,551      MFZ | SNIPE1 OUT
+   2.      49036 mfz snipe1out                      72,773      MFZ | SNIPE1 OUT
    3.      47374 ross2750                           27,175      Not Ross
    4.      47305 griffin20069                       19,043      [ LCS- ﾏ] Girfen
    5.        489 =Wolf=[NO]                         18,864      ™ DB JoeValla
@@ -910,8 +910,8 @@ Earned_by_driving:
   23.      48116 kainei                              2,648      OraletOsman
   24.        135 KROSS                               2,469      DEADCRUISER
   25.      46092 zaincey                             2,413      Z aince
-  26.      44911 pug=309                             2,325      Jason n
-  27.      41376 glenn quagmire                      2,293      Quagmire
+  26.      41376 glenn quagmire                      2,395      Quagmire
+  27.      44911 pug=309                             2,325      Jason n
   28.       3704 ian78                               2,077      Ian [ROAD]
   29.      39867 racing101                           2,038      V M . SMOKEY
   30.       1978 detail                              2,011      detail
@@ -996,9 +996,9 @@ Lost_by_driving:
    4.      50024 lau_r.d                             3,417      lau
    5.      48786 s1a2s1h3k4o5bg                      2,524      Sash koPat rona
    6.      45913 whatalife                           2,407      whatalife
-   7.      41376 glenn quagmire                      2,202      Quagmire
-   8.      25704 psykoze                             1,776      [ ﾏ ] Lolita
-   9.      49036 mfz snipe1out                       1,721      MFZ | SNIPE1 OUT
+   7.      41376 glenn quagmire                      2,287      Quagmire
+   8.      49036 mfz snipe1out                       1,794      MFZ | SNIPE1 OUT
+   9.      25704 psykoze                             1,776      [ ﾏ ] Lolita
   10.      44911 pug=309                             1,674      Jason n
   11.      25215 m52b28                              1,651      Selling (TC) Cars
   12.      23754 thijsssiiee                         1,542      [CSR] Thijs
@@ -1096,7 +1096,7 @@ Total_Wealth:
 ------------------------------------------------------------------------
 
    1.      45913 whatalife                         143,923      whatalife
-   2.      49036 mfz snipe1out                     134,941      MFZ | SNIPE1 OUT
+   2.      49036 mfz snipe1out                     134,908      MFZ | SNIPE1 OUT
    3.      35012 badkapp62                         -67,098      Redﾉ Badkapp
    4.      18845 lukey747                          -39,846      [TC] ›Luke™‹ [VCU]
    5.      13540 prillan                           -30,218      Prillan
@@ -1115,7 +1115,7 @@ Total_Wealth:
   18.      24338 vercetti87                          5,842      G R E T A
   19.       7370 FFD_Sivy121                         5,749      Mr.Pixel
   20.      47980 thamboo                             5,670      [P R ] Thamboo
-  21.      41376 glenn quagmire                     -4,439      Quagmire
+  21.      41376 glenn quagmire                     -4,932      Quagmire
   22.      39867 racing101                          -4,328      V M . SMOKEY
   23.      10040 vdubclubz                           4,217      Mﾏ. Volks
   24.      41794 zgonko96                           -4,003      Zgo nek 96
@@ -1238,7 +1238,7 @@ Civil_stats_Playing_time_civilian:
  Rank    User ID Username                  Civil_stats_Playing_time_civilian      Nickname
 ------------------------------------------------------------------------------------------
 
-   1.      49036 mfz snipe1out                         143      MFZ | SNIPE1 OUT
+   1.      49036 mfz snipe1out                         144      MFZ | SNIPE1 OUT
    2.      45913 whatalife                              77      whatalife
    3.      41965 arnelisnx                             -55      Arnelisnx
    4.      50260 eldariukas                            -41      Eldariukas
@@ -1275,10 +1275,10 @@ Civil_stats_Playing_time_civilian:
   35.      35337 transit1                                5      clio
   36.      44911 pug=309                                 5      Jason n
   37.      46092 zaincey                                 5      Z aince
-  38.      25215 m52b28                                  4      Selling (TC) Cars
-  39.       3895 Piggy501                                4      [TC] ›Nick‹
-  40.      49671 mr.carrots                              4      7B7R
-  41.      41376 glenn quagmire                          4      Quagmire
+  38.      41376 glenn quagmire                          5      Quagmire
+  39.      25215 m52b28                                  4      Selling (TC) Cars
+  40.       3895 Piggy501                                4      [TC] ›Nick‹
+  41.      49671 mr.carrots                              4      7B7R
   42.        135 KROSS                                   3      DEADCRUISER
   43.      25704 psykoze                                 3      [ ﾏ ] Lolita
   44.      26082 1993s14                                 3      2 $low 2 curiou$
@@ -1344,7 +1344,7 @@ Civil_stats_Driven_distance:
 ------------------------------------------------------------------------------------
 
    1.      45913 whatalife                           4,301      whatalife
-   2.      49036 mfz snipe1out                       2,407      MFZ | SNIPE1 OUT
+   2.      49036 mfz snipe1out                       2,425      MFZ | SNIPE1 OUT
    3.        489 =Wolf=[NO]                          1,913      ™ DB JoeValla
    4.      47374 ross2750                              851      Not Ross
    5.      48786 s1a2s1h3k4o5bg                        619      Sash koPat rona
@@ -1367,8 +1367,8 @@ Civil_stats_Driven_distance:
   22.      49054 dunj                                  210      DunJ
   23.      22170 soras99                               201      Erox^
   24.      48552 gatisq                                200      Gatis
-  25.      50234 thenoisycricket11                     165      thenoisycricket11
-  26.      41376 glenn quagmire                        161      Quagmire
+  25.      41376 glenn quagmire                        170      Quagmire
+  26.      50234 thenoisycricket11                     165      thenoisycricket11
   27.      25704 psykoze                               158      [ ﾏ ] Lolita
   28.      10040 vdubclubz                             157      Mﾏ. Volks
   29.      48478 midranit                              147      Kayra Tevzadze
@@ -1449,7 +1449,7 @@ Civil_stats_Driven_distance_on_bikes:
 ---------------------------------------------------------------------------------------------
 
    1.      45913 whatalife                           4,244      whatalife
-   2.      49036 mfz snipe1out                       1,585      MFZ | SNIPE1 OUT
+   2.      49036 mfz snipe1out                       1,595      MFZ | SNIPE1 OUT
    3.      50235 mwerrtt                               736      mwerrtt
    4.      47374 ross2750                              698      Not Ross
    5.      47305 griffin20069                          480      [ LCS- ﾏ] Girfen
@@ -1458,7 +1458,7 @@ Civil_stats_Driven_distance_on_bikes:
    8.      22313 heavykick                             401      B2 ﾏ Heavy
    9.      24338 vercetti87                            210      G R E T A
   10.      45204 luvzc                                 196      Pixiee
-  11.      41376 glenn quagmire                        142      Quagmire
+  11.      41376 glenn quagmire                        151      Quagmire
   12.      26082 1993s14                               138      2 $low 2 curiou$
   13.      41965 arnelisnx                            -138      Arnelisnx
   14.      17555 !cr4zy!                                75      Angry_Wrapper
@@ -1904,7 +1904,7 @@ Rent_Paid:
  Rank    User ID Username                        Rent_Paid      Nickname
 ------------------------------------------------------------------------
 
-   1.      49036 mfz snipe1out                       1,766      MFZ | SNIPE1 OUT
+   1.      49036 mfz snipe1out                       1,815      MFZ | SNIPE1 OUT
    2.      50024 lau_r.d                             1,373      lau
    3.      23754 thijsssiiee                         1,214      [CSR] Thijs
    4.       3672 MrPDR                                 876      ゅ SEi ﾞ
@@ -1925,8 +1925,8 @@ Rent_Paid:
   19.      45151 mr beast                              334      Ghost rider
   20.      47980 thamboo                               322      [P R ] Thamboo
   21.      49671 mr.carrots                            310      7B7R
-  22.      48786 s1a2s1h3k4o5bg                        293      Sash koPat rona
-  23.      41376 glenn quagmire                        292      Quagmire
+  22.      41376 glenn quagmire                        298      Quagmire
+  23.      48786 s1a2s1h3k4o5bg                        293      Sash koPat rona
   24.      48993 cimars                                264      § DRI VER §
   25.       1107 A3rox                                 261      F alken. A3rox
   26.        135 KROSS                                 242      DEADCRUISER
