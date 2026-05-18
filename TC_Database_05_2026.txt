@@ -1,6 +1,6 @@
 May 2026
 Data from (dated files): TC_Database_05_2026.db
-Generated on: 2026-05-19 00:25:03
+Generated on: 2026-05-19 02:31:04
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -32,16 +32,16 @@ Driven_distance:
                      Civil_stats_Driven_distance:                             868
                      Civil_stats_Driven_distance_on_bikes:                     68
                      Robber_stats_Driven_distance_being_chased:                26
-   8.       7370 FFD_Sivy121                           651      Mr.Pixel
-                     Civil_stats_Driven_distance:                             649
+   8.       7370 FFD_Sivy121                           676      Mr.Pixel
+                     Civil_stats_Driven_distance:                             674
    9.      50024 lau_r.d                               598      lau
                      Civil_stats_Driven_distance:                             590
                      Civil_stats_Driven_distance_on_bikes:                    444
   10.      39882 vartolu_sadettin                      593      Das Auto
                      Civil_stats_Driven_distance:                             593
-  11.      22313 heavykick                             531      B2 ﾏ Heavy
-                     Civil_stats_Driven_distance:                             525
-                     Civil_stats_Driven_distance_on_bikes:                    525
+  11.      22313 heavykick                             563      B2 ﾏ Heavy
+                     Civil_stats_Driven_distance:                             557
+                     Civil_stats_Driven_distance_on_bikes:                    557
                      Roleplaying_Driven_distance_as_TOW:                        7
   12.      50261 alpyalcinkaya                        -523      AlpYalcinkaya
                      Civil_stats_Driven_distance:                            -523
@@ -190,8 +190,8 @@ Driven_distance:
   64.      49297 kacperek_                              70      Kacperek ‹B.O.S›
                      Civil_stats_Driven_distance:                              70
                      Civil_stats_Driven_distance_on_bikes:                     70
-  65.      43083 dz0fps                                 66      [ RDSR ] Redfox
-                     Civil_stats_Driven_distance:                              64
+  65.      43083 dz0fps                                 67      [ RDSR ] Redfox
+                     Civil_stats_Driven_distance:                              65
   66.      30454 vilix                                  65      [TC] ›Vilix‹
                      Civil_stats_Driven_distance:                              65
   67.      22792 kotari85sx                             60      BS· BilﾞStar
@@ -402,7 +402,12 @@ Total_Money:
                      Rent_Earned:                                   66
                      Rent_Paid:                                    428
                      Comp_Received:                                 70
-  22.      41376 glenn quagmire                     -8,338      Quagmire
+  22.      22313 heavykick                          -8,369      B2 ﾏ Heavy
+                     Earned_by_driving:                          3,789
+                     Lost_by_driving:                           12,610
+                     Roleplaying_Received_donations:                20
+                     Comp_Received:                                120
+  23.      41376 glenn quagmire                     -8,338      Quagmire
                      Rece_Money:                                   620
                      Earned_by_driving:                          2,915
                      Lost_by_driving:                            3,162
@@ -410,18 +415,13 @@ Total_Money:
                      Roleplaying_Received_donations:               210
                      Rent_Paid:                                    446
                      Comp_Sent:                                    860
-  23.      35710 inno                                8,079      racerformerlyknowninno
+  24.      35710 inno                                8,079      racerformerlyknowninno
                      Earned_by_driving:                          7,753
                      Lost_by_driving:                              121
-  24.      50260 eldariukas                         -7,746      Eldariukas
+  25.      50260 eldariukas                         -7,746      Eldariukas
                      Earned_by_driving:                            849
                      Lost_by_driving:                                3
                      Rent_Paid:                                      5
-  25.      22313 heavykick                          -7,710      B2 ﾏ Heavy
-                     Earned_by_driving:                          3,645
-                     Lost_by_driving:                           11,804
-                     Roleplaying_Received_donations:                20
-                     Comp_Received:                                120
   26.      28781 truckloader                         6,221      [ MRc ] Shamz
                      Earned_by_driving:                            195
                      Lost_by_driving:                              988
@@ -453,21 +453,21 @@ Total_Money:
                      Lost_by_driving:                                3
                      Delivery_Earned_money:                        371
                      Bingo_Won:                                    160
-  31.      10040 vdubclubz                           4,347      Mﾏ. Volks
-                     Earned_by_driving:                          3,932
-                     Lost_by_driving:                               23
-  32.      41794 zgonko96                           -4,003      Zgo nek 96
-                     Earned_by_driving:                            282
-                     Lost_by_driving:                              401
-                     Rent_Paid:                                    384
-  33.       7370 FFD_Sivy121                         3,891      Mr.Pixel
+  31.       7370 FFD_Sivy121                         4,462      Mr.Pixel
                      Sent_Money:                                   111
-                     Earned_by_driving:                         10,674
-                     Lost_by_driving:                            1,442
+                     Earned_by_driving:                         11,108
+                     Lost_by_driving:                            1,443
                      Roleplaying_Paid_donations:                 1,810
                      Roleplaying_Received_donations:             1,781
                      Rent_Paid:                                    381
                      Comp_Sent:                                    330
+  32.      10040 vdubclubz                           4,347      Mﾏ. Volks
+                     Earned_by_driving:                          3,932
+                     Lost_by_driving:                               23
+  33.      41794 zgonko96                           -4,003      Zgo nek 96
+                     Earned_by_driving:                            282
+                     Lost_by_driving:                              401
+                     Rent_Paid:                                    384
   34.      49054 dunj                                3,698      DunJ
                      Earned_by_driving:                          3,301
                      Lost_by_driving:                               11
@@ -602,20 +602,20 @@ Total_Money:
   62.      36940 thepro167                           1,137      Simpson 1 6 7
                      Earned_by_driving:                            871
                      Taxiing_Earned_money:                         202
-  63.      30855 ez_krieg3r                          1,071      » derMiepz «
+  63.      43083 dz0fps                              1,077      [ RDSR ] Redfox
+                     Rece_Money:                                   300
+                     Earned_by_driving:                          1,662
+                     Lost_by_driving:                              147
+                     Rent_Paid:                                    223
+  64.      30855 ez_krieg3r                          1,071      » derMiepz «
                      Earned_by_driving:                            948
                      Taxiing_Earned_money:                         111
                      Rent_Paid:                                     37
-  64.      30454 vilix                              -1,069      [TC] ›Vilix‹
+  65.      30454 vilix                              -1,069      [TC] ›Vilix‹
                      Earned_by_driving:                            327
                      Lost_by_driving:                            1,069
                      Rent_Earned:                                    5
                      Rent_Paid:                                    370
-  65.      43083 dz0fps                              1,039      [ RDSR ] Redfox
-                     Rece_Money:                                   300
-                     Earned_by_driving:                          1,624
-                     Lost_by_driving:                              147
-                     Rent_Paid:                                    223
   66.      46127 marcuzio                            1,025      ™ DB Marcuzio
                      Earned_by_driving:                            885
                      Lost_by_driving:                               20
@@ -792,15 +792,15 @@ Time:
   15.       3672 MrPDR                                  22      ゅ SEi ﾞ
   16.      39882 vartolu_sadettin                       21      Das Auto
   17.      50256 swe.osamaalemam                        21      Hex.
-  18.       7370 FFD_Sivy121                            17      Mr.Pixel
+  18.       7370 FFD_Sivy121                            18      Mr.Pixel
   19.      24338 vercetti87                             15      G R E T A
   20.      50024 lau_r.d                                15      lau
-  21.       3704 ian78                                  14      Ian [ROAD]
-  22.      48665 west54                                 14      ＬＮ # ＷＥＳＴ
-  23.      50235 mwerrtt                                14      mwerrtt
-  24.      50264 car_tango                              14      Car_Tango
-  25.      50314 b3kzin1533                             14      b3k
-  26.      22313 heavykick                              13      B2 ﾏ Heavy
+  21.      22313 heavykick                              14      B2 ﾏ Heavy
+  22.       3704 ian78                                  14      Ian [ROAD]
+  23.      48665 west54                                 14      ＬＮ # ＷＥＳＴ
+  24.      50235 mwerrtt                                14      mwerrtt
+  25.      50264 car_tango                              14      Car_Tango
+  26.      50314 b3kzin1533                             14      b3k
   27.       3895 Piggy501                               13      [TC] ›Nick‹
   28.      49708 legalizado                             13      ! Day
   29.      47980 thamboo                                12      [P R ] Thamboo
@@ -918,7 +918,7 @@ Earned_by_driving:
    6.      47376 evari albo                         17,717      ALBO
    7.      45204 luvzc                              14,012      Pixiee
    8.      24338 vercetti87                         13,363      G R E T A
-   9.       7370 FFD_Sivy121                        10,674      Mr.Pixel
+   9.       7370 FFD_Sivy121                        11,108      Mr.Pixel
   10.      50024 lau_r.d                             9,319      lau
   11.      39882 vartolu_sadettin                    9,080      Das Auto
   12.      47980 thamboo                             8,707      [P R ] Thamboo
@@ -928,7 +928,7 @@ Earned_by_driving:
   16.       3895 Piggy501                            5,005      [TC] ›Nick‹
   17.        318 OuttaGas                            4,506      Gas
   18.      10040 vdubclubz                           3,932      Mﾏ. Volks
-  19.      22313 heavykick                           3,645      B2 ﾏ Heavy
+  19.      22313 heavykick                           3,789      B2 ﾏ Heavy
   20.      44911 pug=309                             3,576      Jason n
   21.      50150 hanz8991631                         3,502      hanz
   22.      49054 dunj                                3,301      DunJ
@@ -948,8 +948,8 @@ Earned_by_driving:
   36.      31357 ulfrevo123                          1,790      [GKG] MARIMUTOS
   37.      22170 soras99                             1,734      Erox^
   38.      25704 psykoze                             1,691      [ ﾏ ]Lolita[COP]
-  39.      25529 hardovsky                           1,628      ｐｅｎｔｉｕｍⅡ
-  40.      43083 dz0fps                              1,624      [ RDSR ] Redfox
+  39.      43083 dz0fps                              1,662      [ RDSR ] Redfox
+  40.      25529 hardovsky                           1,628      ｐｅｎｔｉｕｍⅡ
   41.      36497 giulio niewiadomski                 1,585      [PM] Vitas 993
   42.      47445 charles leclerc 16                  1,582      ( G T P ) Lewis
   43.      41611 meaowboi19                          1,574      merli
@@ -1015,7 +1015,7 @@ Lost_by_driving:
  Rank    User ID Username                  Lost_by_driving      Nickname
 ------------------------------------------------------------------------
 
-   1.      22313 heavykick                          11,804      B2 ﾏ Heavy
+   1.      22313 heavykick                          12,610      B2 ﾏ Heavy
    2.      39867 racing101                           5,099      V M . SMOKEY
    3.      32247 goncalovidigal                      3,681      вмкяgoиcаlo
    4.      45913 whatalife                           3,538      whatalife
@@ -1029,7 +1029,7 @@ Lost_by_driving:
   12.      25704 psykoze                             1,785      [ ﾏ ]Lolita[COP]
   13.      25215 m52b28                              1,688      Selling (TC) Cars
   14.      23754 thijsssiiee                         1,647      [CSR] Thijs
-  15.       7370 FFD_Sivy121                         1,442      Mr.Pixel
+  15.       7370 FFD_Sivy121                         1,443      Mr.Pixel
   16.      39882 vartolu_sadettin                    1,093      Das Auto
   17.      30454 vilix                               1,069      [TC] ›Vilix‹
   18.      28781 truckloader                           988      [ MRc ] Shamz
@@ -1137,13 +1137,13 @@ Total_Wealth:
   15.      50279 ryseyt                             10,363      RyseYT
   16.      24338 vercetti87                         10,146      G R E T A
   17.      48185 hasnainsenna                       10,037      [COP] HasnainSenna
-  18.        489 =Wolf=[NO]                         -9,126      ™ DB JoeValla
-  19.      22313 heavykick                          -8,765      B2 ﾏ Heavy
+  18.      22313 heavykick                          -9,559      B2 ﾏ Heavy
+  19.        489 =Wolf=[NO]                         -9,126      ™ DB JoeValla
   20.      47980 thamboo                             8,713      [P R ] Thamboo
   21.      41376 glenn quagmire                     -8,434      Quagmire
   22.      39882 vartolu_sadettin                    8,147      Das Auto
   23.      35710 inno                                7,777      racerformerlyknowninno
-  24.       7370 FFD_Sivy121                         7,375      Mr.Pixel
+  24.       7370 FFD_Sivy121                         7,758      Mr.Pixel
   25.      28781 truckloader                         6,246      [ MRc ] Shamz
   26.      26082 1993s14                             5,105      2 $low 2 curiou$
   27.      39867 racing101                          -4,328      V M . SMOKEY
@@ -1288,16 +1288,16 @@ Civil_stats_Playing_time_civilian:
   15.      39882 vartolu_sadettin                       22      Das Auto
   16.      47376 evari albo                             21      ALBO
   17.      50256 swe.osamaalemam                        21      Hex.
-  18.       7370 FFD_Sivy121                            17      Mr.Pixel
+  18.       7370 FFD_Sivy121                            18      Mr.Pixel
   19.      24338 vercetti87                             15      G R E T A
   20.      50024 lau_r.d                                15      lau
   21.      50235 mwerrtt                                14      mwerrtt
   22.      50264 car_tango                              14      Car_Tango
   23.      50314 b3kzin1533                             14      b3k
-  24.       3895 Piggy501                               13      [TC] ›Nick‹
-  25.      48665 west54                                 13      ＬＮ # ＷＥＳＴ
-  26.      49708 legalizado                             13      ! Day
-  27.      22313 heavykick                              12      B2 ﾏ Heavy
+  24.      22313 heavykick                              13      B2 ﾏ Heavy
+  25.       3895 Piggy501                               13      [TC] ›Nick‹
+  26.      48665 west54                                 13      ＬＮ # ＷＥＳＴ
+  27.      49708 legalizado                             13      ! Day
   28.      47980 thamboo                                12      [P R ] Thamboo
   29.      47305 griffin20069                           11      [ LCS- ﾏ] Girfen
   30.      45204 luvzc                                  10      Pixiee
@@ -1383,10 +1383,10 @@ Civil_stats_Driven_distance:
    5.      47376 evari albo                            895      ALBO
    6.      47305 griffin20069                          875      [ LCS- ﾏ] Girfen
    7.      48786 s1a2s1h3k4o5bg                        868      Sash koPat rona
-   8.       7370 FFD_Sivy121                           649      Mr.Pixel
+   8.       7370 FFD_Sivy121                           674      Mr.Pixel
    9.      39882 vartolu_sadettin                      593      Das Auto
   10.      50024 lau_r.d                               590      lau
-  11.      22313 heavykick                             525      B2 ﾏ Heavy
+  11.      22313 heavykick                             557      B2 ﾏ Heavy
   12.      50261 alpyalcinkaya                        -523      AlpYalcinkaya
   13.      39867 racing101                             514      V M . SMOKEY
   14.      24338 vercetti87                            506      G R E T A
@@ -1436,8 +1436,8 @@ Civil_stats_Driven_distance:
   58.      47965 donutlord                              71      404 not found
   59.      28781 truckloader                            70      [ MRc ] Shamz
   60.      49297 kacperek_                              70      Kacperek ‹B.O.S›
-  61.      30454 vilix                                  65      [TC] ›Vilix‹
-  62.      43083 dz0fps                                 64      [ RDSR ] Redfox
+  61.      43083 dz0fps                                 65      [ RDSR ] Redfox
+  62.      30454 vilix                                  65      [TC] ›Vilix‹
   63.      22792 kotari85sx                             61      BS· BilﾞStar
   64.      35337 transit1                               59      clio
   65.      39239 jordanvalov                            55      [CSR] Yordan
@@ -1487,7 +1487,7 @@ Civil_stats_Driven_distance_on_bikes:
    4.      50235 mwerrtt                               736      mwerrtt
    5.      47305 griffin20069                          699      [ LCS- ﾏ] Girfen
    6.      50256 swe.osamaalemam                       591      Hex.
-   7.      22313 heavykick                             525      B2 ﾏ Heavy
+   7.      22313 heavykick                             557      B2 ﾏ Heavy
    8.       1978 detail                                449      detail
    9.      50024 lau_r.d                               444      lau
   10.      24338 vercetti87                            380      G R E T A
