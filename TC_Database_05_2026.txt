@@ -1,6 +1,6 @@
 May 2026
 Data from (dated files): TC_Database_05_2026.db
-Generated on: 2026-05-20 10:08:04
+Generated on: 2026-05-20 12:14:05
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -22,9 +22,9 @@ Driven_distance:
                      Robber_stats_Driven_distance_being_chased:                22
                      Roleplaying_Driven_distance_as_MED_RES:                  133
                      Mail_Courier_Driven_distance:                            242
-   5.      47374 ross2750                            1,241      Not Ross
-                     Civil_stats_Driven_distance:                           1,240
-                     Civil_stats_Driven_distance_on_bikes:                  1,053
+   5.      47374 ross2750                            1,245      Not Ross
+                     Civil_stats_Driven_distance:                           1,244
+                     Civil_stats_Driven_distance_on_bikes:                  1,057
    6.      47305 griffin20069                          978      [ LCS- ﾏ] Girfen
                      Civil_stats_Driven_distance:                             978
                      Civil_stats_Driven_distance_on_bikes:                    750
@@ -62,8 +62,8 @@ Driven_distance:
                      Civil_stats_Driven_distance:                             383
   18.      44911 pug=309                               361      Jason n
                      Civil_stats_Driven_distance:                             360
-  19.      35710 inno                                  334      racerformerlyknowninno
-                     Civil_stats_Driven_distance:                             332
+  19.      35710 inno                                  359      racerformerlyknowninno
+                     Civil_stats_Driven_distance:                             358
   20.      26082 1993s14                               310      2 $low 2 curiou$
                      Civil_stats_Driven_distance:                             268
                      Civil_stats_Driven_distance_on_bikes:                    290
@@ -311,11 +311,11 @@ Total_Money:
                      Rent_Paid:                                  1,851
                      Comp_Received:                                200
                      Comp_Sent:                                    260
-   4.      47374 ross2750                           42,518      Not Ross
+   4.      47374 ross2750                           42,688      Not Ross
                      Sent_Money:                                   700
                      Rece_Money:                                   400
-                     Earned_by_driving:                         41,841
-                     Lost_by_driving:                              331
+                     Earned_by_driving:                         41,925
+                     Lost_by_driving:                              366
                      Rent_Earned:                                   93
                      Rent_Paid:                                    190
                      Comp_Received:                                350
@@ -404,16 +404,19 @@ Total_Money:
                      Rent_Paid:                                    428
                      Comp_Received:                                 70
                      Bingo_Won:                                    130
-  21.      41711 halil345                           -8,731      FreXy
+  21.      35710 inno                                8,807      racerformerlyknowninno
+                     Earned_by_driving:                          8,484
+                     Lost_by_driving:                              124
+  22.      41711 halil345                           -8,731      FreXy
                      Earned_by_driving:                            176
                      Lost_by_driving:                              446
                      Rent_Paid:                                     31
-  22.      22313 heavykick                          -8,369      B2 ﾏ Heavy
+  23.      22313 heavykick                          -8,369      B2 ﾏ Heavy
                      Earned_by_driving:                          3,789
                      Lost_by_driving:                           12,610
                      Roleplaying_Received_donations:                20
                      Comp_Received:                                120
-  23.      41376 glenn quagmire                     -8,338      Quagmire
+  24.      41376 glenn quagmire                     -8,338      Quagmire
                      Rece_Money:                                   620
                      Earned_by_driving:                          2,915
                      Lost_by_driving:                            3,162
@@ -421,9 +424,6 @@ Total_Money:
                      Roleplaying_Received_donations:               210
                      Rent_Paid:                                    446
                      Comp_Sent:                                    860
-  24.      35710 inno                                8,079      racerformerlyknowninno
-                     Earned_by_driving:                          7,753
-                     Lost_by_driving:                              121
   25.      50260 eldariukas                         -7,746      Eldariukas
                      Earned_by_driving:                            849
                      Lost_by_driving:                                3
@@ -912,7 +912,7 @@ Earned_by_driving:
 
    1.      45913 whatalife                         194,259      whatalife
    2.      49036 mfz snipe1out                      86,315      MFZ | SNIPE1 OUT
-   3.      47374 ross2750                           41,841      Not Ross
+   3.      47374 ross2750                           41,925      Not Ross
    4.      47305 griffin20069                       29,547      [ LCS- ﾏ] Girfen
    5.      47376 evari albo                         22,546      [SAVE TC] ALBO
    6.        489 =Wolf=[NO]                         21,061      ™ DB JoeValla
@@ -922,7 +922,7 @@ Earned_by_driving:
   10.      50024 lau_r.d                             9,319      lau
   11.      39882 vartolu_sadettin                    9,080      Das Auto
   12.      47980 thamboo                             8,707      [P R ] Thamboo
-  13.      35710 inno                                7,753      racerformerlyknowninno
+  13.      35710 inno                                8,484      racerformerlyknowninno
   14.      48786 s1a2s1h3k4o5bg                      7,643      Sash koPat rona
   15.      26082 1993s14                             6,508      2 $low 2 curiou$
   16.        318 OuttaGas                            5,770      Gas
@@ -1056,9 +1056,9 @@ Lost_by_driving:
   39.      47445 charles leclerc 16                    392      ( G T P ) Lewis
   40.      48185 hasnainsenna                          387      [COP] HasnainSenna
   41.      13948 MaGiC DuB                             384      [6S] MaGiC
-  42.      40659 cgtyksy55                             345      Redﾉ CCTV
-  43.      48993 cimars                                334      § DRI VER §
-  44.      47374 ross2750                              331      Not Ross
+  42.      47374 ross2750                              366      Not Ross
+  43.      40659 cgtyksy55                             345      Redﾉ CCTV
+  44.      48993 cimars                                334      § DRI VER §
   45.      39239 jordanvalov                           329      [CSR] Yordan
   46.      42875 posyda                                304      Q S.Posyda
   47.      48324 b0ldeau                               267      ßØŁĐ
@@ -1088,7 +1088,7 @@ Lost_by_driving:
   71.      43444 slyvute                               139      trax 〃 ＭＷ
   72.      32443 alau07                                136      [ LCS- マ] Lausk
   73.       3688 greg_slideways                        129      · Warlab ™ Tilly
-  74.      35710 inno                                  121      racerformerlyknowninno
+  74.      35710 inno                                  124      racerformerlyknowninno
   75.       1561 slamza.                               119      ШS • Kenns
   76.      12846 DJmad                                 116      insurance fraud.
   77.      30441 irecless                              111      xPonzoo
@@ -1123,7 +1123,7 @@ Total_Wealth:
    1.      45913 whatalife                         222,874      whatalife
    2.      49036 mfz snipe1out                     150,673      MFZ | SNIPE1 OUT
    3.      35012 badkapp62                         -67,098      Redﾉ Badkapp
-   4.      47374 ross2750                           43,319      Not Ross
+   4.      47374 ross2750                           43,470      Not Ross
    5.      18845 lukey747                          -39,846      [TC] ›Luke™‹ [VCU]
    6.      49027 mustafabezer                       34,389      ＳＦ ゞ babo
    7.      47305 griffin20069                       31,022      [ LCS- ﾏ] Girfen
@@ -1140,9 +1140,9 @@ Total_Wealth:
   18.      22313 heavykick                          -9,559      B2 ﾏ Heavy
   19.        489 =Wolf=[NO]                         -9,126      ™ DB JoeValla
   20.      47980 thamboo                             8,847      [P R ] Thamboo
-  21.      41376 glenn quagmire                     -8,434      Quagmire
-  22.      39882 vartolu_sadettin                    8,147      Das Auto
-  23.      35710 inno                                7,777      racerformerlyknowninno
+  21.      35710 inno                                8,499      racerformerlyknowninno
+  22.      41376 glenn quagmire                     -8,434      Quagmire
+  23.      39882 vartolu_sadettin                    8,147      Das Auto
   24.       7370 FFD_Sivy121                         7,758      Mr.Pixel
   25.      28781 truckloader                         6,246      [ MRc ] Shamz
   26.      26082 1993s14                             5,002      2 $low 2 curiou$
@@ -1382,7 +1382,7 @@ Civil_stats_Driven_distance:
    2.      49036 mfz snipe1out                       3,080      MFZ | SNIPE1 OUT
    3.        489 =Wolf=[NO]                          2,165      ™ DB JoeValla
    4.      47376 evari albo                          1,281      [SAVE TC] ALBO
-   5.      47374 ross2750                            1,240      Not Ross
+   5.      47374 ross2750                            1,244      Not Ross
    6.      47305 griffin20069                          978      [ LCS- ﾏ] Girfen
    7.      48786 s1a2s1h3k4o5bg                        899      Sash koPat rona
    8.       7370 FFD_Sivy121                           674      Mr.Pixel
@@ -1396,7 +1396,7 @@ Civil_stats_Driven_distance:
   16.      47980 thamboo                               490      [P R ] Thamboo
   17.      50150 hanz8991631                           383      hanz
   18.      44911 pug=309                               360      Jason n
-  19.      35710 inno                                  332      racerformerlyknowninno
+  19.      35710 inno                                  358      racerformerlyknowninno
   20.       3672 MrPDR                                 274      ゅ SEi ﾞ
   21.       3895 Piggy501                              270      [TC] ›Nick‹
   22.      26082 1993s14                               268      2 $low 2 curiou$
@@ -1485,7 +1485,7 @@ Civil_stats_Driven_distance_on_bikes:
 
    1.      45913 whatalife                           6,860      whatalife
    2.      49036 mfz snipe1out                       1,844      MFZ | SNIPE1 OUT
-   3.      47374 ross2750                            1,053      Not Ross
+   3.      47374 ross2750                            1,057      Not Ross
    4.      47305 griffin20069                          750      [ LCS- ﾏ] Girfen
    5.      50235 mwerrtt                               736      mwerrtt
    6.      50256 swe.osamaalemam                       591      Hex.
