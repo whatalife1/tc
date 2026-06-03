@@ -1,6 +1,6 @@
 June 2026
 Data from (dated files): TC_Database_06_2026.db
-Generated on: 2026-06-04 00:36:03
+Generated on: 2026-06-04 02:42:03
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -89,19 +89,23 @@ Driven_distance:
                      Civil_stats_Driven_distance:                              14
   33.      39264 lubomir371                             13      [CSR] L.ivanov156
                      Civil_stats_Driven_distance:                              12
-  34.      44911 pug=309                                10      Jason n
+  34.      40605 emileker                               11      silentkiller
+                     Civil_stats_Driven_distance:                              10
+  35.      44911 pug=309                                10      Jason n
                      Civil_stats_Driven_distance:                               9
                      Civil_stats_Driven_distance_on_bikes:                     10
-  35.      45943 eronluc                                 9      E R O N
+  36.      45943 eronluc                                 9      E R O N
                      Civil_stats_Driven_distance:                               8
                      Busing_Driven_distance:                                    9
-  36.      36497 giulio niewiadomski                     5      [PM] Vitas 993
+  37.      36497 giulio niewiadomski                     5      [PM] Vitas 993
                      Civil_stats_Driven_distance:                               4
-  37.      41245 forzakin                                3      LedenaKralica
+  38.      12846 DJmad                                   5      insurance fraud.
+                     Civil_stats_Driven_distance:                               5
+  39.      41245 forzakin                                3      LedenaKralica
                      Civil_stats_Driven_distance:                               3
-  38.      50341 kumarss                                 2      Shock
+  40.      50341 kumarss                                 2      Shock
                      Civil_stats_Driven_distance:                               2
-  39.       3894 matze54564                              2      Optischmied@VR
+  41.       3894 matze54564                              2      Optischmied@VR
                      Civil_stats_Driven_distance:                               2
 
 Total_Money:
@@ -241,14 +245,21 @@ Total_Money:
                      Lost_by_driving:                              188
   35.       3894 matze54564                             87      Optischmied@VR
                      Earned_by_driving:                             87
-  36.      36497 giulio niewiadomski                    60      [PM] Vitas 993
+  36.      12846 DJmad                                  73      insurance fraud.
+                     Earned_by_driving:                             74
+                     Lost_by_driving:                                1
+  37.      36497 giulio niewiadomski                    60      [PM] Vitas 993
                      Earned_by_driving:                             91
                      Rent_Paid:                                     31
-  37.      50341 kumarss                                55      Shock
+  38.      50341 kumarss                                55      Shock
                      Earned_by_driving:                             55
-  38.      41245 forzakin                               30      LedenaKralica
+  39.      40605 emileker                               48      silentkiller
+                     Earned_by_driving:                             68
+                     Lost_by_driving:                                4
+                     Rent_Paid:                                     16
+  40.      41245 forzakin                               30      LedenaKralica
                      Earned_by_driving:                             30
-  39.      46021 aligamingarabic                        -1      AliGaming
+  41.      46021 aligamingarabic                        -1      AliGaming
                      Sent_Money:                                   221
                      Earned_by_driving:                          1,040
                      Roleplaying_Paid_donations:                    10
@@ -353,8 +364,10 @@ Earned_by_driving:
   35.      23018 longtr                                 94      Lon GTR
   36.      36497 giulio niewiadomski                    91      [PM] Vitas 993
   37.       3894 matze54564                             87      Optischmied@VR
-  38.      50341 kumarss                                55      Shock
-  39.      41245 forzakin                               30      LedenaKralica
+  38.      12846 DJmad                                  74      insurance fraud.
+  39.      40605 emileker                               68      silentkiller
+  40.      50341 kumarss                                55      Shock
+  41.      41245 forzakin                               30      LedenaKralica
 
 Lost_by_driving:
  Rank    User ID Username                  Lost_by_driving      Nickname
@@ -371,9 +384,11 @@ Lost_by_driving:
    9.      24338 vercetti87                              9      G R E T A
   10.      32220 compactrhone                            8      ™ DB Rhone
   11.      49036 mfz snipe1out                           5      [SAVE TC] SNIPE1OUT
-  12.      47471 young.drift                             2      Roham
-  13.      45913 whatalife                               1      whatalife
-  14.      28134 ke608                                   1      YIKES!
+  12.      40605 emileker                                4      silentkiller
+  13.      47471 young.drift                             2      Roham
+  14.      45913 whatalife                               1      whatalife
+  15.      28134 ke608                                   1      YIKES!
+  16.      12846 DJmad                                   1      insurance fraud.
 
 Total_Wealth:
  Rank    User ID Username                     Total_Wealth      Nickname
@@ -414,10 +429,12 @@ Total_Wealth:
   33.      39264 lubomir371                            152      [CSR] L.ivanov156
   34.      23018 longtr                               -101      Lon GTR
   35.       3894 matze54564                             87      Optischmied@VR
-  36.      36497 giulio niewiadomski                    60      [PM] Vitas 993
-  37.      50341 kumarss                                55      Shock
-  38.      41245 forzakin                               30      LedenaKralica
-  39.      46021 aligamingarabic                        -3      AliGaming
+  36.      12846 DJmad                                  77      insurance fraud.
+  37.      36497 giulio niewiadomski                    60      [PM] Vitas 993
+  38.      50341 kumarss                                55      Shock
+  39.      40605 emileker                               48      silentkiller
+  40.      41245 forzakin                               30      LedenaKralica
+  41.      46021 aligamingarabic                        -3      AliGaming
 
 Hard_crashes:
  Rank    User ID Username                     Hard_crashes      Nickname
@@ -504,12 +521,14 @@ Civil_stats_Driven_distance:
   30.      39239 jordanvalov                            14      [CSR] Yordan
   31.      23018 longtr                                 13      Lon GTR
   32.      39264 lubomir371                             12      [CSR] L.ivanov156
-  33.      44911 pug=309                                 9      Jason n
-  34.      45943 eronluc                                 8      E R O N
-  35.      36497 giulio niewiadomski                     4      [PM] Vitas 993
-  36.      41245 forzakin                                3      LedenaKralica
-  37.      50341 kumarss                                 2      Shock
-  38.       3894 matze54564                              2      Optischmied@VR
+  33.      40605 emileker                               10      silentkiller
+  34.      44911 pug=309                                 9      Jason n
+  35.      45943 eronluc                                 8      E R O N
+  36.      12846 DJmad                                   5      insurance fraud.
+  37.      36497 giulio niewiadomski                     4      [PM] Vitas 993
+  38.      41245 forzakin                                3      LedenaKralica
+  39.      50341 kumarss                                 2      Shock
+  40.       3894 matze54564                              2      Optischmied@VR
 
 Civil_stats_Driven_distance_on_bikes:
  Rank    User ID Username                  Civil_stats_Driven_distance_on_bikes      Nickname
@@ -707,10 +726,11 @@ Rent_Paid:
   18.      46021 aligamingarabic                        24      AliGaming
   19.      42673 superlame2                             17      [CSR] Metko
   20.      45444 argamingarabic                         17      Black mafia
-  21.      39239 jordanvalov                            10      [CSR] Yordan
-  22.      41376 glenn quagmire                          7      Omega
-  23.      39742 swoloc                                  6      Swoloc
-  24.      50345 mantiokas30                             5      Mantiokas
+  21.      40605 emileker                               16      silentkiller
+  22.      39239 jordanvalov                            10      [CSR] Yordan
+  23.      41376 glenn quagmire                          7      Omega
+  24.      39742 swoloc                                  6      Swoloc
+  25.      50345 mantiokas30                             5      Mantiokas
 
 Comp_Received:
  Rank    User ID Username                    Comp_Received      Nickname
