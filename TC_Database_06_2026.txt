@@ -1,14 +1,14 @@
 June 2026
 Data from (dated files): TC_Database_06_2026.db
-Generated on: 2026-06-29 07:51:07
+Generated on: 2026-06-29 09:57:06
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                           9,503      whatalife
-                     Civil_stats_Driven_distance:                           9,502
-                     Civil_stats_Driven_distance_on_bikes:                  9,415
+   1.      45913 whatalife                           9,532      whatalife
+                     Civil_stats_Driven_distance:                           9,531
+                     Civil_stats_Driven_distance_on_bikes:                  9,439
                      Robber_stats_Driven_distance_being_chased:                 4
                      Mail_Courier_Driven_distance:                              6
    2.      50364 pjm                                 6,736      pjm
@@ -19,8 +19,8 @@ Driven_distance:
                      Mail_Courier_Driven_distance:                          1,136
                      Busing_Driven_distance:                                   22
                      Taxiing_Driven_distance:                                 207
-   3.      20869 what else                           4,841      ★ JΛKΞ ★
-                     Civil_stats_Driven_distance:                           4,724
+   3.      20869 what else                           4,971      ★ JΛKΞ ★
+                     Civil_stats_Driven_distance:                           4,853
                      Robber_stats_Driven_distance_being_chased:                 1
    4.      39516 mehmetgulec                         3,861      ηgµ ｫ japon
                      Civil_stats_Driven_distance:                           3,858
@@ -68,7 +68,13 @@ Driven_distance:
                      Roleplaying_Driven_distance_as_MED_RES:                   91
                      Roleplaying_Driven_distance_in_SOS_calls:                  4
                      Delivery_Driven_distance_loaded:                           9
-  12.      40607 biomeri                             1,970      Biomeri³
+  12.      48324 b0ldeau                             1,977      ßØŁĐ
+                     Civil_stats_Driven_distance:                           1,899
+                     Civil_stats_Driven_distance_on_bikes:                      3
+                     Robber_stats_Driven_distance_being_chased:                 2
+                     Delivery_Driven_distance_loaded:                           2
+                     Taxiing_Driven_distance:                                  22
+  13.      40607 biomeri                             1,970      Biomeri³
                      Civil_stats_Driven_distance:                           1,439
                      Civil_stats_Driven_distance_on_bikes:                    508
                      Robber_stats_Driven_distance_being_chased:               188
@@ -76,12 +82,6 @@ Driven_distance:
                      Cop_stats_Driven_distance_chasing:                       389
                      Roleplaying_Driven_distance_as_MED_RES:                    4
                      Roleplaying_Driven_distance_in_SOS_calls:                  4
-  13.      48324 b0ldeau                             1,944      ßØŁĐ
-                     Civil_stats_Driven_distance:                           1,866
-                     Civil_stats_Driven_distance_on_bikes:                      3
-                     Robber_stats_Driven_distance_being_chased:                 2
-                     Delivery_Driven_distance_loaded:                           2
-                     Taxiing_Driven_distance:                                  22
   14.      35710 inno                                1,847      racerformerlyknowninno
                      Civil_stats_Driven_distance:                           1,847
                      Robber_stats_Driven_distance_being_chased:                19
@@ -491,27 +491,27 @@ Total_Money:
                      Rent_Paid:                                    359
                      Comp_Sent:                                    340
                      Bingo_Won:                                    145
-   2.      20869 what else                        -629,608      ★ JΛKΞ ★
+   2.      20869 what else                        -627,183      ★ JΛKΞ ★
                      Sent_Money:                                   430
                      Rece_Money:                                   200
-                     Earned_by_driving:                         78,570
-                     Lost_by_driving:                              304
+                     Earned_by_driving:                         80,289
+                     Lost_by_driving:                              368
                      Robber_stats_Paid_fines:                      180
                      Roleplaying_Paid_donations:                 1,810
                      Roleplaying_Received_donations:             2,226
                      Rent_Earned:                                  114
                      Rent_Paid:                                    329
                      Comp_Received:                              1,120
-   3.      45913 whatalife                         289,625      whatalife
+   3.      45913 whatalife                         290,673      whatalife
                      Sent_Money:                                 5,135
                      Rece_Money:                                   750
-                     Earned_by_driving:                        266,356
-                     Lost_by_driving:                            2,289
+                     Earned_by_driving:                        267,222
+                     Lost_by_driving:                            2,296
                      Roleplaying_Received_donations:             1,535
                      Mail_Courier_Earned_money:                    187
                      Mail_Courier_Paid_penalties:                   15
                      Rent_Earned:                                   17
-                     Rent_Paid:                                  1,764
+                     Rent_Paid:                                  1,789
                      Comp_Received:                                920
                      Comp_Sent:                                  1,320
    4.         75 Psygo                             108,259      Psygo
@@ -918,7 +918,21 @@ Total_Money:
                      Busing_Earned_money:                        3,780
                      Taxiing_Earned_money:                          32
                      Rent_Paid:                                    213
-  52.      43674 maxpower147                         9,091      SG ﾏ MaxPower147
+  52.      48324 b0ldeau                             9,278      ßØŁĐ
+                     Sent_Money:                                 2,326
+                     Rece_Money:                                 1,838
+                     Earned_by_driving:                         24,662
+                     Lost_by_driving:                              648
+                     Robber_stats_Paid_fines:                    1,040
+                     Roleplaying_Paid_donations:                   100
+                     Roleplaying_Received_donations:               948
+                     Delivery_Earned_money:                         26
+                     Taxiing_Earned_money:                         444
+                     Taxiing_Paid_penalties:                        75
+                     Rent_Paid:                                    222
+                     Comp_Received:                                710
+                     Comp_Sent:                                  1,020
+  53.      43674 maxpower147                         9,091      SG ﾏ MaxPower147
                      Earned_by_driving:                         15,185
                      Lost_by_driving:                              125
                      Robber_stats_Paid_fines:                      600
@@ -930,25 +944,11 @@ Total_Money:
                      Rent_Paid:                                  1,019
                      Comp_Received:                                860
                      Comp_Sent:                                  1,140
-  53.      19411 geentl                             -8,910      GeenTL
+  54.      19411 geentl                             -8,910      GeenTL
                      Earned_by_driving:                            422
                      Lost_by_driving:                               96
                      Rent_Paid:                                     76
                      Comp_Sent:                                    160
-  54.      48324 b0ldeau                             8,904      ßØŁĐ
-                     Sent_Money:                                 2,326
-                     Rece_Money:                                 1,838
-                     Earned_by_driving:                         24,307
-                     Lost_by_driving:                              639
-                     Robber_stats_Paid_fines:                    1,040
-                     Roleplaying_Paid_donations:                   100
-                     Roleplaying_Received_donations:               948
-                     Delivery_Earned_money:                         26
-                     Taxiing_Earned_money:                         444
-                     Taxiing_Paid_penalties:                        75
-                     Rent_Paid:                                    222
-                     Comp_Received:                                710
-                     Comp_Sent:                                  1,020
   55.      32966 theguiihbr                         -8,844      [TC] ›Batman‹
                      Sent_Money:                                 4,429
                      Earned_by_driving:                          3,079
@@ -1268,8 +1268,8 @@ Time:
 ------------------------------------------------------------------------
 
    1.      45913 whatalife                             203      whatalife
-   2.      20869 what else                             181      ★ JΛKΞ ★
-   3.      50364 pjm                                   149      pjm
+   2.      20869 what else                             183      ★ JΛKΞ ★
+   3.      50364 pjm                                   151      pjm
    4.      49036 mfz snipe1out                         138      [SAVE TC] SNIPE1OUT
    5.      41772 scammergamerlol                       130      Burrito
    6.      32443 alau07                                 99      [SHAVE TC] Lausk
@@ -1514,9 +1514,9 @@ Earned_by_driving:
  Rank    User ID Username                  Earned_by_driving      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                         266,356      whatalife
+   1.      45913 whatalife                         267,222      whatalife
    2.      50364 pjm                               141,015      pjm
-   3.      20869 what else                          78,570      ★ JΛKΞ ★
+   3.      20869 what else                          80,289      ★ JΛKΞ ★
    4.      47374 ross2750                           63,637      Not Ross
    5.      39516 mehmetgulec                        54,745      ηgµ ｫ japon
    6.      49036 mfz snipe1out                      54,621      [SAVE TC] SNIPE1OUT
@@ -1528,8 +1528,8 @@ Earned_by_driving:
   12.      32443 alau07                             34,356      [SHAVE TC] Lausk
   13.      49230 nora vale                          32,497      Nora ﾞ
   14.       1283 THE WIZARD DK                      28,452      THE WIZARD DK ﾂ
-  15.      17555 !cr4zy!                            24,409      ‹B.O.S› AngryWrapper
-  16.      48324 b0ldeau                            24,307      ßØŁĐ
+  15.      48324 b0ldeau                            24,662      ßØŁĐ
+  16.      17555 !cr4zy!                            24,409      ‹B.O.S› AngryWrapper
   17.      41614 vladisim1711                       24,113      vladisim1711
   18.      38090 stuchlo                            21,271      Stuchlo
   19.      46983 shamrox                            21,016      JustWokeUp.
@@ -1643,7 +1643,7 @@ Lost_by_driving:
   22.      41796 countess                            2,618      Count
   23.      47656 space_sheep                         2,513      Josse
   24.      39516 mehmetgulec                         2,394      ηgµ ｫ japon
-  25.      45913 whatalife                           2,289      whatalife
+  25.      45913 whatalife                           2,296      whatalife
   26.      26082 1993s14                             1,712      2 $low 2 curiou$
   27.       3245 [OD]Jardim                          1,675      ｢O K｣ Jardim
   28.      19071 pcpaultje2                          1,568      Redﾉ TT
@@ -1684,8 +1684,8 @@ Lost_by_driving:
   63.      32287 rikopikomaradon                       656      LIVE_ FOR_ WEED ®
   64.      26228 painb                                 655      [ DS ] Val
   65.      40107 fronzy34                              649      [CSR] Emir
-  66.      46396 smirdaboli                            646      ?
-  67.      48324 b0ldeau                               639      ßØŁĐ
+  66.      48324 b0ldeau                               648      ßØŁĐ
+  67.      46396 smirdaboli                            646      ?
   68.      42617 rubbel_31                             622      RacøN
   69.      42673 superlame2                            612      [CSR] Metko
   70.      34860 ramblinman                            608      Ａｒｔ☆ Zeyus
@@ -1725,7 +1725,7 @@ Total_Wealth:
 ------------------------------------------------------------------------
 
    1.      21218 khaledalshihry                    907,078      V M . K3s
-   2.      45913 whatalife                         284,909      whatalife
+   2.      45913 whatalife                         285,971      whatalife
    3.      50364 pjm                               224,778      pjm
    4.      23210 sergey29                          -98,731      [6S] Angel
    5.      27293 J--                               -91,808      V M . January
@@ -1733,7 +1733,7 @@ Total_Wealth:
    7.      47374 ross2750                           72,779      Not Ross
    8.      49036 mfz snipe1out                      66,465      [SAVE TC] SNIPE1OUT
    9.      39516 mehmetgulec                        62,303      ηgµ ｫ japon
-  10.      20869 what else                          58,442      ★ JΛKΞ ★
+  10.      20869 what else                          60,514      ★ JΛKΞ ★
   11.      41772 scammergamerlol                    56,298      Burrito
   12.      49230 nora vale                          55,449      Nora ﾞ
   13.      25215 m52b28                            -48,488      Selling (TC) Cars
@@ -1745,7 +1745,7 @@ Total_Wealth:
   19.      40242 astraxan                           26,756      GR EEK
   20.      41614 vladisim1711                       26,041      vladisim1711
   21.      38090 stuchlo                            24,538      Stuchlo
-  22.      48324 b0ldeau                            23,870      ßØŁĐ
+  22.      48324 b0ldeau                            24,185      ßØŁĐ
   23.      41077 remelis                           -21,440      Frame
   24.      42153 elevitas                           20,422      ELEV ITAS
   25.      47376 evari albo                         19,206      [SAVE TC] ALBO
@@ -1958,8 +1958,8 @@ Civil_stats_Playing_time_civilian:
 ------------------------------------------------------------------------------------------
 
    1.      45913 whatalife                             203      whatalife
-   2.      20869 what else                             179      ★ JΛKΞ ★
-   3.      50364 pjm                                   148      pjm
+   2.      20869 what else                             181      ★ JΛKΞ ★
+   3.      50364 pjm                                   150      pjm
    4.      49036 mfz snipe1out                         138      [SAVE TC] SNIPE1OUT
    5.      41772 scammergamerlol                       130      Burrito
    6.      32443 alau07                                 73      [SHAVE TC] Lausk
@@ -1977,8 +1977,8 @@ Civil_stats_Playing_time_civilian:
   18.      50422 gustavohstw23                          48      gustavohstw23
   19.      50475 o7rt                                   47      o7RT
   20.      47374 ross2750                               44      Not Ross
-  21.      50463 neorider                               42      neorider
-  22.      48324 b0ldeau                                41      ßØŁĐ
+  21.      48324 b0ldeau                                42      ßØŁĐ
+  22.      50463 neorider                               42      neorider
   23.      50355 luciusdz                               41      Luciusdz
   24.      43251 sentex                                -39      Rotax Max
   25.       1283 THE WIZARD DK                          37      THE WIZARD DK ﾂ
@@ -2062,9 +2062,9 @@ Civil_stats_Driven_distance:
  Rank    User ID Username                  Civil_stats_Driven_distance      Nickname
 ------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           9,502      whatalife
+   1.      45913 whatalife                           9,531      whatalife
    2.      50364 pjm                                 6,109      pjm
-   3.      20869 what else                           4,724      ★ JΛKΞ ★
+   3.      20869 what else                           4,853      ★ JΛKΞ ★
    4.      39516 mehmetgulec                         3,858      ηgµ ｫ japon
    5.      47471 young.drift                         3,750      V M . Roham
    6.      41772 scammergamerlol                     3,561      Burrito
@@ -2073,7 +2073,7 @@ Civil_stats_Driven_distance:
    9.      32443 alau07                              2,383      [SHAVE TC] Lausk
   10.      47376 evari albo                          2,318      [SAVE TC] ALBO
   11.      39867 racing101                           1,924      V M . SMOKEY
-  12.      48324 b0ldeau                             1,866      ßØŁĐ
+  12.      48324 b0ldeau                             1,899      ßØŁĐ
   13.      35710 inno                                1,847      racerformerlyknowninno
   14.      47305 griffin20069                        1,692      [ LCS- ﾏ] Girfen
   15.      44911 pug=309                             1,663      Jason n
@@ -2167,7 +2167,7 @@ Civil_stats_Driven_distance_on_bikes:
  Rank    User ID Username                  Civil_stats_Driven_distance_on_bikes      Nickname
 ---------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           9,415      whatalife
+   1.      45913 whatalife                           9,439      whatalife
    2.      47305 griffin20069                        1,644      [ LCS- ﾏ] Girfen
    3.      47374 ross2750                            1,561      Not Ross
    4.      47471 young.drift                         1,413      V M . Roham
@@ -4183,7 +4183,7 @@ Rent_Paid:
   26.      41796 countess                            1,865      Count
   27.      43459 vydelio                             1,852      [COP]tomce
   28.       3245 [OD]Jardim                          1,838      ｢O K｣ Jardim
-  29.      45913 whatalife                           1,764      whatalife
+  29.      45913 whatalife                           1,789      whatalife
   30.      25411 pastyrk.fi                          1,749      [7MAR] Maso
   31.      50462 pietreki                            1,682      Pietrek
   32.      42317 eetz1                               1,660      VM.Eetzi
