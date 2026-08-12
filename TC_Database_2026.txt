@@ -1,12 +1,12 @@
 2026 Summary
 Data from (dated files): TC_Database_01_2026.db, TC_Database_02_2026.db, TC_Database_03_2026.db, TC_Database_04_2026.db, TC_Database_05_2026.db, TC_Database_06_2026.db, TC_Database_07_2026.db, TC_Database_07_2026_shrink.db, TC_Database_08_2026.db, TC_Database_08_2026_shrink.db
-Generated on: 2026-08-11 10:09:00
+Generated on: 2026-08-12 10:37:49
 
 Driven_distance:
  Rank    User ID Username                    Driven_distance      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                            91,748      whatalife
+   1.      45913 whatalife                            92,121      whatalife
                  2026/01                              14,192
                  2026/02                              13,403
                  2026/03                              14,826
@@ -14,9 +14,9 @@ Driven_distance:
                  2026/05                              11,011
                  2026/06                              10,167
                  2026/07                              10,197
-                 2026/08                               3,897
-                     Civil_stats_Driven_distance:                          91,070
-                     Civil_stats_Driven_distance_on_bikes:                 79,941
+                 2026/08                               4,270
+                     Civil_stats_Driven_distance:                          91,442
+                     Civil_stats_Driven_distance_on_bikes:                 80,313
                      Robber_stats_Driven_distance_being_chased:               198
                      Delivery_Driven_distance_loaded:                          53
                      Mail_Courier_Driven_distance:                            555
@@ -235,7 +235,26 @@ Driven_distance:
                      Roleplaying_Driven_distance_as_MED_RES:                    3
                      Roleplaying_Driven_distance_in_SOS_calls:                243
                      Delivery_Driven_distance_loaded:                          79
-  18.      31357 ulfrevo123                           11,442      [GKG] MARIMUTOS
+  18.      47374 ross2750                             11,496      Not Ross
+                 2026/01                               1,608
+                 2026/02                                 965
+                 2026/03                               1,687
+                 2026/04                               1,677
+                 2026/05                               2,092
+                 2026/06                               2,542
+                 2026/07                                 640
+                 2026/08                                 285
+                     Civil_stats_Driven_distance:                          11,206
+                     Civil_stats_Driven_distance_on_bikes:                  4,797
+                     Robber_stats_Driven_distance_being_chased:                27
+                     Cop_stats_Driven_distance_as_cop:                         50
+                     Cop_stats_Driven_distance_chasing:                        21
+                     Roleplaying_Driven_distance_as_MED_RES:                   45
+                     Roleplaying_Driven_distance_in_SOS_calls:                  8
+                     Mail_Courier_Driven_distance:                             92
+                     Busing_Driven_distance:                                   30
+                     Taxiing_Driven_distance:                                   4
+  19.      31357 ulfrevo123                           11,442      [GKG] MARIMUTOS
                  2026/01                               2,400
                  2026/02                               3,354
                  2026/03                               3,227
@@ -251,25 +270,6 @@ Driven_distance:
                      Delivery_Driven_distance_loaded:                         114
                      Mail_Courier_Driven_distance:                            117
                      Taxiing_Driven_distance:                                   1
-  19.      47374 ross2750                             11,409      Not Ross
-                 2026/01                               1,608
-                 2026/02                                 965
-                 2026/03                               1,687
-                 2026/04                               1,677
-                 2026/05                               2,092
-                 2026/06                               2,542
-                 2026/07                                 640
-                 2026/08                                 198
-                     Civil_stats_Driven_distance:                          11,118
-                     Civil_stats_Driven_distance_on_bikes:                  4,778
-                     Robber_stats_Driven_distance_being_chased:                27
-                     Cop_stats_Driven_distance_as_cop:                         50
-                     Cop_stats_Driven_distance_chasing:                        21
-                     Roleplaying_Driven_distance_as_MED_RES:                   45
-                     Roleplaying_Driven_distance_in_SOS_calls:                  8
-                     Mail_Courier_Driven_distance:                             92
-                     Busing_Driven_distance:                                   30
-                     Taxiing_Driven_distance:                                   4
   20.      40605 emileker                             11,098      silentkiller
                  2026/01                               4,024
                  2026/02                               1,361
@@ -572,7 +572,17 @@ Driven_distance:
                      Robber_stats_Driven_distance_being_chased:                 6
                      Mail_Courier_Driven_distance:                          1,175
                      Taxiing_Driven_distance:                                  68
-  42.       2936 Tuuliqinen                            7,031      Tuuliainen
+  42.       1249 DanLevy91                             7,133      kaz
+                 2026/01                               2,934
+                 2026/02                               2,517
+                 2026/03                                 980
+                 2026/04                                  17
+                 2026/08                                 685
+                     Civil_stats_Driven_distance:                           7,126
+                     Civil_stats_Driven_distance_on_bikes:                     12
+                     Robber_stats_Driven_distance_being_chased:               109
+                     Delivery_Driven_distance_loaded:                       1,557
+  43.       2936 Tuuliqinen                            7,031      Tuuliainen
                  2026/01                               2,235
                  2026/02                               4,232
                  2026/03                                 514
@@ -584,7 +594,7 @@ Driven_distance:
                      Cop_stats_Driven_distance_chasing:                       294
                      Roleplaying_Driven_distance_in_SOS_calls:                  2
                      Busing_Driven_distance:                                   61
-  43.      41476 p1nhe1r0                              6,956      P1NHE1RØ
+  44.      41476 p1nhe1r0                              6,956      P1NHE1RØ
                  2026/01                               3,462
                  2026/02                               1,644
                  2026/03                               1,819
@@ -593,7 +603,7 @@ Driven_distance:
                      Civil_stats_Driven_distance_on_bikes:                  5,456
                      Robber_stats_Driven_distance_being_chased:                52
                      Busing_Driven_distance:                                   10
-  44.      29924 icoha44                               6,927      CCI4
+  45.      29924 icoha44                               6,927      CCI4
                  2026/01                               3,270
                  2026/02                               2,575
                  2026/03                                 600
@@ -608,16 +618,6 @@ Driven_distance:
                      Mail_Courier_Driven_distance:                             50
                      Busing_Driven_distance:                                   11
                      Taxiing_Driven_distance:                                   1
-  45.       1249 DanLevy91                             6,905      kaz
-                 2026/01                               2,934
-                 2026/02                               2,517
-                 2026/03                                 980
-                 2026/04                                  17
-                 2026/08                                 457
-                     Civil_stats_Driven_distance:                           6,897
-                     Civil_stats_Driven_distance_on_bikes:                     12
-                     Robber_stats_Driven_distance_being_chased:               109
-                     Delivery_Driven_distance_loaded:                       1,509
   46.      22858 gaga5555                              6,858      Majk Bro nxet
                  2026/01                               3,637
                  2026/02                               2,082
@@ -889,13 +889,14 @@ Driven_distance:
                      Civil_stats_Driven_distance_on_bikes:                    570
                      Robber_stats_Driven_distance_being_chased:                47
                      Taxiing_Driven_distance:                                   8
-  67.      47471 young.drift                           4,995      Roham
+  67.      47471 young.drift                           5,006      Roham
                  2026/01                                 120
                  2026/02                                 203
                  2026/06                               4,365
                  2026/07                                 307
-                     Civil_stats_Driven_distance:                           4,931
-                     Civil_stats_Driven_distance_on_bikes:                  2,221
+                 2026/08                                  11
+                     Civil_stats_Driven_distance:                           4,942
+                     Civil_stats_Driven_distance_on_bikes:                  2,227
                      Robber_stats_Driven_distance_being_chased:               493
                      Delivery_Driven_distance_loaded:                           6
                      Mail_Courier_Driven_distance:                             23
@@ -916,16 +917,29 @@ Driven_distance:
                      Cop_stats_Driven_distance_chasing:                     1,490
                      Roleplaying_Driven_distance_in_SOS_calls:                  3
                      Busing_Driven_distance:                                   19
-  69.      35710 inno                                  4,937      racerformerlyknowninno
+  69.      35710 inno                                  4,959      racerformerlyknowninno
                  2026/05                                 491
                  2026/06                               1,929
                  2026/07                               1,858
-                 2026/08                                 659
-                     Civil_stats_Driven_distance:                           4,929
+                 2026/08                                 681
+                     Civil_stats_Driven_distance:                           4,951
                      Robber_stats_Driven_distance_being_chased:                19
                      Delivery_Driven_distance_loaded:                          67
-                     Mail_Courier_Driven_distance:                             97
-  70.      43770 pavle pepsi                           4,865      budja
+                     Mail_Courier_Driven_distance:                            102
+  70.      34216 xtremesp33d                           4,893      iodine ²
+                 2026/01                                 626
+                 2026/02                                 906
+                 2026/03                               1,776
+                 2026/04                               1,513
+                 2026/08                                  72
+                     Civil_stats_Driven_distance:                           4,803
+                     Civil_stats_Driven_distance_on_bikes:                    235
+                     Robber_stats_Driven_distance_being_chased:                47
+                     Roleplaying_Driven_distance_as_MED_RES:                   89
+                     Roleplaying_Driven_distance_in_SOS_calls:                 18
+                     Delivery_Driven_distance_loaded:                          96
+                     Busing_Driven_distance:                                   34
+  71.      43770 pavle pepsi                           4,865      budja
                  2026/01                               3,944
                  2026/02                                 131
                  2026/03                                 751
@@ -939,18 +953,6 @@ Driven_distance:
                      Delivery_Driven_distance_loaded:                          23
                      Busing_Driven_distance:                                    2
                      Taxiing_Driven_distance:                                  42
-  71.      34216 xtremesp33d                           4,821      iodine ²
-                 2026/01                                 626
-                 2026/02                                 906
-                 2026/03                               1,776
-                 2026/04                               1,513
-                     Civil_stats_Driven_distance:                           4,730
-                     Civil_stats_Driven_distance_on_bikes:                    235
-                     Robber_stats_Driven_distance_being_chased:                47
-                     Roleplaying_Driven_distance_as_MED_RES:                   89
-                     Roleplaying_Driven_distance_in_SOS_calls:                 18
-                     Delivery_Driven_distance_loaded:                          96
-                     Busing_Driven_distance:                                   34
   72.      24338 vercetti87                            4,810      G R E T A
                  2026/01                                 983
                  2026/02                                 989
@@ -968,7 +970,19 @@ Driven_distance:
                      Delivery_Driven_distance_loaded:                          63
                      Busing_Driven_distance:                                  202
                      Taxiing_Driven_distance:                                  34
-  73.      11368 sako123                               4,715      [TC-G] LowRider
+  73.      49671 mr.carrots                            4,727      7B7R
+                 2026/02                                 262
+                 2026/03                               1,792
+                 2026/04                               1,773
+                 2026/05                                 137
+                 2026/06                                 710
+                 2026/08                                  53
+                     Civil_stats_Driven_distance:                           4,627
+                     Civil_stats_Driven_distance_on_bikes:                    356
+                     Robber_stats_Driven_distance_being_chased:               237
+                     Delivery_Driven_distance_loaded:                           5
+                     Taxiing_Driven_distance:                                  13
+  74.      11368 sako123                               4,715      [TC-G] LowRider
                  2026/01                               1,715
                  2026/02                               1,591
                  2026/03                               1,409
@@ -983,17 +997,6 @@ Driven_distance:
                      Mail_Courier_Driven_distance:                            576
                      Busing_Driven_distance:                                1,028
                      Taxiing_Driven_distance:                                 151
-  74.      49671 mr.carrots                            4,674      7B7R
-                 2026/02                                 262
-                 2026/03                               1,792
-                 2026/04                               1,773
-                 2026/05                                 137
-                 2026/06                                 710
-                     Civil_stats_Driven_distance:                           4,573
-                     Civil_stats_Driven_distance_on_bikes:                    356
-                     Robber_stats_Driven_distance_being_chased:               237
-                     Delivery_Driven_distance_loaded:                           5
-                     Taxiing_Driven_distance:                                  13
   75.      41772 scammergamerlol                       4,640      Burrito
                  2026/01                                  25
                  2026/03                                  86
@@ -1212,7 +1215,18 @@ Driven_distance:
                      Robber_stats_Driven_distance_being_chased:                 9
                      Delivery_Driven_distance_loaded:                          72
                      Busing_Driven_distance:                                   35
-  93.      43428 nixtl                                 4,082      Nixtl
+  93.       1283 THE WIZARD DK                         4,107      THE WIZARD DK ﾂ
+                 2026/01                               1,218
+                 2026/02                                 618
+                 2026/03                                 446
+                 2026/06                               1,552
+                 2026/07                                 242
+                 2026/08                                  31
+                     Civil_stats_Driven_distance:                           3,978
+                     Robber_stats_Driven_distance_being_chased:                14
+                     Delivery_Driven_distance_loaded:                         186
+                     Busing_Driven_distance:                                   32
+  94.      43428 nixtl                                 4,082      Nixtl
                  2026/01                               3,943
                  2026/06                                 139
                      Civil_stats_Driven_distance:                             207
@@ -1221,16 +1235,6 @@ Driven_distance:
                      Cop_stats_Driven_distance_as_cop:                      3,876
                      Cop_stats_Driven_distance_chasing:                     2,729
                      Roleplaying_Driven_distance_in_SOS_calls:                 28
-  94.       1283 THE WIZARD DK                         4,076      THE WIZARD DK ﾂ
-                 2026/01                               1,218
-                 2026/02                                 618
-                 2026/03                                 446
-                 2026/06                               1,552
-                 2026/07                                 242
-                     Civil_stats_Driven_distance:                           3,948
-                     Robber_stats_Driven_distance_being_chased:                14
-                     Delivery_Driven_distance_loaded:                         175
-                     Busing_Driven_distance:                                   32
   95.      29639 13brotary                             4,058      13brotary
                  2026/01                                 672
                  2026/02                               1,052
@@ -1304,7 +1308,7 @@ Total_Money:
  Rank    User ID Username                        Total_Money      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                         3,783,097      whatalife
+   1.      45913 whatalife                         3,789,557      whatalife
                  2026/01                             874,761
                  2026/02                             718,451
                  2026/03                             656,564
@@ -1312,11 +1316,11 @@ Total_Money:
                  2026/05                             335,494
                  2026/06                             312,088
                  2026/07                             323,911
-                 2026/08                              81,664
+                 2026/08                              88,124
                      Sent_Money:                                36,407
                      Rece_Money:                                 6,898
-                     Earned_by_driving:                      2,674,711
-                     Lost_by_driving:                           22,525
+                     Earned_by_driving:                      2,680,579
+                     Lost_by_driving:                           23,608
                      Lost_by_stealing:                           6,914
                      Robber_stats_Paid_fines:                    9,592
                      Roleplaying_Paid_donations:                     5
@@ -1439,7 +1443,7 @@ Total_Money:
                      Comp_Sent:                                  1,280
                      Bingo_Won:                                    375
                      Bingo_Lost:                                    30
-   8.      47374 ross2750                            381,796      Not Ross
+   8.      47374 ross2750                            384,045      Not Ross
                  2026/01                              57,088
                  2026/02                              25,213
                  2026/03                              57,667
@@ -1447,11 +1451,11 @@ Total_Money:
                  2026/05                              97,216
                  2026/06                              72,090
                  2026/07                              10,214
-                 2026/08                               5,567
+                 2026/08                               7,816
                      Sent_Money:                                 4,756
                      Rece_Money:                                 6,920
-                     Earned_by_driving:                        297,067
-                     Lost_by_driving:                            3,595
+                     Earned_by_driving:                        299,137
+                     Lost_by_driving:                            3,613
                      Lost_by_stealing:                             728
                      Robber_stats_Paid_fines:                      955
                      Cop_stats_Received_fines:                   2,338
@@ -1462,7 +1466,7 @@ Total_Money:
                      Busing_Earned_money:                        1,545
                      Taxiing_Earned_money:                          80
                      Rent_Earned:                                3,433
-                     Rent_Paid:                                  3,782
+                     Rent_Paid:                                  3,788
                      Comp_Received:                              1,680
                      Comp_Sent:                                  2,360
                      Bingo_Won:                                    130
@@ -2138,7 +2142,7 @@ Total_Money:
                      Rent_Paid:                                 13,726
                      Comp_Received:                              4,130
                      Comp_Sent:                                  6,260
-  48.      28134 ke608                               -82,996      YIKES!
+  48.      28134 ke608                               -82,890      YIKES!
                  2026/01                             -86,272
                  2026/02                               8,767
                  2026/03                               7,939
@@ -2146,21 +2150,21 @@ Total_Money:
                  2026/05                               1,836
                  2026/06                             -29,125
                  2026/07                               6,572
-                 2026/08                               7,018
+                 2026/08                               7,124
                      Rece_Money:                                   300
-                     Earned_by_driving:                         37,860
+                     Earned_by_driving:                         37,928
                      Lost_by_driving:                              201
                      Robber_stats_Paid_fines:                      600
                      Roleplaying_Paid_donations:                   610
                      Roleplaying_Received_donations:             1,715
-                     Delivery_Earned_money:                     12,843
+                     Delivery_Earned_money:                     12,907
                      Delivery_Paid_penalties:                      300
                      Mail_Courier_Earned_money:                  2,588
                      Mail_Courier_Paid_penalties:                  105
                      Busing_Earned_money:                          962
                      Taxiing_Earned_money:                       1,632
                      Taxiing_Paid_penalties:                       175
-                     Rent_Paid:                                    848
+                     Rent_Paid:                                    898
                      Comp_Received:                                130
   49.      46062 ross1e                               78,142      Swim> Shefw
                  2026/01                                 350
@@ -2466,20 +2470,20 @@ Total_Money:
                      Comp_Received:                                220
                      Comp_Sent:                                  1,760
                      Bingo_Lost:                                    15
-  70.      35710 inno                                 57,737      racerformerlyknowninno
+  70.      35710 inno                                 58,264      racerformerlyknowninno
                  2026/05                              12,835
                  2026/06                               1,365
                  2026/07                              27,990
-                 2026/08                              15,547
+                 2026/08                              16,074
                      Rece_Money:                                   150
-                     Earned_by_driving:                         76,885
-                     Lost_by_driving:                            3,727
+                     Earned_by_driving:                         77,325
+                     Lost_by_driving:                            3,735
                      Robber_stats_Paid_fines:                      847
                      Roleplaying_Paid_donations:                   914
                      Roleplaying_Received_donations:             1,768
                      Delivery_Earned_money:                        683
-                     Mail_Courier_Earned_money:                  1,989
-                     Rent_Paid:                                    936
+                     Mail_Courier_Earned_money:                  2,037
+                     Rent_Paid:                                    941
                      Comp_Received:                                920
                      Bingo_Won:                                    100
   71.      47376 evari albo                          -57,435      [SAVE TC] ALBO
@@ -2963,7 +2967,7 @@ Time:
  Rank    User ID Username                               Time      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                             1,978      whatalife
+   1.      45913 whatalife                             1,984      whatalife
                  2026/01                                 384
                  2026/02                                 325
                  2026/03                                 344
@@ -2971,7 +2975,7 @@ Time:
                  2026/05                                 195
                  2026/06                                 217
                  2026/07                                 211
-                 2026/08                                  67
+                 2026/08                                  73
    2.      49036 mfz snipe1out                           796      MFZ | SNIPE1 OUT
                  2026/01                                  78
                  2026/02                                  53
@@ -3089,7 +3093,7 @@ Time:
                  2026/02                                 137
                  2026/03                                  84
                  2026/04                                   5
-  19.      47374 ross2750                                285      Not Ross
+  19.      47374 ross2750                                286      Not Ross
                  2026/01                                  53
                  2026/02                                  25
                  2026/03                                  47
@@ -3097,7 +3101,7 @@ Time:
                  2026/05                                  57
                  2026/06                                  45
                  2026/07                                  15
-                 2026/08                                   5
+                 2026/08                                   6
   20.      48324 b0ldeau                                 243      ßØŁĐ
                  2026/01                                 142
                  2026/02                                  28
@@ -3151,11 +3155,11 @@ Time:
                  2026/06                                 180
                  2026/07                                  31
                  2026/08                                  10
-  27.       1249 DanLevy91                               215      kaz
+  27.       1249 DanLevy91                               219      kaz
                  2026/01                                  91
                  2026/02                                  78
                  2026/03                                  34
-                 2026/08                                  12
+                 2026/08                                  16
   28.      45026 gtaplay                                 215      ＰＩＬＯＴ
                  2026/01                                 102
                  2026/02                                  57
@@ -3186,18 +3190,19 @@ Time:
                  2026/04                                   3
                  2026/05                                   1
                  2026/06                                  10
-  32.      48924 faduck                                  197      FaDuck
+  32.      34216 xtremesp33d                             197      iodine ²
+                 2026/01                                  32
+                 2026/02                                  53
+                 2026/03                                  67
+                 2026/04                                  44
+                 2026/08                                   1
+  33.      48924 faduck                                  197      FaDuck
                  2026/01                                  81
                  2026/02                                  19
                  2026/03                                  44
                  2026/04                                  49
                  2026/05                                   1
                  2026/06                                   3
-  33.      34216 xtremesp33d                             196      iodine ²
-                 2026/01                                  32
-                 2026/02                                  53
-                 2026/03                                  67
-                 2026/04                                  44
   34.      48062 topcuzeus                               195      Topcu Zeus
                  2026/01                                 145
                  2026/02                                  45
@@ -3336,11 +3341,12 @@ Time:
                  2026/05                                   4
                  2026/06                                  29
                  2026/07                                   2
-  57.      49671 mr.carrots                              142      7B7R
+  57.      49671 mr.carrots                              143      7B7R
                  2026/03                                  71
                  2026/04                                  42
                  2026/05                                   6
                  2026/06                                  23
+                 2026/08                                   1
   58.      23754 thijsssiiee                             141      [CSR] Thijs
                  2026/01                                  30
                  2026/02                                  23
@@ -3456,17 +3462,18 @@ Time:
                  2026/06                                  14
                  2026/07                                   6
                  2026/08                                   9
-  74.      46103 scs binman                              117      SCS BinMan
-                 2026/01                                  94
-                 2026/02                                  20
-                 2026/03                                   2
-                 2026/04                                   1
-  75.       1283 THE WIZARD DK                           116      THE WIZARD DK ﾂ
+  74.       1283 THE WIZARD DK                           118      THE WIZARD DK ﾂ
                  2026/01                                  30
                  2026/02                                  19
                  2026/03                                  12
                  2026/06                                  38
                  2026/07                                  17
+                 2026/08                                   2
+  75.      46103 scs binman                              117      SCS BinMan
+                 2026/01                                  94
+                 2026/02                                  20
+                 2026/03                                   2
+                 2026/04                                   1
   76.      39239 jordanvalov                             115      [CSR] Yordan
                  2026/01                                  64
                  2026/02                                   8
@@ -3484,11 +3491,19 @@ Time:
                  2026/04                                   1
                  2026/06                                  32
                  2026/07                                   8
-  79.      49132 ruption ks                              113      Rupt KS
+  79.      45204 luvzc                                   113      Pixiee
+                 2026/01                                  19
+                 2026/02                                  16
+                 2026/03                                  40
+                 2026/04                                  10
+                 2026/05                                  10
+                 2026/06                                   7
+                 2026/08                                  11
+  80.      49132 ruption ks                              113      Rupt KS
                  2026/01                                  62
                  2026/02                                  28
                  2026/03                                  23
-  80.      43143 enesozdil                               112      < Enes Özdil >
+  81.      43143 enesozdil                               112      < Enes Özdil >
                  2026/01                                  57
                  2026/02                                  25
                  2026/03                                  16
@@ -3496,27 +3511,19 @@ Time:
                  2026/05                                   1
                  2026/06                                   3
                  2026/07                                   1
-  81.       1107 A3rox                                   111      F alken. A3rox
+  82.       1107 A3rox                                   111      F alken. A3rox
                  2026/01                                 100
                  2026/02                                   1
                  2026/03                                   3
                  2026/04                                   5
                  2026/05                                   2
-  82.      29639 13brotary                               108      13brotary
+  83.      29639 13brotary                               108      13brotary
                  2026/01                                  16
                  2026/02                                  23
                  2026/03                                  51
                  2026/04                                  14
                  2026/05                                   1
                  2026/06                                   3
-  83.      45204 luvzc                                   107      Pixiee
-                 2026/01                                  19
-                 2026/02                                  16
-                 2026/03                                  40
-                 2026/04                                  10
-                 2026/05                                  10
-                 2026/06                                   7
-                 2026/08                                   5
   84.      32247 goncalovidigal                          105      вмкяgoиcаlo
                  2026/01                                  40
                  2026/02                                  21
@@ -3581,7 +3588,12 @@ Time:
   94.        731 Lucky Loser                              94      [ DS ] Nitram
                  2026/01                                  90
                  2026/02                                   4
-  95.       7370 FFD_Sivy121                              93      Mr.Pixel
+  95.      35710 inno                                     94      racerformerlyknowninno
+                 2026/05                                  12
+                 2026/06                                  33
+                 2026/07                                  35
+                 2026/08                                  14
+  96.       7370 FFD_Sivy121                              93      Mr.Pixel
                  2026/01                                  12
                  2026/02                                  13
                  2026/03                                   6
@@ -3590,17 +3602,12 @@ Time:
                  2026/06                                   7
                  2026/07                                  24
                  2026/08                                   2
-  96.      50024 lau_r.d                                  93      lau
+  97.      50024 lau_r.d                                  93      lau
                  2026/03                                  17
                  2026/04                                  50
                  2026/05                                  18
                  2026/06                                   1
                  2026/07                                   7
-  97.      35710 inno                                     93      racerformerlyknowninno
-                 2026/05                                  12
-                 2026/06                                  33
-                 2026/07                                  35
-                 2026/08                                  13
   98.      43770 pavle pepsi                              92      budja
                  2026/01                                  75
                  2026/02                                   4
@@ -4380,7 +4387,7 @@ Earned_by_driving:
  Rank    User ID Username                    Earned_by_driving      Nickname
 ----------------------------------------------------------------------------
 
-   1.      45913 whatalife                         2,674,711      whatalife
+   1.      45913 whatalife                         2,680,579      whatalife
                  2026/01                             453,357
                  2026/02                             439,703
                  2026/03                             457,048
@@ -4388,7 +4395,7 @@ Earned_by_driving:
                  2026/05                             297,449
                  2026/06                             285,085
                  2026/07                             279,644
-                 2026/08                              79,684
+                 2026/08                              85,552
    2.       2107 P V L                               711,411      [ DS ] P V L
                  2026/01                             465,967
                  2026/02                             240,256
@@ -4409,7 +4416,7 @@ Earned_by_driving:
                  2026/06                              42,473
                  2026/07                              29,750
                  2026/08                               3,115
-   5.      47374 ross2750                            297,067      Not Ross
+   5.      47374 ross2750                            299,137      Not Ross
                  2026/01                              36,742
                  2026/02                              21,815
                  2026/03                              39,279
@@ -4417,7 +4424,7 @@ Earned_by_driving:
                  2026/05                              71,539
                  2026/06                              63,750
                  2026/07                              10,395
-                 2026/08                               5,498
+                 2026/08                               7,568
    6.      26082 1993s14                             259,090      2 $low 2 curiou$
                  2026/01                              69,544
                  2026/02                              55,615
@@ -4665,40 +4672,41 @@ Earned_by_driving:
                  2026/03                               1,935
                  2026/04                               2,287
                  2026/05                               1,548
-  42.      49223 chrisandkitt                         99,467      CHRISANDKITT
+  42.       1249 DanLevy91                           101,746      kaz
+                 2026/01                              38,206
+                 2026/02                              37,685
+                 2026/03                              16,756
+                 2026/04                                 361
+                 2026/08                               8,738
+  43.      49223 chrisandkitt                         99,467      CHRISANDKITT
                  2026/01                              80,913
                  2026/02                               2,080
                  2026/03                                  74
                  2026/04                              16,400
-  43.      38090 stuchlo                              98,502      Stuchlo
+  44.      38090 stuchlo                              98,502      Stuchlo
                  2026/01                              28,904
                  2026/02                              20,972
                  2026/03                              18,807
                  2026/04                               6,904
                  2026/05                               1,244
                  2026/06                              21,671
-  44.       1249 DanLevy91                            98,477      kaz
-                 2026/01                              38,206
-                 2026/02                              37,685
-                 2026/03                              16,756
-                 2026/04                                 361
-                 2026/08                               5,469
-  45.      48946 magicdrip                            97,630      MagicDrip
-                 2026/01                              73,141
-                 2026/02                              15,488
-                 2026/03                               5,600
-                 2026/04                               3,401
-  46.       2936 Tuuliqinen                           97,319      Tuuliainen
-                 2026/01                              28,013
-                 2026/02                              61,600
-                 2026/03                               7,533
-                 2026/04                                 173
-  47.      49671 mr.carrots                           97,180      7B7R
+  45.      49671 mr.carrots                           97,882      7B7R
                  2026/02                               7,216
                  2026/03                              46,126
                  2026/04                              27,860
                  2026/05                               3,258
                  2026/06                              12,720
+                 2026/08                                 702
+  46.      48946 magicdrip                            97,630      MagicDrip
+                 2026/01                              73,141
+                 2026/02                              15,488
+                 2026/03                               5,600
+                 2026/04                               3,401
+  47.       2936 Tuuliqinen                           97,319      Tuuliainen
+                 2026/01                              28,013
+                 2026/02                              61,600
+                 2026/03                               7,533
+                 2026/04                                 173
   48.      22858 gaga5555                             95,032      Majk Bro nxet
                  2026/01                              52,220
                  2026/02                              28,158
@@ -4783,25 +4791,33 @@ Earned_by_driving:
   61.      11370 loo77                                83,199      L o o 77
                  2026/01                              30,393
                  2026/02                              52,806
-  62.      19091 xgames123                            79,445      D eeBeeX
+  62.      45204 luvzc                                81,535      Pixiee
+                 2026/01                              15,533
+                 2026/02                              13,606
+                 2026/03                              18,496
+                 2026/04                               3,727
+                 2026/05                              14,012
+                 2026/06                               5,372
+                 2026/08                              10,789
+  63.      19091 xgames123                            79,445      D eeBeeX
                  2026/01                              52,373
                  2026/02                              26,754
                  2026/05                                 318
-  63.      48922 diccus                               78,887      Diccus
+  64.      48922 diccus                               78,887      Diccus
                  2026/01                              77,137
                  2026/02                                 598
                  2026/03                                 971
                  2026/04                                 181
-  64.         27 Dennis-1994                          78,607      Paradise
+  65.         27 Dennis-1994                          78,607      Paradise
                  2026/01                              57,555
                  2026/02                              21,052
-  65.       1224 Lisnu                                78,044      MrClassics
+  66.       1224 Lisnu                                78,044      MrClassics
                  2026/01                              50,730
                  2026/02                              26,639
                  2026/03                                  34
                  2026/05                                  27
                  2026/06                                 614
-  66.      39867 racing101                            77,923      SMOKEY
+  67.      39867 racing101                            77,923      SMOKEY
                  2026/01                                 996
                  2026/02                               7,642
                  2026/03                              28,711
@@ -4809,7 +4825,12 @@ Earned_by_driving:
                  2026/05                               2,068
                  2026/06                              14,844
                  2026/07                               4,252
-  67.      12846 DJmad                                77,039      insurance fraud.
+  68.      35710 inno                                 77,325      racerformerlyknowninno
+                 2026/05                              12,409
+                 2026/06                              21,988
+                 2026/07                              29,743
+                 2026/08                              13,185
+  69.      12846 DJmad                                77,039      insurance fraud.
                  2026/01                              28,390
                  2026/02                              19,681
                  2026/03                              12,347
@@ -4818,7 +4839,7 @@ Earned_by_driving:
                  2026/06                               8,793
                  2026/07                               2,328
                  2026/08                                 797
-  68.      41796 countess                             76,990      Count
+  70.      41796 countess                             76,990      Count
                  2026/01                              23,963
                  2026/02                              12,994
                  2026/03                              19,886
@@ -4826,22 +4847,9 @@ Earned_by_driving:
                  2026/05                               1,004
                  2026/06                               5,595
                  2026/07                                 215
-  69.      35710 inno                                 76,885      racerformerlyknowninno
-                 2026/05                              12,409
-                 2026/06                              21,988
-                 2026/07                              29,743
-                 2026/08                              12,745
-  70.      49218 sahraoui212                          75,053      MoroccanDriver|VR|
+  71.      49218 sahraoui212                          75,053      MoroccanDriver|VR|
                  2026/01                              74,624
                  2026/02                                 429
-  71.      45204 luvzc                                74,237      Pixiee
-                 2026/01                              15,533
-                 2026/02                              13,606
-                 2026/03                              18,496
-                 2026/04                               3,727
-                 2026/05                              14,012
-                 2026/06                               5,372
-                 2026/08                               3,491
   72.      48478 midranit                             74,069      Kayra Tevzadze
                  2026/01                              20,022
                  2026/02                              39,066
@@ -4893,14 +4901,20 @@ Earned_by_driving:
                  2026/05                               6,155
                  2026/06                              24,009
                  2026/07                               6,763
-  79.      16185 turb0keule                           70,941      Keule
+  79.      34216 xtremesp33d                          71,074      iodine ²
+                 2026/01                              14,991
+                 2026/02                              13,889
+                 2026/03                              24,278
+                 2026/04                              17,575
+                 2026/08                                 341
+  80.      16185 turb0keule                           70,941      Keule
                  2026/01                              23,638
                  2026/02                              34,235
                  2026/03                               9,668
                  2026/04                                 529
                  2026/06                               2,296
                  2026/08                                 575
-  80.       7370 FFD_Sivy121                          70,818      Mr.Pixel
+  81.       7370 FFD_Sivy121                          70,818      Mr.Pixel
                  2026/01                              10,340
                  2026/02                               9,990
                  2026/03                               2,867
@@ -4909,11 +4923,6 @@ Earned_by_driving:
                  2026/06                               3,810
                  2026/07                              23,215
                  2026/08                                 690
-  81.      34216 xtremesp33d                          70,733      iodine ²
-                 2026/01                              14,991
-                 2026/02                              13,889
-                 2026/03                              24,278
-                 2026/04                              17,575
   82.      48552 gatisq                               70,084      Gatis
                  2026/01                              17,629
                  2026/03                              24,834
@@ -4931,7 +4940,14 @@ Earned_by_driving:
                  2026/02                              16,311
                  2026/03                              12,767
                  2026/08                                 146
-  86.      47714 eugeniuszpro                         68,299      Eugeniusz
+  86.       1283 THE WIZARD DK                        68,329      THE WIZARD DK ﾂ
+                 2026/01                              18,107
+                 2026/02                              10,818
+                 2026/03                               7,139
+                 2026/06                              28,452
+                 2026/07                               3,245
+                 2026/08                                 568
+  87.      47714 eugeniuszpro                         68,299      Eugeniusz
                  2026/01                              11,896
                  2026/02                              29,142
                  2026/03                              25,684
@@ -4940,12 +4956,6 @@ Earned_by_driving:
                  2026/06                                 247
                  2026/07                                 427
                  2026/08                                 477
-  87.       1283 THE WIZARD DK                        67,761      THE WIZARD DK ﾂ
-                 2026/01                              18,107
-                 2026/02                              10,818
-                 2026/03                               7,139
-                 2026/06                              28,452
-                 2026/07                               3,245
   88.      41196 m4t4n4z1                             67,502      Ja gua ra
                  2026/01                              36,577
                  2026/02                              30,925
@@ -4959,11 +4969,12 @@ Earned_by_driving:
                  2026/04                               3,914
                  2026/06                              57,739
                  2026/07                               3,136
-  91.      47471 young.drift                          65,464      Roham
+  91.      47471 young.drift                          65,588      Roham
                  2026/01                               2,486
                  2026/02                               4,390
                  2026/06                              55,616
                  2026/07                               2,972
+                 2026/08                                 124
   92.      32247 goncalovidigal                       65,442      вмкяgoиcаlo
                  2026/01                              28,197
                  2026/02                              14,235
@@ -5241,23 +5252,23 @@ Lost_by_driving:
                  2026/04                               4,201
                  2026/06                               1,339
                  2026/07                                  38
-  30.      26253 lucasazedo                           37,119      Redﾉ Lucas
+  30.       1249 DanLevy91                            37,456      kaz
+                 2026/01                              16,173
+                 2026/02                              17,510
+                 2026/03                               1,844
+                 2026/08                               1,929
+  31.      26253 lucasazedo                           37,119      Redﾉ Lucas
                  2026/01                              22,796
                  2026/02                              13,570
                  2026/03                                 724
                  2026/04                                  29
-  31.      20375 notsosideways                        36,975      [TC-G] Blacktop
+  32.      20375 notsosideways                        36,975      [TC-G] Blacktop
                  2026/01                              20,260
                  2026/02                              11,201
                  2026/03                               4,397
                  2026/04                               1,080
                  2026/06                                  36
                  2026/07                                   1
-  32.       1249 DanLevy91                            36,677      kaz
-                 2026/01                              16,173
-                 2026/02                              17,510
-                 2026/03                               1,844
-                 2026/08                               1,150
   33.      49506 nyuira                               36,155      nyuira
                  2026/01                              19,328
                  2026/02                              16,355
@@ -5407,20 +5418,7 @@ Lost_by_driving:
                  2026/04                               6,291
                  2026/05                                 565
                  2026/06                                 206
-  56.       2936 Tuuliqinen                           23,416      Tuuliainen
-                 2026/01                              11,138
-                 2026/02                               9,737
-                 2026/03                               1,745
-                 2026/04                                 796
-  57.      40242 astraxan                             23,297      [COP] ΙΝΤΕRCEPTOR
-                 2026/01                               6,159
-                 2026/02                               2,464
-                 2026/03                               2,146
-                 2026/04                               7,150
-                 2026/05                                 953
-                 2026/06                               4,039
-                 2026/07                                 386
-  58.      45913 whatalife                            22,525      whatalife
+  56.      45913 whatalife                            23,608      whatalife
                  2026/01                                 864
                  2026/02                               1,190
                  2026/03                               1,197
@@ -5428,12 +5426,26 @@ Lost_by_driving:
                  2026/05                               6,098
                  2026/06                               2,548
                  2026/07                               1,964
-                 2026/08                               4,639
-  59.      47471 young.drift                          22,170      Roham
+                 2026/08                               5,722
+  57.       2936 Tuuliqinen                           23,416      Tuuliainen
+                 2026/01                              11,138
+                 2026/02                               9,737
+                 2026/03                               1,745
+                 2026/04                                 796
+  58.      40242 astraxan                             23,297      [COP] ΙΝΤΕRCEPTOR
+                 2026/01                               6,159
+                 2026/02                               2,464
+                 2026/03                               2,146
+                 2026/04                               7,150
+                 2026/05                                 953
+                 2026/06                               4,039
+                 2026/07                                 386
+  59.      47471 young.drift                          22,292      Roham
                  2026/01                               1,535
                  2026/02                               2,337
                  2026/06                              16,548
                  2026/07                               1,750
+                 2026/08                                 122
   60.      49036 mfz snipe1out                        21,809      MFZ | SNIPE1 OUT
                  2026/01                               4,562
                  2026/02                               3,815
@@ -5483,11 +5495,12 @@ Lost_by_driving:
                  2026/05                                  27
                  2026/06                                 455
                  2026/07                                  12
-  67.      34216 xtremesp33d                          19,587      iodine ²
+  67.      34216 xtremesp33d                          20,019      iodine ²
                  2026/01                               2,110
                  2026/02                               3,882
                  2026/03                               5,686
                  2026/04                               7,909
+                 2026/08                                 432
   68.      16012 tnt25                                19,523      [6S] Adamo
                  2026/01                               1,249
                  2026/02                              17,103
@@ -5679,7 +5692,7 @@ Total_Wealth:
  Rank    User ID Username                       Total_Wealth      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                         3,805,086      whatalife
+   1.      45913 whatalife                         3,811,561      whatalife
                  2026/01                             920,740
                  2026/02                             697,854
                  2026/03                             650,185
@@ -5687,7 +5700,7 @@ Total_Wealth:
                  2026/05                             340,030
                  2026/06                             306,615
                  2026/07                             323,209
-                 2026/08                              87,813
+                 2026/08                              94,288
    2.      25215 m52b28                           -1,526,370      Selling (AFK) Cash
                  2026/01                          -1,228,316
                  2026/02                            -141,988
@@ -5746,7 +5759,7 @@ Total_Wealth:
                  2026/06                               3,041
                  2026/07                                 235
                  2026/08                               4,910
-  11.      47374 ross2750                            359,421      Not Ross
+  11.      47374 ross2750                            361,523      Not Ross
                  2026/01                              65,393
                  2026/02                              22,526
                  2026/03                              55,688
@@ -5754,7 +5767,7 @@ Total_Wealth:
                  2026/05                              72,633
                  2026/06                              72,879
                  2026/07                               9,506
-                 2026/08                               5,441
+                 2026/08                               7,543
   12.       7370 FFD_Sivy121                         288,817      Mr.Pixel
                  2026/01                               7,034
                  2026/02                               6,001
@@ -5932,16 +5945,22 @@ Total_Wealth:
   41.        731 Lucky Loser                         144,970      [ DS ] Nitram
                  2026/01                             143,150
                  2026/02                               1,820
-  42.      49239 r4sseli                             143,065      Rasseli
+  42.      34216 xtremesp33d                         143,802      iodine ²
+                 2026/01                              52,293
+                 2026/02                              37,722
+                 2026/03                              25,033
+                 2026/04                              11,070
+                 2026/08                              17,684
+  43.      49239 r4sseli                             143,065      Rasseli
                  2026/01                             118,866
                  2026/02                              13,380
                  2026/03                              10,389
                  2026/04                                 430
-  43.      21992 w.f.o                              -139,567      Mohawlk Drifterx
+  44.      21992 w.f.o                              -139,567      Mohawlk Drifterx
                  2026/01                            -103,443
                  2026/02                             -34,242
                  2026/06                              -1,882
-  44.      29480 jonetuu                             139,001      Jone
+  45.      29480 jonetuu                             139,001      Jone
                  2026/01                              83,189
                  2026/02                              37,929
                  2026/03                              15,319
@@ -5950,17 +5969,17 @@ Total_Wealth:
                  2026/06                                 -28
                  2026/07                               3,202
                  2026/08                                -230
-  45.      49540 taly                                135,740      Taly
+  46.      49540 taly                                135,740      Taly
                  2026/01                              56,058
                  2026/02                              83,613
                  2026/03                              -2,988
                  2026/04                                -943
-  46.      49223 chrisandkitt                        130,816      CHRISANDKITT
+  47.      49223 chrisandkitt                        130,816      CHRISANDKITT
                  2026/01                             115,110
                  2026/02                               1,079
                  2026/03                              -1,251
                  2026/04                              15,878
-  47.      24338 vercetti87                          129,876      G R E T A
+  48.      24338 vercetti87                          129,876      G R E T A
                  2026/01                              30,866
                  2026/02                              22,284
                  2026/03                              21,979
@@ -5969,11 +5988,6 @@ Total_Wealth:
                  2026/06                               8,633
                  2026/07                               9,752
                  2026/08                               5,683
-  48.      34216 xtremesp33d                         126,118      iodine ²
-                 2026/01                              52,293
-                 2026/02                              37,722
-                 2026/03                              25,033
-                 2026/04                              11,070
   49.       1041 Berni25                             125,722      [ DS ] Berni
                  2026/01                             112,974
                  2026/02                              12,748
@@ -6140,19 +6154,19 @@ Total_Wealth:
                  2026/05                               8,080
                  2026/06                               1,000
                  2026/07                                 444
-  78.      18845 lukey747                            -77,702      [TC] ›Luke™‹ [RES]
+  78.      35710 inno                                 78,032      racerformerlyknowninno
+                 2026/05                              12,362
+                 2026/06                              18,978
+                 2026/07                              30,921
+                 2026/08                              15,771
+  79.      18845 lukey747                            -77,702      [TC] ›Luke™‹ [RES]
                  2026/01                             -41,927
                  2026/02                                 864
                  2026/03                               4,637
                  2026/05                             -40,083
                  2026/06                              -1,193
-  79.      34919 2f4st                                77,560      B1K3R600
+  80.      34919 2f4st                                77,560      B1K3R600
                  2026/02                              77,560
-  80.      35710 inno                                 77,523      racerformerlyknowninno
-                 2026/05                              12,362
-                 2026/06                              18,978
-                 2026/07                              30,921
-                 2026/08                              15,262
   81.      48946 magicdrip                            77,360      MagicDrip
                  2026/01                              61,232
                  2026/02                               7,328
@@ -6170,32 +6184,32 @@ Total_Wealth:
                  2026/04                              -1,226
                  2026/05                              34,395
                  2026/06                                 110
-  84.      46169 grassic                              74,566      ηgμ ｫ grassic
+  84.       1249 DanLevy91                            75,362      kaz
+                 2026/01                              21,537
+                 2026/02                              23,505
+                 2026/03                              20,995
+                 2026/04                                 707
+                 2026/08                               8,618
+  85.      46169 grassic                              74,566      ηgμ ｫ grassic
                  2026/01                              37,027
                  2026/02                              37,539
-  85.      33123 thegamer147                          74,297      [ RDSR ] Carlos
+  86.      33123 thegamer147                          74,297      [ RDSR ] Carlos
                  2026/01                              86,421
                  2026/02                              -4,380
                  2026/03                              -3,961
                  2026/04                              -2,797
                  2026/06                                -810
                  2026/07                                -176
-  86.      39631 dukybg                               73,913      _ A S _ Duky
+  87.      39631 dukybg                               73,913      _ A S _ Duky
                  2026/02                              -7,662
                  2026/04                              81,575
-  87.       1283 THE WIZARD DK                        72,571      THE WIZARD DK ﾂ
+  88.       1283 THE WIZARD DK                        73,222      THE WIZARD DK ﾂ
                  2026/01                              19,468
                  2026/02                              10,014
                  2026/03                               7,684
                  2026/06                              32,008
                  2026/07                               3,404
-                 2026/08                                  -7
-  88.       1249 DanLevy91                            71,815      kaz
-                 2026/01                              21,537
-                 2026/02                              23,505
-                 2026/03                              20,995
-                 2026/04                                 707
-                 2026/08                               5,071
+                 2026/08                                 644
   89.      11368 sako123                              71,599      [TC-G] LowRider
                  2026/01                             -26,678
                  2026/02                              71,786
@@ -6977,7 +6991,7 @@ Civil_stats_Playing_time_civilian:
  Rank    User ID Username                    Civil_stats_Playing_time_civilian      Nickname
 --------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                             1,826      whatalife
+   1.      45913 whatalife                             1,832      whatalife
                  2026/01                                 263
                  2026/02                                 299
                  2026/03                                 339
@@ -6985,7 +6999,7 @@ Civil_stats_Playing_time_civilian:
                  2026/05                                 195
                  2026/06                                 217
                  2026/07                                 211
-                 2026/08                                  67
+                 2026/08                                  73
    2.      49036 mfz snipe1out                           785      MFZ | SNIPE1 OUT
                  2026/01                                  78
                  2026/02                                  46
@@ -7071,7 +7085,7 @@ Civil_stats_Playing_time_civilian:
                  2026/06                                  40
                  2026/07                                  22
                  2026/08                                  15
-  14.      47374 ross2750                                264      Not Ross
+  14.      47374 ross2750                                265      Not Ross
                  2026/01                                  39
                  2026/02                                  22
                  2026/03                                  45
@@ -7079,7 +7093,7 @@ Civil_stats_Playing_time_civilian:
                  2026/05                                  57
                  2026/06                                  45
                  2026/07                                  15
-                 2026/08                                   5
+                 2026/08                                   6
   15.      48810 1divineninja                            262      1DivineNinja TTV
                  2026/01                                 144
                  2026/02                                  39
@@ -7123,7 +7137,12 @@ Civil_stats_Playing_time_civilian:
                  2026/06                                 179
                  2026/07                                  31
                  2026/08                                  10
-  22.      12846 DJmad                                   215      insurance fraud.
+  22.       1249 DanLevy91                               219      kaz
+                 2026/01                                  90
+                 2026/02                                  79
+                 2026/03                                  33
+                 2026/08                                  17
+  23.      12846 DJmad                                   215      insurance fraud.
                  2026/01                                  71
                  2026/02                                  58
                  2026/03                                  38
@@ -7132,21 +7151,17 @@ Civil_stats_Playing_time_civilian:
                  2026/06                                  29
                  2026/07                                   4
                  2026/08                                   3
-  23.      45026 gtaplay                                 215      ＰＩＬＯＴ
+  24.      45026 gtaplay                                 215      ＰＩＬＯＴ
                  2026/01                                 101
                  2026/02                                  57
                  2026/03                                  48
                  2026/06                                   9
-  24.       1249 DanLevy91                               214      kaz
-                 2026/01                                  90
-                 2026/02                                  79
-                 2026/03                                  33
-                 2026/08                                  12
-  25.      34216 xtremesp33d                             191      iodine ²
+  25.      34216 xtremesp33d                             193      iodine ²
                  2026/01                                  31
                  2026/02                                  53
                  2026/03                                  66
                  2026/04                                  41
+                 2026/08                                   2
   26.      48924 faduck                                  191      FaDuck
                  2026/01                                  81
                  2026/02                                  16
@@ -7229,15 +7244,16 @@ Civil_stats_Playing_time_civilian:
                  2026/05                                   3
                  2026/06                                  14
                  2026/07                                   1
-  39.      11368 sako123                                 142      [TC-G] LowRider
-                 2026/01                                  36
-                 2026/02                                  58
-                 2026/03                                  48
-  40.      49671 mr.carrots                              142      7B7R
+  39.      49671 mr.carrots                              143      7B7R
                  2026/03                                  71
                  2026/04                                  42
                  2026/05                                   6
                  2026/06                                  23
+                 2026/08                                   1
+  40.      11368 sako123                                 142      [TC-G] LowRider
+                 2026/01                                  36
+                 2026/02                                  58
+                 2026/03                                  48
   41.      47305 griffin20069                            140      [ LCS- ﾏ] Girfen
                  2026/01                                  11
                  2026/02                                   5
@@ -7370,7 +7386,14 @@ Civil_stats_Playing_time_civilian:
                  2026/02                                  31
                  2026/03                                  47
                  2026/04                                   1
-  59.      24338 vercetti87                              115      G R E T A
+  59.       1283 THE WIZARD DK                           115      THE WIZARD DK ﾂ
+                 2026/01                                  30
+                 2026/02                                  19
+                 2026/03                                  11
+                 2026/06                                  37
+                 2026/07                                  17
+                 2026/08                                   1
+  60.      24338 vercetti87                              115      G R E T A
                  2026/01                                  26
                  2026/02                                  16
                  2026/03                                  11
@@ -7379,66 +7402,60 @@ Civil_stats_Playing_time_civilian:
                  2026/06                                  14
                  2026/07                                   6
                  2026/08                                   8
-  60.      46103 scs binman                              115      SCS BinMan
+  61.      46103 scs binman                              115      SCS BinMan
                  2026/01                                  94
                  2026/02                                  18
                  2026/03                                   2
                  2026/04                                   1
-  61.      49230 nora vale                               115      Nora ﾞ
+  62.      49230 nora vale                               115      Nora ﾞ
                  2026/01                                  44
                  2026/02                                  14
                  2026/03                                  16
                  2026/04                                   1
                  2026/06                                  32
                  2026/07                                   8
-  62.       1283 THE WIZARD DK                           114      THE WIZARD DK ﾂ
-                 2026/01                                  30
-                 2026/02                                  19
-                 2026/03                                  11
-                 2026/06                                  37
-                 2026/07                                  17
-  63.      49132 ruption ks                              113      Rupt KS
-                 2026/01                                  62
-                 2026/02                                  28
-                 2026/03                                  23
-  64.      49223 chrisandkitt                            113      CHRISANDKITT
-                 2026/01                                  94
-                 2026/02                                   2
-                 2026/04                                  17
-  65.      43143 enesozdil                               112      < Enes Özdil >
-                 2026/01                                  56
-                 2026/02                                  25
-                 2026/03                                  16
-                 2026/04                                  10
-                 2026/06                                   3
-                 2026/07                                   2
-  66.       1107 A3rox                                   111      F alken. A3rox
-                 2026/01                                 100
-                 2026/02                                   1
-                 2026/03                                   3
-                 2026/04                                   5
-                 2026/05                                   2
-  67.       1238 Rascar13                                107      [TC]›Ras‹
-                 2026/01                                  37
-                 2026/02                                  31
-                 2026/03                                  27
-                 2026/04                                   6
-                 2026/06                                   6
-  68.      29639 13brotary                               107      13brotary
-                 2026/01                                  16
-                 2026/02                                  23
-                 2026/03                                  51
-                 2026/04                                  14
-                 2026/05                                   1
-                 2026/06                                   2
-  69.      45204 luvzc                                   107      Pixiee
+  63.      45204 luvzc                                   113      Pixiee
                  2026/01                                  18
                  2026/02                                  16
                  2026/03                                  41
                  2026/04                                  10
                  2026/05                                  10
                  2026/06                                   7
-                 2026/08                                   5
+                 2026/08                                  11
+  64.      49132 ruption ks                              113      Rupt KS
+                 2026/01                                  62
+                 2026/02                                  28
+                 2026/03                                  23
+  65.      49223 chrisandkitt                            113      CHRISANDKITT
+                 2026/01                                  94
+                 2026/02                                   2
+                 2026/04                                  17
+  66.      43143 enesozdil                               112      < Enes Özdil >
+                 2026/01                                  56
+                 2026/02                                  25
+                 2026/03                                  16
+                 2026/04                                  10
+                 2026/06                                   3
+                 2026/07                                   2
+  67.       1107 A3rox                                   111      F alken. A3rox
+                 2026/01                                 100
+                 2026/02                                   1
+                 2026/03                                   3
+                 2026/04                                   5
+                 2026/05                                   2
+  68.       1238 Rascar13                                107      [TC]›Ras‹
+                 2026/01                                  37
+                 2026/02                                  31
+                 2026/03                                  27
+                 2026/04                                   6
+                 2026/06                                   6
+  69.      29639 13brotary                               107      13brotary
+                 2026/01                                  16
+                 2026/02                                  23
+                 2026/03                                  51
+                 2026/04                                  14
+                 2026/05                                   1
+                 2026/06                                   2
   70.      32247 goncalovidigal                          102      вмкяgoиcаlo
                  2026/01                                  40
                  2026/02                                  20
@@ -7486,25 +7503,25 @@ Civil_stats_Playing_time_civilian:
                  2026/05                                  18
                  2026/06                                   1
                  2026/07                                   7
-  78.      43573 wampy                                    92      Wa m py ™
+  78.      35710 inno                                     93      racerformerlyknowninno
+                 2026/05                                  11
+                 2026/06                                  34
+                 2026/07                                  34
+                 2026/08                                  14
+  79.      43573 wampy                                    92      Wa m py ™
                  2026/01                                   4
                  2026/02                                  39
                  2026/03                                  21
                  2026/04                                  23
                  2026/07                                   3
                  2026/08                                   2
-  79.      49279 silva2525                                92      silva25
+  80.      49279 silva2525                                92      silva25
                  2026/01                                  76
                  2026/02                                  14
                  2026/03                                   2
-  80.        731 Lucky Loser                              92      [ DS ] Nitram
+  81.        731 Lucky Loser                              92      [ DS ] Nitram
                  2026/01                                  89
                  2026/02                                   3
-  81.      35710 inno                                     92      racerformerlyknowninno
-                 2026/05                                  11
-                 2026/06                                  34
-                 2026/07                                  34
-                 2026/08                                  13
   82.      22001 lavezzi                                  88      Panda
                  2026/01                                  28
                  2026/02                                  17
@@ -7520,22 +7537,23 @@ Civil_stats_Playing_time_civilian:
                  2026/03                                  32
                  2026/04                                  31
                  2026/05                                   1
-  84.      48946 magicdrip                                88      MagicDrip
+  84.      47471 young.drift                              88      Roham
+                 2026/01                                   1
+                 2026/02                                   4
+                 2026/06                                  77
+                 2026/07                                   5
+                 2026/08                                   1
+  85.      48946 magicdrip                                88      MagicDrip
                  2026/01                                  53
                  2026/02                                  22
                  2026/03                                   9
                  2026/04                                   4
-  85.      20375 notsosideways                            87      [TC-G] Blacktop
+  86.      20375 notsosideways                            87      [TC-G] Blacktop
                  2026/01                                  29
                  2026/02                                  23
                  2026/03                                  24
                  2026/04                                  10
                  2026/06                                   1
-  86.      47471 young.drift                              87      Roham
-                 2026/01                                   1
-                 2026/02                                   4
-                 2026/06                                  77
-                 2026/07                                   5
   87.      40361 cocusz                                   86      COCUSZ G25
                  2026/01                                  38
                  2026/02                                  27
@@ -7576,19 +7594,7 @@ Civil_stats_Playing_time_civilian:
                  2026/04                                   2
                  2026/07                                   1
                  2026/08                                   2
-  94.      49239 r4sseli                                  80      Rasseli
-                 2026/01                                  66
-                 2026/02                                   7
-                 2026/03                                   6
-                 2026/04                                   1
-  95.      30933 kentwolf                                 79      [6S] February
-                 2026/01                                  50
-                 2026/02                                  13
-                 2026/03                                   6
-                 2026/04                                   1
-                 2026/05                                   1
-                 2026/06                                   8
-  96.      47980 thamboo                                  79      [P R ] Thamboo
+  94.      47980 thamboo                                  80      [P R ] Thamboo
                  2026/01                                   9
                  2026/02                                  11
                  2026/03                                   6
@@ -7596,7 +7602,19 @@ Civil_stats_Playing_time_civilian:
                  2026/05                                  17
                  2026/06                                  19
                  2026/07                                   5
-                 2026/08                                   3
+                 2026/08                                   4
+  95.      49239 r4sseli                                  80      Rasseli
+                 2026/01                                  66
+                 2026/02                                   7
+                 2026/03                                   6
+                 2026/04                                   1
+  96.      30933 kentwolf                                 79      [6S] February
+                 2026/01                                  50
+                 2026/02                                  13
+                 2026/03                                   6
+                 2026/04                                   1
+                 2026/05                                   1
+                 2026/06                                   8
   97.       8597 NikoPDR                                  79      S1DUS* uNite
                  2026/01                                  40
                  2026/02                                  24
@@ -7624,7 +7642,7 @@ Civil_stats_Driven_distance:
  Rank    User ID Username                    Civil_stats_Driven_distance      Nickname
 --------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                            91,070      whatalife
+   1.      45913 whatalife                            91,442      whatalife
                  2026/01                              13,660
                  2026/02                              13,323
                  2026/03                              14,814
@@ -7632,7 +7650,7 @@ Civil_stats_Driven_distance:
                  2026/05                              10,997
                  2026/06                              10,166
                  2026/07                              10,190
-                 2026/08                               3,898
+                 2026/08                               4,270
    2.       2107 P V L                                22,450      [ DS ] P V L
                  2026/01                              13,322
                  2026/02                               8,911
@@ -7721,7 +7739,7 @@ Civil_stats_Driven_distance:
                  2026/06                               1,901
                  2026/07                                  89
                  2026/08                                  30
-  14.      47374 ross2750                             11,118      Not Ross
+  14.      47374 ross2750                             11,206      Not Ross
                  2026/01                               1,484
                  2026/02                                 879
                  2026/03                               1,643
@@ -7729,7 +7747,7 @@ Civil_stats_Driven_distance:
                  2026/05                               2,075
                  2026/06                               2,542
                  2026/07                                 640
-                 2026/08                                 197
+                 2026/08                                 285
   15.      26082 1993s14                              11,015      2 $low 2 curiou$
                  2026/01                               2,960
                  2026/02                               2,319
@@ -7851,7 +7869,13 @@ Civil_stats_Driven_distance:
                  2026/05                                 595
                  2026/06                                  68
                  2026/07                                 136
-  32.      32247 goncalovidigal                        6,958      вмкяgoиcаlo
+  32.       1249 DanLevy91                             7,126      kaz
+                 2026/01                               2,934
+                 2026/02                               2,509
+                 2026/03                                 980
+                 2026/04                                  17
+                 2026/08                                 686
+  33.      32247 goncalovidigal                        6,958      вмкяgoиcаlo
                  2026/01                               2,870
                  2026/02                               1,290
                  2026/03                               1,472
@@ -7859,12 +7883,6 @@ Civil_stats_Driven_distance:
                  2026/05                                 235
                  2026/06                                 193
                  2026/07                                   4
-  33.       1249 DanLevy91                             6,897      kaz
-                 2026/01                               2,934
-                 2026/02                               2,509
-                 2026/03                                 980
-                 2026/04                                  17
-                 2026/08                                 457
   34.      41476 p1nhe1r0                              6,841      P1NHE1RØ
                  2026/01                               3,379
                  2026/02                               1,634
@@ -8034,26 +8052,35 @@ Civil_stats_Driven_distance:
                  2026/03                               1,666
                  2026/04                               1,894
                  2026/05                                  33
-  58.      47471 young.drift                           4,931      Roham
+  58.      35710 inno                                  4,951      racerformerlyknowninno
+                 2026/05                                 489
+                 2026/06                               1,929
+                 2026/07                               1,851
+                 2026/08                                 682
+  59.      47471 young.drift                           4,942      Roham
                  2026/01                                 120
                  2026/02                                 203
                  2026/06                               4,301
                  2026/07                                 307
-  59.      35710 inno                                  4,929      racerformerlyknowninno
-                 2026/05                                 489
-                 2026/06                               1,929
-                 2026/07                               1,851
-                 2026/08                                 660
+                 2026/08                                  11
   60.       5778 darck.pl                              4,928      D z ej .
                  2026/01                               2,437
                  2026/02                               1,999
                  2026/03                                 492
-  61.      34216 xtremesp33d                           4,730      iodine ²
+  61.      34216 xtremesp33d                           4,803      iodine ²
                  2026/01                                 626
                  2026/02                                 891
                  2026/03                               1,740
                  2026/04                               1,473
-  62.      24338 vercetti87                            4,594      G R E T A
+                 2026/08                                  73
+  62.      49671 mr.carrots                            4,627      7B7R
+                 2026/02                                 236
+                 2026/03                               1,718
+                 2026/04                               1,773
+                 2026/05                                 137
+                 2026/06                                 709
+                 2026/08                                  54
+  63.      24338 vercetti87                            4,594      G R E T A
                  2026/01                                 972
                  2026/02                                 918
                  2026/03                                 651
@@ -8062,12 +8089,6 @@ Civil_stats_Driven_distance:
                  2026/06                                 327
                  2026/07                                 174
                  2026/08                                 181
-  63.      49671 mr.carrots                            4,573      7B7R
-                 2026/02                                 236
-                 2026/03                               1,718
-                 2026/04                               1,773
-                 2026/05                                 137
-                 2026/06                                 709
   64.      41772 scammergamerlol                       4,570      Burrito
                  2026/01                                  23
                  2026/03                                  78
@@ -8137,12 +8158,13 @@ Civil_stats_Driven_distance:
   74.      11370 loo77                                 4,041      L o o 77
                  2026/01                               1,683
                  2026/02                               2,358
-  75.       1283 THE WIZARD DK                         3,948      THE WIZARD DK ﾂ
+  75.       1283 THE WIZARD DK                         3,978      THE WIZARD DK ﾂ
                  2026/01                               1,189
                  2026/02                                 607
                  2026/03                                 445
                  2026/06                               1,464
                  2026/07                                 243
+                 2026/08                                  30
   76.      48478 midranit                              3,945      Kayra Tevzadze
                  2026/01                               1,046
                  2026/02                               1,701
@@ -8306,7 +8328,7 @@ Civil_stats_Driven_distance_on_bikes:
  Rank    User ID Username                    Civil_stats_Driven_distance_on_bikes      Nickname
 -----------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                            79,941      whatalife
+   1.      45913 whatalife                            80,313      whatalife
                  2026/01                              11,312
                  2026/02                               9,534
                  2026/03                              11,573
@@ -8314,7 +8336,7 @@ Civil_stats_Driven_distance_on_bikes:
                  2026/05                              10,920
                  2026/06                              10,076
                  2026/07                              10,136
-                 2026/08                               3,898
+                 2026/08                               4,270
    2.       2107 P V L                                18,564      [ DS ] P V L
                  2026/01                              10,102
                  2026/02                               8,372
@@ -8367,7 +8389,7 @@ Civil_stats_Driven_distance_on_bikes:
                  2026/04                               1,340
                  2026/05                               2,486
                  2026/06                                 844
-  10.      47374 ross2750                              4,778      Not Ross
+  10.      47374 ross2750                              4,797      Not Ross
                  2026/01                                 212
                  2026/02                                 172
                  2026/03                                 299
@@ -8375,7 +8397,7 @@ Civil_stats_Driven_distance_on_bikes:
                  2026/05                               1,759
                  2026/06                               1,561
                  2026/07                                  81
-                 2026/08                                  55
+                 2026/08                                  74
   11.      49060 just bask                             4,770      bask
                  2026/01                               3,476
                  2026/02                               1,294
@@ -8473,11 +8495,12 @@ Civil_stats_Driven_distance_on_bikes:
                  2026/05                                 474
                  2026/06                                  17
                  2026/07                                 199
-  28.      47471 young.drift                           2,221      Roham
+  28.      47471 young.drift                           2,227      Roham
                  2026/01                                 120
                  2026/02                                 176
                  2026/06                               1,878
                  2026/07                                  47
+                 2026/08                                   6
   29.      47714 eugeniuszpro                          2,188      Eugeniusz
                  2026/01                                 569
                  2026/02                               1,099
@@ -13518,11 +13541,12 @@ Roleplaying_Paid_donations:
                  2026/03                               2,593
                  2026/04                               2,522
                  2026/06                                 203
-  12.      34216 xtremesp33d                           9,750      iodine ²
+  12.      34216 xtremesp33d                           9,790      iodine ²
                  2026/01                                 393
                  2026/02                               1,920
                  2026/03                               3,537
                  2026/04                               3,900
+                 2026/08                                  40
   13.      17555 !cr4zy!                               9,570      ! c r ﾑ z y !
                  2026/01                               4,255
                  2026/02                                 210
@@ -15644,11 +15668,11 @@ Delivery_Started_jobs:
    1.       2107 P V L                                   447      [ DS ] P V L
                  2026/01                                 370
                  2026/02                                  77
-   2.       1249 DanLevy91                               387      kaz
+   2.       1249 DanLevy91                               402      kaz
                  2026/01                                  86
                  2026/02                                 161
                  2026/03                                  99
-                 2026/08                                  41
+                 2026/08                                  56
    3.      22443 cegonha02                               361      Joao
                  2026/01                                  96
                  2026/02                                 237
@@ -15799,21 +15823,22 @@ Delivery_Started_jobs:
                  2026/01                                  43
   46.       6367 SHVAYA                                   43      SHVAYA P L
                  2026/01                                  43
-  47.      27998 whizfizz                                 41      Abscended
-                 2026/01                                  32
-                 2026/02                                   9
-  48.      29040 remst                                    41      Rem
-                 2026/01                                  18
-                 2026/02                                  23
-  49.      41329 rfi95                                    39      ® F Í 9 5
-                 2026/01                                  33
-                 2026/02                                   6
-  50.       1283 THE WIZARD DK                            38      THE WIZARD DK ﾂ
+  47.       1283 THE WIZARD DK                            41      THE WIZARD DK ﾂ
                  2026/01                                  10
                  2026/02                                   9
                  2026/03                                   8
                  2026/06                                  10
                  2026/07                                   1
+                 2026/08                                   3
+  48.      27998 whizfizz                                 41      Abscended
+                 2026/01                                  32
+                 2026/02                                   9
+  49.      29040 remst                                    41      Rem
+                 2026/01                                  18
+                 2026/02                                  23
+  50.      41329 rfi95                                    39      ® F Í 9 5
+                 2026/01                                  33
+                 2026/02                                   6
   51.      37317 bayanofmansorofisky                      38      Redﾉ BM
                  2026/01                                   2
                  2026/02                                  36
@@ -15986,11 +16011,11 @@ Delivery_Finished_trips:
                  2026/01                                 132
                  2026/02                                 268
                  2026/06                                  28
-   3.       1249 DanLevy91                               371      kaz
+   3.       1249 DanLevy91                               386      kaz
                  2026/01                                  79
                  2026/02                                 159
                  2026/03                                  94
-                 2026/08                                  39
+                 2026/08                                  54
    4.       1041 Berni25                                 365      [ DS ] Berni
                  2026/01                                 361
                  2026/02                                   4
@@ -16007,14 +16032,14 @@ Delivery_Finished_trips:
                  2026/01                                 206
    9.      49223 chrisandkitt                            190      CHRISANDKITT
                  2026/01                                 190
-  10.      28134 ke608                                   165      YIKES!
+  10.      28134 ke608                                   166      YIKES!
                  2026/01                                  82
                  2026/02                                   6
                  2026/03                                  35
                  2026/05                                  10
                  2026/06                                   4
                  2026/07                                  14
-                 2026/08                                  14
+                 2026/08                                  15
   11.      32443 alau07                                  158      [ LCS- マ] Lausk
                  2026/02                                  60
                  2026/03                                  73
@@ -16136,21 +16161,22 @@ Delivery_Finished_trips:
                  2026/02                                   1
   47.      40902 sadecealpha                              50      ＧＴＣゑ Alpha°
                  2026/01                                  50
-  48.      42363 theratox                                 48      D zin (T150)
-                 2026/01                                   3
-                 2026/02                                  42
-                 2026/03                                   3
-  49.       6367 SHVAYA                                   47      SHVAYA P L
-                 2026/01                                  47
-  50.      27998 whizfizz                                 46      Abscended
-                 2026/01                                  38
-                 2026/02                                   8
-  51.       1283 THE WIZARD DK                            45      THE WIZARD DK ﾂ
+  48.       1283 THE WIZARD DK                            49      THE WIZARD DK ﾂ
                  2026/01                                  16
                  2026/02                                   9
                  2026/03                                   8
                  2026/06                                  11
                  2026/07                                   1
+                 2026/08                                   4
+  49.      42363 theratox                                 48      D zin (T150)
+                 2026/01                                   3
+                 2026/02                                  42
+                 2026/03                                   3
+  50.       6367 SHVAYA                                   47      SHVAYA P L
+                 2026/01                                  47
+  51.      27998 whizfizz                                 46      Abscended
+                 2026/01                                  38
+                 2026/02                                   8
   52.      30291 redbot_                                  44      Geoff
                  2026/01                                  27
                  2026/05                                   4
@@ -16291,14 +16317,14 @@ Delivery_Delivered_kg:
    2.       1041 Berni25                           2,314,690      [ DS ] Berni
                  2026/01                           2,285,490
                  2026/02                              29,200
-   3.      28134 ke608                               530,020      YIKES!
+   3.      28134 ke608                               530,840      YIKES!
                  2026/01                             301,410
                  2026/02                              23,910
                  2026/03                             116,810
                  2026/05                              32,230
                  2026/06                               9,300
                  2026/07                              36,320
-                 2026/08                              10,040
+                 2026/08                              10,860
    4.      11368 sako123                             529,960      [TC-G] LowRider
                  2026/01                             146,060
                  2026/02                             192,190
@@ -16338,13 +16364,13 @@ Delivery_Delivered_kg:
                  2026/07                              57,670
   15.          4 chucknorris                         166,870      ‹Chuck›
                  2026/01                             166,870
-  16.       4166 Valen                               154,630      AWx •Dree X ie
-                 2026/01                             154,630
-  17.       1249 DanLevy91                           153,350      kaz
+  16.       1249 DanLevy91                           156,920      kaz
                  2026/01                              31,210
                  2026/02                              57,720
                  2026/03                              46,840
-                 2026/08                              17,580
+                 2026/08                              21,150
+  17.       4166 Valen                               154,630      AWx •Dree X ie
+                 2026/01                             154,630
   18.      49223 chrisandkitt                        142,490      CHRISANDKITT
                  2026/01                             142,490
   19.      22443 cegonha02                           138,690      Joao
@@ -16586,11 +16612,11 @@ Delivery_Driven_distance_loaded:
  Rank    User ID Username                    Delivery_Driven_distance_loaded      Nickname
 ------------------------------------------------------------------------------------------
 
-   1.       1249 DanLevy91                             1,509      kaz
+   1.       1249 DanLevy91                             1,557      kaz
                  2026/01                                 370
                  2026/02                                 649
                  2026/03                                 364
-                 2026/08                                 126
+                 2026/08                                 174
    2.      22443 cegonha02                               994      Joao
                  2026/01                                 296
                  2026/02                                 630
@@ -16703,17 +16729,18 @@ Delivery_Driven_distance_loaded:
                  2026/02                                  59
                  2026/03                                   2
                  2026/04                                 129
-  36.      14929 juanann                                 184      [ RC ] Reyju
-                 2026/01                                 184
-  37.      48200 volfukas                                178      NE1L3NDZO
-                 2026/02                                  76
-                 2026/03                                 102
-  38.       1283 THE WIZARD DK                           175      THE WIZARD DK ﾂ
+  36.       1283 THE WIZARD DK                           186      THE WIZARD DK ﾂ
                  2026/01                                  53
                  2026/02                                  68
                  2026/03                                  15
                  2026/06                                  35
                  2026/07                                   4
+                 2026/08                                  11
+  37.      14929 juanann                                 184      [ RC ] Reyju
+                 2026/01                                 184
+  38.      48200 volfukas                                178      NE1L3NDZO
+                 2026/02                                  76
+                 2026/03                                 102
   39.      39647 hk80supra                               171      80Supra
                  2026/01                                 171
   40.      48924 faduck                                  165      FaDuck
@@ -16898,11 +16925,11 @@ Delivery_Earned_money:
    2.       1041 Berni25                              27,362      [ DS ] Berni
                  2026/01                              27,078
                  2026/02                                 284
-   3.       1249 DanLevy91                            17,091      kaz
+   3.       1249 DanLevy91                            17,624      kaz
                  2026/01                               3,604
                  2026/02                               6,904
                  2026/03                               4,839
-                 2026/08                               1,744
+                 2026/08                               2,277
    4.      10038 keskitalo                            14,284      #58 KESKITALO
                  2026/01                              14,284
    5.      11368 sako123                              13,906      [TC-G] LowRider
@@ -16913,14 +16940,14 @@ Delivery_Earned_money:
                  2026/01                               3,355
                  2026/02                               8,682
                  2026/06                                 916
-   7.      28134 ke608                                12,843      YIKES!
+   7.      28134 ke608                                12,907      YIKES!
                  2026/01                               6,603
                  2026/02                                 518
                  2026/03                               3,099
                  2026/05                                 716
                  2026/06                                 194
                  2026/07                               1,085
-                 2026/08                                 628
+                 2026/08                                 692
    8.      32443 alau07                               12,073      [ LCS- マ] Lausk
                  2026/02                               5,050
                  2026/03                               5,508
@@ -17124,26 +17151,27 @@ Delivery_Earned_money:
   73.      43105 fladeonyt                             1,285      FLade
                  2026/02                                 256
                  2026/03                               1,029
-  74.      25024 smallhail741                          1,267      [TC-G] TAZxx [COP]
-                 2026/01                               1,267
-  75.       6367 SHVAYA                                1,251      SHVAYA P L
-                 2026/01                               1,251
-  76.       1978 detail                                1,247      detail
-                 2026/04                                 591
-                 2026/05                                 548
-                 2026/06                                 108
-  77.      49030 lukenas1234                           1,227      [MED] -F ru zv
-                 2026/01                               1,227
-  78.      41297 mrjoao007                             1,225      MONTANELAS
-                 2026/01                               1,225
-  79.       1288 sWoRDfSh                              1,201      sWoRDfiSh
-                 2026/01                               1,201
-  80.       1283 THE WIZARD DK                         1,189      THE WIZARD DK ﾂ
+  74.       1283 THE WIZARD DK                         1,279      THE WIZARD DK ﾂ
                  2026/01                                 324
                  2026/02                                 233
                  2026/03                                 239
                  2026/06                                 358
                  2026/07                                  35
+                 2026/08                                  90
+  75.      25024 smallhail741                          1,267      [TC-G] TAZxx [COP]
+                 2026/01                               1,267
+  76.       6367 SHVAYA                                1,251      SHVAYA P L
+                 2026/01                               1,251
+  77.       1978 detail                                1,247      detail
+                 2026/04                                 591
+                 2026/05                                 548
+                 2026/06                                 108
+  78.      49030 lukenas1234                           1,227      [MED] -F ru zv
+                 2026/01                               1,227
+  79.      41297 mrjoao007                             1,225      MONTANELAS
+                 2026/01                               1,225
+  80.       1288 sWoRDfSh                              1,201      sWoRDfiSh
+                 2026/01                               1,201
   81.      48810 1divineninja                          1,184      1DivineNinja TTV
                  2026/01                               1,122
                  2026/03                                  35
@@ -17607,8 +17635,8 @@ Mail_Courier_Delivered_parcels:
                  2026/03                                  16
   54.      40057 bbatuhanseker                           228      T AURUS
                  2026/01                                 228
-  55.      35710 inno                                    219      racerformerlyknowninno
-                 2026/08                                 219
+  55.      35710 inno                                    225      racerformerlyknowninno
+                 2026/08                                 225
   56.      12536 rubstie                                 207      Ru bs tie
                  2026/01                                 207
   57.        135 KROSS                                   203      DEADCRUISER
@@ -17884,11 +17912,11 @@ Mail_Courier_Delivered_kg:
                  2026/03                                  59
                  2026/05                                  65
                  2026/06                                  42
-  53.      28134 ke608                                   519      YIKES!
+  53.      35710 inno                                    537      racerformerlyknowninno
+                 2026/08                                 537
+  54.      28134 ke608                                   519      YIKES!
                  2026/01                                 368
                  2026/06                                 151
-  54.      35710 inno                                    517      racerformerlyknowninno
-                 2026/08                                 517
   55.      12536 rubstie                                 500      Ru bs tie
                  2026/01                                 500
   56.      24475 alex03                                  500      Captain Slow
@@ -18140,10 +18168,10 @@ Mail_Courier_Driven_distance:
                  2026/01                                 104
   43.      21677 antodrifto                              103      Ant
                  2026/01                                 103
-  44.      22127 sensejs                                 100      FaarLo w
+  44.      35710 inno                                    102      racerformerlyknowninno
+                 2026/08                                 102
+  45.      22127 sensejs                                 100      FaarLo w
                  2026/02                                 100
-  45.      35710 inno                                     97      racerformerlyknowninno
-                 2026/08                                  97
   46.      40057 bbatuhanseker                            96      T AURUS
                  2026/01                                  96
   47.      49419 thereal_guester1                         93      Zezu
@@ -18440,13 +18468,13 @@ Mail_Courier_Earned_money:
                  2026/02                               2,071
   51.      42454 jambrudas                             2,038      Redﾉ PίcκΖ
                  2026/01                               2,038
-  52.      36628 awsomenot                             2,019      Awesie
+  52.      35710 inno                                  2,037      racerformerlyknowninno
+                 2026/08                               2,037
+  53.      36628 awsomenot                             2,019      Awesie
                  2026/02                                  93
                  2026/03                               1,926
-  53.       8597 NikoPDR                               2,010      S1DUS* uNite
+  54.       8597 NikoPDR                               2,010      S1DUS* uNite
                  2026/02                               2,010
-  54.      35710 inno                                  1,989      racerformerlyknowninno
-                 2026/08                               1,989
   55.      12536 rubstie                               1,970      Ru bs tie
                  2026/01                               1,970
   56.      42461 robotokonas                           1,919      Robo
@@ -21628,11 +21656,12 @@ Rent_Earned:
  Rank    User ID Username                        Rent_Earned      Nickname
 --------------------------------------------------------------------------
 
-   1.      34216 xtremesp33d                         135,395      iodine ²
+   1.      34216 xtremesp33d                         164,743      iodine ²
                  2026/01                              56,560
                  2026/02                              51,734
                  2026/03                              21,320
                  2026/04                               5,781
+                 2026/08                              29,348
    2.      24634 bkrisztian91                         75,124      [CSR] Botos
                  2026/01                              60,826
                  2026/02                               6,712
@@ -22274,16 +22303,16 @@ Rent_Paid:
                  2026/03                               3,354
                  2026/04                                 815
                  2026/06                               1,481
-  26.      49540 taly                                 14,657      Taly
+  26.       1249 DanLevy91                            14,871      kaz
+                 2026/01                               9,196
+                 2026/02                               3,857
+                 2026/03                               1,116
+                 2026/08                                 702
+  27.      49540 taly                                 14,657      Taly
                  2026/01                               1,394
                  2026/02                               7,006
                  2026/03                               6,081
                  2026/04                                 176
-  27.       1249 DanLevy91                            14,486      kaz
-                 2026/01                               9,196
-                 2026/02                               3,857
-                 2026/03                               1,116
-                 2026/08                                 317
   28.      47376 evari albo                           13,951      [SAVE TC] ALBO
                  2026/01                               1,935
                  2026/02                               1,652
@@ -22323,17 +22352,18 @@ Rent_Paid:
                  2026/05                                 162
                  2026/06                               6,192
                  2026/07                                  50
-  33.       2936 Tuuliqinen                           12,616      Tuuliainen
-                 2026/01                               1,411
-                 2026/02                               9,587
-                 2026/03                               1,587
-                 2026/04                                  31
-  34.      49671 mr.carrots                           12,409      7B7R
+  33.      49671 mr.carrots                           12,642      7B7R
                  2026/02                                 286
                  2026/03                               3,417
                  2026/04                               5,561
                  2026/05                                 509
                  2026/06                               2,636
+                 2026/08                                 233
+  34.       2936 Tuuliqinen                           12,616      Tuuliainen
+                 2026/01                               1,411
+                 2026/02                               9,587
+                 2026/03                               1,587
+                 2026/04                                  31
   35.      48062 topcuzeus                            12,166      Topcu Zeus
                  2026/01                               9,566
                  2026/02                               2,444
@@ -22407,10 +22437,11 @@ Rent_Paid:
                  2026/01                               8,847
                  2026/02                                 912
                  2026/03                               1,082
-  46.      47471 young.drift                          10,543      Roham
+  46.      47471 young.drift                          10,568      Roham
                  2026/02                                 167
                  2026/06                               9,834
                  2026/07                                 542
+                 2026/08                                  25
   47.      48414 janivagyok88                         10,459      janivagyok88
                  2026/01                               3,974
                  2026/02                               2,368
@@ -22472,7 +22503,7 @@ Rent_Paid:
                  2026/06                               7,882
                  2026/07                               1,332
                  2026/08                                 148
-  56.      48993 cimars                                9,261      Driver ™
+  56.      48993 cimars                                9,289      Driver ™
                  2026/01                                 598
                  2026/02                                 240
                  2026/03                               3,998
@@ -22480,7 +22511,7 @@ Rent_Paid:
                  2026/05                                 847
                  2026/06                               1,573
                  2026/07                                 272
-                 2026/08                                  72
+                 2026/08                                 100
   57.      44922 luanlk123                             9,199      / / / Anya
                  2026/01                               5,673
                  2026/02                               3,120
