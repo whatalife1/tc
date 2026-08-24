@@ -1,6 +1,6 @@
 August 2026
 Data from (dated files): TC_Database_08_2026.db
-Generated on: 2026-08-24 16:57:04
+Generated on: 2026-08-24 19:03:05
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -65,15 +65,15 @@ Driven_distance:
   17.      17492 proluffe                              422      ™ DB Luffe
                      Civil_stats_Driven_distance:                             423
                      Robber_stats_Driven_distance_being_chased:                 7
-  18.      12846 DJmad                                 415      insurance fraud.
+  18.      39867 racing101                             417      V M . SMOKEY
+                     Civil_stats_Driven_distance:                             417
+                     Robber_stats_Driven_distance_being_chased:                30
+  19.      12846 DJmad                                 415      insurance fraud.
                      Civil_stats_Driven_distance:                             415
                      Civil_stats_Driven_distance_on_bikes:                      4
-  19.      20208 mrgrinchi017                          408      Grinch
+  20.      20208 mrgrinchi017                          408      Grinch
                      Civil_stats_Driven_distance:                             408
                      Civil_stats_Driven_distance_on_bikes:                    114
-  20.      39867 racing101                             405      V M . SMOKEY
-                     Civil_stats_Driven_distance:                             404
-                     Robber_stats_Driven_distance_being_chased:                30
   21.      30855 ez_krieg3r                            393      » derMiepz «
                      Civil_stats_Driven_distance:                             393
                      Civil_stats_Driven_distance_on_bikes:                    183
@@ -109,16 +109,16 @@ Driven_distance:
   30.      47305 griffin20069                          218      [ LCS- ﾏ] Girfen
                      Civil_stats_Driven_distance:                             218
                      Civil_stats_Driven_distance_on_bikes:                    217
-  31.      49230 nora vale                             217      Nora ﾞ
+  31.      28134 ke608                                 217      YIKES!
+                     Civil_stats_Driven_distance:                             111
+                     Delivery_Driven_distance_loaded:                          69
+                     Taxiing_Driven_distance:                                  37
+  32.      49230 nora vale                             217      Nora ﾞ
                      Civil_stats_Driven_distance:                             217
                      Civil_stats_Driven_distance_on_bikes:                     83
                      Delivery_Driven_distance_loaded:                           4
-  32.      16185 turb0keule                            212      Keule
+  33.      16185 turb0keule                            212      Keule
                      Civil_stats_Driven_distance:                             212
-  33.      28134 ke608                                 211      YIKES!
-                     Civil_stats_Driven_distance:                             107
-                     Delivery_Driven_distance_loaded:                          67
-                     Taxiing_Driven_distance:                                  36
   34.      29189 cetink.                               211      [ RDSR ] Fearr
                      Civil_stats_Driven_distance:                             211
   35.      33282 mrwallace888                          182      Jack Foxtrot
@@ -412,21 +412,21 @@ Total_Money:
                      Rent_Paid:                                    400
                      Comp_Received:                                 50
                      Comp_Sent:                                    460
-  15.      50708 dokkaecat                          -9,513      Dokkae
+  15.      28134 ke608                               9,630      YIKES!
+                     Earned_by_driving:                          6,376
+                     Lost_by_driving:                               95
+                     Delivery_Earned_money:                      1,247
+                     Taxiing_Earned_money:                         681
+                     Taxiing_Paid_penalties:                       100
+                     Rent_Paid:                                    342
+  16.      50708 dokkaecat                          -9,513      Dokkae
                      Earned_by_driving:                          1,004
                      Lost_by_driving:                               54
                      Delivery_Earned_money:                         20
-  16.      50694 cakirhangny53                      -9,401      ÇAKIR 5 3 (G29)
+  17.      50694 cakirhangny53                      -9,401      ÇAKIR 5 3 (G29)
                      Earned_by_driving:                            260
                      Rent_Paid:                                     16
                      Bingo_Won:                                    115
-  17.      28134 ke608                               9,254      YIKES!
-                     Earned_by_driving:                          6,156
-                     Lost_by_driving:                               95
-                     Delivery_Earned_money:                      1,158
-                     Taxiing_Earned_money:                         653
-                     Taxiing_Paid_penalties:                       100
-                     Rent_Paid:                                    314
   18.      50719 domis691                           -8,855      Domis_9
                      Earned_by_driving:                            653
                      Lost_by_driving:                                2
@@ -488,12 +488,7 @@ Total_Money:
                      Lost_by_driving:                               96
                      Rent_Paid:                                     85
                      Comp_Received:                                460
-  31.      39867 racing101                           5,048      V M . SMOKEY
-                     Earned_by_driving:                            720
-                     Lost_by_driving:                            6,674
-                     Roleplaying_Paid_donations:                    20
-                     Rent_Paid:                                    333
-  32.      50364 pjm                                -4,939      pjm
+  31.      50364 pjm                                -4,939      pjm
                      Sent_Money:                                     2
                      Earned_by_driving:                         30,674
                      Lost_by_driving:                            2,207
@@ -505,6 +500,11 @@ Total_Money:
                      Rent_Paid:                                  1,483
                      Comp_Received:                                360
                      Comp_Sent:                                    100
+  32.      39867 racing101                           4,863      V M . SMOKEY
+                     Earned_by_driving:                            731
+                     Lost_by_driving:                            6,885
+                     Roleplaying_Paid_donations:                    20
+                     Rent_Paid:                                    333
   33.      22001 lavezzi                             4,805      Panda
                      Sent_Money:                                   500
                      Rece_Money:                                   500
@@ -862,7 +862,7 @@ Time:
    4.      45535 gfgvp                                 -42      FurkanD
    5.      50680 carbonformula                         -42      CarbonFormula
    6.      49892 asaphlucas                             41      B R Paropex
-   7.      50364 pjm                                    38      pjm
+   7.      50364 pjm                                    39      pjm
    8.      50647 mantarcii                              37      MANTARCII
    9.      50694 cakirhangny53                          35      ÇAKIR 5 3 (G29)
   10.      45204 luvzc                                  33      Pixie
@@ -879,8 +879,8 @@ Time:
   21.      24338 vercetti87                             14      G R E T A
   22.      49946 a_velev1                               14      a_velev1
   23.      50684 jtiscool9                              14      Silent
-  24.      44911 pug=309                                13      Jason n
-  25.      28134 ke608                                  12      YIKES!
+  24.      28134 ke608                                  13      YIKES!
+  25.      44911 pug=309                                13      Jason n
   26.      22001 lavezzi                                11      Panda
   27.      32966 theguiihbr                             11      [TC] ›Batman‹ [HwA]
   28.      47374 ross2750                               11      Not Ross
@@ -1022,8 +1022,8 @@ Earned_by_driving:
   13.      30855 ez_krieg3r                          7,235      » derMiepz «
   14.      33282 mrwallace888                        6,490      Jack Foxtrot
   15.      47628 amagimoon                           6,459      AmagiMoon
-  16.       3704 ian78                               6,260      Ian [ROAD]
-  17.      28134 ke608                               6,156      YIKES!
+  16.      28134 ke608                               6,376      YIKES!
+  17.       3704 ian78                               6,260      Ian [ROAD]
   18.      47305 griffin20069                        5,683      [ LCS- ﾏ] Girfen
   19.      44911 pug=309                             5,672      Jason n
   20.      46021 aligamingarabic                     5,376      AliGaming
@@ -1089,7 +1089,7 @@ Earned_by_driving:
   80.      43118 therubius192fe2                       829      B2 ﾏ Rubi
   81.      34216 xtremesp33d                           763      iodine ²
   82.      26465 xx3bod506                             751      ＤＲ ＬＦＳ
-  83.      39867 racing101                             720      V M . SMOKEY
+  83.      39867 racing101                             731      V M . SMOKEY
   84.      48993 cimars                                720      ★ DRIVER ★
   85.       8597 NikoPDR                               720      S1DUS* uNite
   86.      46127 marcuzio                              710      ™ DB Marcuzio
@@ -1114,8 +1114,8 @@ Lost_by_driving:
 
    1.      45913 whatalife                          12,982      whatalife
    2.      23754 thijsssiiee                         8,038      [CSR] Thijs
-   3.      41376 glenn quagmire                      6,884      Omega
-   4.      39867 racing101                           6,674      V M . SMOKEY
+   3.      39867 racing101                           6,885      V M . SMOKEY
+   4.      41376 glenn quagmire                      6,884      Omega
    5.      43573 wampy                               5,491      Wa m py
    6.      26082 1993s14                             4,064      2 $low 2 curiou$
    7.      40605 emileker                            3,575      silentkiller
@@ -1229,7 +1229,7 @@ Total_Wealth:
   10.      47374 ross2750                           11,644      Not Ross
   11.      41376 glenn quagmire                    -10,477      Omega
   12.      24338 vercetti87                         10,160      G R E T A
-  13.      39867 racing101                          -9,780      V M . SMOKEY
+  13.      39867 racing101                         -10,014      V M . SMOKEY
   14.      47628 amagimoon                          -9,720      AmagiMoon
   15.      20208 mrgrinchi017                        9,506      Grinch
   16.       1249 DanLevy91                           9,097      kaz
@@ -1268,17 +1268,17 @@ Total_Wealth:
   49.      43321 ianchito                            1,895      ian
   50.      48116 kainei                              1,863      OraletOsman
   51.      32966 theguiihbr                          1,741      [TC] ›Batman‹ [HwA]
-  52.      22170 soras99                             1,626      Erox^
-  53.      16185 turb0keule                         -1,559      Keule
-  54.      39516 mehmetgulec                         1,558      ηgµ ｫ japon
-  55.      44045 sirac.54_                          -1,549      [CSR] Muffin
-  56.      49671 mr.carrots                          1,544      7B7R
-  57.      29189 cetink.                             1,471      [ RDSR ] Fearr
-  58.      45026 gtaplay                            -1,436      ＰＩＬＯＴ
-  59.      50100 m04032015m                         -1,415      Lollk
-  60.      35128 pete211g                            1,304      †SRT† Squis h
-  61.      45444 argamingarabic                      1,275      Mr r p
-  62.      28134 ke608                               1,262      YIKES!
+  52.      28134 ke608                               1,635      YIKES!
+  53.      22170 soras99                             1,626      Erox^
+  54.      16185 turb0keule                         -1,559      Keule
+  55.      39516 mehmetgulec                         1,558      ηgµ ｫ japon
+  56.      44045 sirac.54_                          -1,549      [CSR] Muffin
+  57.      49671 mr.carrots                          1,544      7B7R
+  58.      29189 cetink.                             1,471      [ RDSR ] Fearr
+  59.      45026 gtaplay                            -1,436      ＰＩＬＯＴ
+  60.      50100 m04032015m                         -1,415      Lollk
+  61.      35128 pete211g                            1,304      †SRT† Squis h
+  62.      45444 argamingarabic                      1,275      Mr r p
   63.      46415 aleksis1                           -1,245      [PACT] MarizzP
   64.      46873 vlastimil                           1,241      Zi xx (the biker)
   65.      47376 evari albo                          1,211      [SAVE TC] ALBO
@@ -1488,9 +1488,9 @@ Civil_stats_Driven_distance:
   15.      50686 osman2355                            -450      osman2355
   16.      50681 simonstach                            448      simon
   17.      17492 proluffe                              423      ™ DB Luffe
-  18.      12846 DJmad                                 415      insurance fraud.
-  19.      20208 mrgrinchi017                          408      Grinch
-  20.      39867 racing101                             404      V M . SMOKEY
+  18.      39867 racing101                             417      V M . SMOKEY
+  19.      12846 DJmad                                 415      insurance fraud.
+  20.      20208 mrgrinchi017                          408      Grinch
   21.      30855 ez_krieg3r                            393      » derMiepz «
   22.        868 Some0ne                               379      ‹S1›
   23.      24338 vercetti87                            361      G R E T A
@@ -1518,9 +1518,9 @@ Civil_stats_Driven_distance:
   45.      39239 jordanvalov                           116      [CSR] Yordan
   46.      42816 fastranker1                           113      [CSR] Yunos
   47.      42979 firatrobert_07                        112      R obert G 29
-  48.      39264 lubomir371                            111      [CSR] L.ivanov156
-  49.      28459 pro player128                         109      [ FIN ] Soppa
-  50.      28134 ke608                                 107      YIKES!
+  48.      28134 ke608                                 111      YIKES!
+  49.      39264 lubomir371                            111      [CSR] L.ivanov156
+  50.      28459 pro player128                         109      [ FIN ] Soppa
   51.      29924 icoha44                               103      CCI4
   52.      32220 compactrhone                          103      ™ DB Rhone
   53.      25215 m52b28                                102      Selling (TC) Cars
@@ -1920,7 +1920,7 @@ Delivery_Started_jobs:
 ------------------------------------------------------------------------------
 
    1.       1249 DanLevy91                              60      kaz
-   2.      28134 ke608                                  27      YIKES!
+   2.      28134 ke608                                  29      YIKES!
    3.       1283 THE WIZARD DK                          19      [Hzrd]Billy.Hill
    4.      35710 inno                                   18      racerformerlyknowninno
    5.      48116 kainei                                 10      OraletOsman
@@ -1947,7 +1947,7 @@ Delivery_Finished_trips:
 
    1.       1249 DanLevy91                              58      kaz
    2.       1283 THE WIZARD DK                          30      [Hzrd]Billy.Hill
-   3.      28134 ke608                                  26      YIKES!
+   3.      28134 ke608                                  27      YIKES!
    4.      35710 inno                                   18      racerformerlyknowninno
    5.      50708 dokkaecat                              10      Dokkae
    6.      38864 lewis hamilton92                        9      Gab
@@ -1970,7 +1970,7 @@ Delivery_Delivered_kg:
 ------------------------------------------------------------------------------
 
    1.       1249 DanLevy91                          23,530      kaz
-   2.      28134 ke608                              14,930      YIKES!
+   2.      28134 ke608                              22,230      YIKES!
    3.       1283 THE WIZARD DK                       4,800      [Hzrd]Billy.Hill
    4.      38864 lewis hamilton92                    3,050      Gab
    5.      48116 kainei                              2,870      OraletOsman
@@ -1995,7 +1995,7 @@ Delivery_Driven_distance_loaded:
 
    1.       1249 DanLevy91                             185      kaz
    2.       1283 THE WIZARD DK                          80      [Hzrd]Billy.Hill
-   3.      28134 ke608                                  67      YIKES!
+   3.      28134 ke608                                  69      YIKES!
    4.      35710 inno                                   49      racerformerlyknowninno
    5.      38864 lewis hamilton92                       36      Gab
    6.      48116 kainei                                 34      OraletOsman
@@ -2021,7 +2021,7 @@ Delivery_Earned_money:
 ------------------------------------------------------------------------------
 
    1.       1249 DanLevy91                           2,472      kaz
-   2.      28134 ke608                               1,158      YIKES!
+   2.      28134 ke608                               1,247      YIKES!
    3.       1283 THE WIZARD DK                         614      [Hzrd]Billy.Hill
    4.      35710 inno                                  512      racerformerlyknowninno
    5.      48116 kainei                                280      OraletOsman
@@ -2162,7 +2162,7 @@ Taxiing_Started_trips:
  Rank    User ID Username                  Taxiing_Started_trips      Nickname
 ------------------------------------------------------------------------------
 
-   1.      28134 ke608                                  28      YIKES!
+   1.      28134 ke608                                  29      YIKES!
    2.      49599 maskelilaz                             19      ＥＦＥＢＥ Ｙ
    3.      47376 evari albo                             14      [SAVE TC] ALBO
    4.      50364 pjm                                    12      pjm
@@ -2174,7 +2174,7 @@ Taxiing_Finished_trips:
  Rank    User ID Username                  Taxiing_Finished_trips      Nickname
 -------------------------------------------------------------------------------
 
-   1.      28134 ke608                                  22      YIKES!
+   1.      28134 ke608                                  23      YIKES!
    2.      49599 maskelilaz                             18      ＥＦＥＢＥ Ｙ
    3.      47376 evari albo                             12      [SAVE TC] ALBO
    4.      50364 pjm                                    10      pjm
@@ -2185,8 +2185,8 @@ Taxiing_Driven_distance:
  Rank    User ID Username                  Taxiing_Driven_distance      Nickname
 --------------------------------------------------------------------------------
 
-   1.      49599 maskelilaz                             37      ＥＦＥＢＥ Ｙ
-   2.      28134 ke608                                  36      YIKES!
+   1.      28134 ke608                                  37      YIKES!
+   2.      49599 maskelilaz                             37      ＥＦＥＢＥ Ｙ
    3.      50364 pjm                                    29      pjm
    4.      47376 evari albo                             18      [SAVE TC] ALBO
    5.      46021 aligamingarabic                         9      AliGaming
@@ -2196,7 +2196,7 @@ Taxiing_Earned_money:
  Rank    User ID Username                  Taxiing_Earned_money      Nickname
 -----------------------------------------------------------------------------
 
-   1.      28134 ke608                                 653      YIKES!
+   1.      28134 ke608                                 681      YIKES!
    2.      49599 maskelilaz                            645      ＥＦＥＢＥ Ｙ
    3.      50364 pjm                                   427      pjm
    4.      47376 evari albo                            353      [SAVE TC] ALBO
@@ -2278,12 +2278,12 @@ Rent_Paid:
   22.      41376 glenn quagmire                        400      Omega
   23.      42979 firatrobert_07                        397      R obert G 29
   24.       3672 MrPDR                                 355      ゅ SEi ﾞ
-  25.      26082 1993s14                               339      2 $low 2 curiou$
-  26.      29924 icoha44                               338      CCI4
-  27.      32443 alau07                                335      [SHAVE TC] Lausk
-  28.      39867 racing101                             333      V M . SMOKEY
-  29.      25529 hardovsky                             323      ｐｅｎｔｉｕｍⅡ
-  30.      28134 ke608                                 314      YIKES!
+  25.      28134 ke608                                 342      YIKES!
+  26.      26082 1993s14                               339      2 $low 2 curiou$
+  27.      29924 icoha44                               338      CCI4
+  28.      32443 alau07                                335      [SHAVE TC] Lausk
+  29.      39867 racing101                             333      V M . SMOKEY
+  30.      25529 hardovsky                             323      ｐｅｎｔｉｕｍⅡ
   31.      32966 theguiihbr                            314      [TC] ›Batman‹ [HwA]
   32.      35710 inno                                  266      racerformerlyknowninno
   33.      45444 argamingarabic                        254      Mr r p
