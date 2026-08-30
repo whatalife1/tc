@@ -1,12 +1,12 @@
 2026 Summary
 Data from (dated files): TC_Database_01_2026.db, TC_Database_02_2026.db, TC_Database_03_2026.db, TC_Database_04_2026.db, TC_Database_05_2026.db, TC_Database_06_2026.db, TC_Database_07_2026.db, TC_Database_08_2026.db, TC_Database_08_2026_shrink.db, TC_Database_08_2026a.db
-Generated on: 2026-08-30 15:50:33
+Generated on: 2026-08-30 15:57:55
 
 Driven_distance:
  Rank    User ID Username                    Driven_distance      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                           100,194      whatalife
+   1.      45913 whatalife                           100,201      whatalife
                  2026/01                              14,192
                  2026/02                              13,403
                  2026/03                              14,826
@@ -14,9 +14,9 @@ Driven_distance:
                  2026/05                              11,011
                  2026/06                              10,167
                  2026/07                              10,197
-                 2026/08                              12,343
-                     Civil_stats_Driven_distance:                          99,516
-                     Civil_stats_Driven_distance_on_bikes:                 88,371
+                 2026/08                              12,350
+                     Civil_stats_Driven_distance:                          99,522
+                     Civil_stats_Driven_distance_on_bikes:                 88,378
                      Robber_stats_Driven_distance_being_chased:               198
                      Delivery_Driven_distance_loaded:                          53
                      Mail_Courier_Driven_distance:                            555
@@ -349,15 +349,15 @@ Driven_distance:
                      Cop_stats_Driven_distance_as_cop:                        313
                      Cop_stats_Driven_distance_chasing:                       212
                      Delivery_Driven_distance_loaded:                          26
-  25.      43573 wampy                                 9,922      Wa m py ™
+  25.      43573 wampy                                 9,931      Wa m py ™
                  2026/01                                 346
                  2026/02                               4,534
                  2026/03                               2,108
                  2026/04                               1,386
                  2026/07                                 134
-                 2026/08                               1,414
-                     Civil_stats_Driven_distance:                           7,318
-                     Civil_stats_Driven_distance_on_bikes:                  4,554
+                 2026/08                               1,423
+                     Civil_stats_Driven_distance:                           7,327
+                     Civil_stats_Driven_distance_on_bikes:                  4,564
                      Robber_stats_Driven_distance_being_chased:               198
                      Cop_stats_Driven_distance_as_cop:                      2,099
                      Cop_stats_Driven_distance_chasing:                     1,251
@@ -851,7 +851,19 @@ Driven_distance:
                      Robber_stats_Driven_distance_being_chased:               148
                      Delivery_Driven_distance_loaded:                           8
                      Taxiing_Driven_distance:                                  35
-  63.      42979 firatrobert_07                        5,236      [PACT] Robert
+  63.      47471 young.drift                           5,241      Roham
+                 2026/01                                 120
+                 2026/02                                 203
+                 2026/06                               4,365
+                 2026/07                                 307
+                 2026/08                                 246
+                     Civil_stats_Driven_distance:                           5,176
+                     Civil_stats_Driven_distance_on_bikes:                  2,294
+                     Robber_stats_Driven_distance_being_chased:               521
+                     Delivery_Driven_distance_loaded:                           6
+                     Mail_Courier_Driven_distance:                             23
+                     Busing_Driven_distance:                                   13
+  64.      42979 firatrobert_07                        5,236      [PACT] Robert
                  2026/01                               1,580
                  2026/02                               1,445
                  2026/03                                 984
@@ -867,18 +879,6 @@ Driven_distance:
                      Cop_stats_Driven_distance_chasing:                     1,490
                      Roleplaying_Driven_distance_in_SOS_calls:                  3
                      Busing_Driven_distance:                                   19
-  64.      47471 young.drift                           5,231      Roham
-                 2026/01                                 120
-                 2026/02                                 203
-                 2026/06                               4,365
-                 2026/07                                 307
-                 2026/08                                 236
-                     Civil_stats_Driven_distance:                           5,166
-                     Civil_stats_Driven_distance_on_bikes:                  2,294
-                     Robber_stats_Driven_distance_being_chased:               521
-                     Delivery_Driven_distance_loaded:                           6
-                     Mail_Courier_Driven_distance:                             23
-                     Busing_Driven_distance:                                   13
   65.      43143 enesozdil                             5,220      < Enes Özdil >
                  2026/01                               2,717
                  2026/02                               1,134
@@ -1338,7 +1338,7 @@ Total_Money:
  Rank    User ID Username                        Total_Money      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                         3,958,440      whatalife
+   1.      45913 whatalife                         3,958,800      whatalife
                  2026/01                             874,761
                  2026/02                             718,451
                  2026/03                             656,564
@@ -1346,10 +1346,10 @@ Total_Money:
                  2026/05                             335,494
                  2026/06                             312,088
                  2026/07                             323,911
-                 2026/08                             257,007
+                 2026/08                             257,367
                      Sent_Money:                                37,097
                      Rece_Money:                                 7,148
-                     Earned_by_driving:                      2,840,014
+                     Earned_by_driving:                      2,840,187
                      Lost_by_driving:                           35,694
                      Lost_by_stealing:                           6,914
                      Robber_stats_Paid_fines:                    9,592
@@ -1751,16 +1751,16 @@ Total_Money:
                      Taxiing_Earned_money:                         120
                      Rent_Paid:                                  2,470
                      Comp_Received:                                550
-  23.      43573 wampy                              -146,151      Wa m py ™
+  23.      43573 wampy                              -145,986      Wa m py ™
                  2026/01                               7,958
                  2026/02                            -100,398
                  2026/03                            -122,224
                  2026/04                              -7,684
                  2026/07                             -15,516
-                 2026/08                              91,713
+                 2026/08                              91,878
                      Rece_Money:                                 1,390
-                     Earned_by_driving:                        151,916
-                     Lost_by_driving:                           57,034
+                     Earned_by_driving:                        152,094
+                     Lost_by_driving:                           57,047
                      Robber_stats_Paid_fines:                    5,609
                      Cop_stats_Received_fines:                  34,492
                      Roleplaying_Paid_donations:                 6,405
@@ -3022,7 +3022,7 @@ Time:
  Rank    User ID Username                               Time      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                             2,120      whatalife
+   1.      45913 whatalife                             2,121      whatalife
                  2026/01                                 384
                  2026/02                                 325
                  2026/03                                 344
@@ -3030,7 +3030,7 @@ Time:
                  2026/05                                 195
                  2026/06                                 217
                  2026/07                                 211
-                 2026/08                                 209
+                 2026/08                                 210
    2.      49036 mfz snipe1out                           796      MFZ | SNIPE1 OUT
                  2026/01                                  78
                  2026/02                                  53
@@ -4487,7 +4487,7 @@ Earned_by_driving:
  Rank    User ID Username                    Earned_by_driving      Nickname
 ----------------------------------------------------------------------------
 
-   1.      45913 whatalife                         2,840,014      whatalife
+   1.      45913 whatalife                         2,840,187      whatalife
                  2026/01                             453,357
                  2026/02                             439,703
                  2026/03                             457,048
@@ -4495,7 +4495,7 @@ Earned_by_driving:
                  2026/05                             297,449
                  2026/06                             285,085
                  2026/07                             279,644
-                 2026/08                             244,987
+                 2026/08                             245,160
    2.       2107 P V L                               711,411      [ DS ] P V L
                  2026/01                             465,967
                  2026/02                             240,256
@@ -4680,13 +4680,13 @@ Earned_by_driving:
                  2026/06                              14,672
                  2026/07                              12,216
                  2026/08                               1,766
-  28.      43573 wampy                               151,916      Wa m py ™
+  28.      43573 wampy                               152,094      Wa m py ™
                  2026/01                               8,426
                  2026/02                              58,667
                  2026/03                              36,054
                  2026/04                              16,710
                  2026/07                               2,302
-                 2026/08                              29,757
+                 2026/08                              29,935
   29.      48324 b0ldeau                             149,664      ßØŁĐ
                  2026/01                              82,868
                  2026/02                              19,960
@@ -5076,12 +5076,12 @@ Earned_by_driving:
   88.      41196 m4t4n4z1                             67,502      Ja gua ra
                  2026/01                              36,577
                  2026/02                              30,925
-  89.      47471 young.drift                          67,396      Roham
+  89.      47471 young.drift                          67,468      Roham
                  2026/01                               2,486
                  2026/02                               4,390
                  2026/06                              55,616
                  2026/07                               2,972
-                 2026/08                               1,932
+                 2026/08                               2,004
   90.      41772 scammergamerlol                      67,162      Burrito
                  2026/01                                 468
                  2026/03                               1,026
@@ -5251,13 +5251,13 @@ Lost_by_driving:
                  2026/06                               1,607
                  2026/07                                 450
                  2026/08                               3,575
-  13.      43573 wampy                                57,034      Wa m py ™
+  13.      43573 wampy                                57,047      Wa m py ™
                  2026/01                               1,988
                  2026/02                              30,619
                  2026/03                               4,508
                  2026/04                               7,598
                  2026/07                               1,163
-                 2026/08                              11,158
+                 2026/08                              11,171
   14.      46125 angelopascarella                     55,808      [P R ] たくみ
                  2026/01                              12,349
                  2026/02                              34,084
@@ -5549,12 +5549,12 @@ Lost_by_driving:
                  2026/03                                 999
                  2026/06                                 225
                  2026/08                                  87
-  56.      47471 young.drift                          24,969      Roham
+  56.      47471 young.drift                          25,028      Roham
                  2026/01                               1,535
                  2026/02                               2,337
                  2026/06                              16,548
                  2026/07                               1,750
-                 2026/08                               2,799
+                 2026/08                               2,858
   57.      40242 astraxan                             24,523      [COP] ΙΝΤΕRCEPTOR
                  2026/01                               6,159
                  2026/02                               2,464
@@ -5834,7 +5834,7 @@ Total_Wealth:
  Rank    User ID Username                       Total_Wealth      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                         3,984,250      whatalife
+   1.      45913 whatalife                         3,984,610      whatalife
                  2026/01                             920,740
                  2026/02                             697,854
                  2026/03                             650,185
@@ -5842,7 +5842,7 @@ Total_Wealth:
                  2026/05                             340,030
                  2026/06                             306,615
                  2026/07                             323,209
-                 2026/08                             266,977
+                 2026/08                             267,337
    2.      25215 m52b28                           -1,536,371      Selling (AFK) Cash
                  2026/01                          -1,228,316
                  2026/02                            -141,988
@@ -7853,7 +7853,7 @@ Civil_stats_Driven_distance:
  Rank    User ID Username                    Civil_stats_Driven_distance      Nickname
 --------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                            99,516      whatalife
+   1.      45913 whatalife                            99,522      whatalife
                  2026/01                              13,660
                  2026/02                              13,323
                  2026/03                              14,814
@@ -7861,7 +7861,7 @@ Civil_stats_Driven_distance:
                  2026/05                              10,997
                  2026/06                              10,166
                  2026/07                              10,190
-                 2026/08                              12,344
+                 2026/08                              12,350
    2.       2107 P V L                                22,450      [ DS ] P V L
                  2026/01                              13,322
                  2026/02                               8,911
@@ -8088,13 +8088,13 @@ Civil_stats_Driven_distance:
                  2026/05                                   1
                  2026/06                                 170
                  2026/08                                  63
-  32.      43573 wampy                                 7,318      Wa m py ™
+  32.      43573 wampy                                 7,327      Wa m py ™
                  2026/01                                 305
                  2026/02                               2,783
                  2026/03                               1,296
                  2026/04                               1,386
                  2026/07                                 135
-                 2026/08                               1,413
+                 2026/08                               1,422
   33.      39882 vartolu_sadettin                      7,268      Das Auto
                  2026/01                               2,636
                  2026/02                               1,027
@@ -8270,12 +8270,12 @@ Civil_stats_Driven_distance:
                  2026/06                                  97
                  2026/07                                  60
                  2026/08                                  25
-  57.      47471 young.drift                           5,166      Roham
+  57.      47471 young.drift                           5,176      Roham
                  2026/01                                 120
                  2026/02                                 203
                  2026/06                               4,301
                  2026/07                                 307
-                 2026/08                                 235
+                 2026/08                                 245
   58.       1107 A3rox                                 5,116      F alken. A3rox
                  2026/01                               4,569
                  2026/02                                  23
@@ -8557,7 +8557,7 @@ Civil_stats_Driven_distance_on_bikes:
  Rank    User ID Username                    Civil_stats_Driven_distance_on_bikes      Nickname
 -----------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                            88,371      whatalife
+   1.      45913 whatalife                            88,378      whatalife
                  2026/01                              11,312
                  2026/02                               9,534
                  2026/03                              11,573
@@ -8565,7 +8565,7 @@ Civil_stats_Driven_distance_on_bikes:
                  2026/05                              10,920
                  2026/06                              10,076
                  2026/07                              10,136
-                 2026/08                              12,328
+                 2026/08                              12,335
    2.       2107 P V L                                18,564      [ DS ] P V L
                  2026/01                              10,102
                  2026/02                               8,372
@@ -8630,13 +8630,13 @@ Civil_stats_Driven_distance_on_bikes:
   11.      49060 just bask                             4,770      bask
                  2026/01                               3,476
                  2026/02                               1,294
-  12.      43573 wampy                                 4,554      Wa m py ™
+  12.      43573 wampy                                 4,564      Wa m py ™
                  2026/01                                 305
                  2026/02                               1,849
                  2026/03                                 812
                  2026/04                                 116
                  2026/07                                 131
-                 2026/08                               1,341
+                 2026/08                               1,351
   13.      41376 glenn quagmire                        4,272      Glenn Quagmire
                  2026/01                                 326
                  2026/02                                  71
@@ -22901,30 +22901,30 @@ Rent_Paid:
                  2026/06                               7,882
                  2026/07                               1,332
                  2026/08                               1,916
-  43.      37428 sierra335                            11,009      み Sierra
+  43.      47471 young.drift                          11,020      Roham
+                 2026/02                                 167
+                 2026/06                               9,834
+                 2026/07                                 542
+                 2026/08                                 477
+  44.      37428 sierra335                            11,009      み Sierra
                  2026/01                               2,151
                  2026/02                               7,513
                  2026/03                                 919
                  2026/04                                  96
                  2026/06                                 330
-  44.      30454 vilix                                10,992      [TC] ›Vilix‹
+  45.      30454 vilix                                10,992      [TC] ›Vilix‹
                  2026/01                               4,783
                  2026/02                               3,033
                  2026/03                                 328
                  2026/04                                 347
                  2026/05                                 437
                  2026/06                               2,064
-  45.      40361 cocusz                               10,978      COCUSZ G25
+  46.      40361 cocusz                               10,978      COCUSZ G25
                  2026/01                               5,598
                  2026/02                               4,241
                  2026/03                               1,082
                  2026/04                                  33
                  2026/06                                  24
-  46.      47471 young.drift                          10,965      Roham
-                 2026/02                                 167
-                 2026/06                               9,834
-                 2026/07                                 542
-                 2026/08                                 422
   47.      27293 J--                                  10,896      V M . January
                  2026/01                               5,387
                  2026/02                                 389
