@@ -1,6 +1,6 @@
 August 2026
 Data from (dated files): TC_Database_08_2026.db
-Generated on: 2026-08-31 04:28:05
+Generated on: 2026-08-31 06:34:05
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -20,12 +20,13 @@ Driven_distance:
                      Taxiing_Driven_distance:                                  37
    4.        489 =Wolf=[NO]                          1,876      ™ DB JoeValla
                      Civil_stats_Driven_distance:                           1,877
-   5.      26082 1993s14                             1,700      2 $low 2 curiou$
-                     Civil_stats_Driven_distance:                           1,528
+   5.      26082 1993s14                             1,716      2 $low 2 curiou$
+                     Civil_stats_Driven_distance:                           1,544
                      Civil_stats_Driven_distance_on_bikes:                  1,348
                      Cop_stats_Driven_distance_as_cop:                        172
                      Cop_stats_Driven_distance_chasing:                        87
                      Roleplaying_Driven_distance_in_SOS_calls:                  1
+                     Mail_Courier_Driven_distance:                             11
    6.      43573 wampy                               1,430      Wa m py
                      Civil_stats_Driven_distance:                           1,430
                      Civil_stats_Driven_distance_on_bikes:                  1,358
@@ -315,10 +316,10 @@ Driven_distance:
                      Civil_stats_Driven_distance_on_bikes:                     88
   92.      38762 -kouki-                                88      [ MR c] River
                      Civil_stats_Driven_distance:                              87
-  93.      31993 aplastador200                          80      [ RDSR ] Aplazt
-                     Civil_stats_Driven_distance:                              59
-                     Cop_stats_Driven_distance_as_cop:                         22
-                     Cop_stats_Driven_distance_chasing:                        19
+  93.      31993 aplastador200                          85      [ RDSR ] Aplazt
+                     Civil_stats_Driven_distance:                              61
+                     Cop_stats_Driven_distance_as_cop:                         25
+                     Cop_stats_Driven_distance_chasing:                        22
   94.      50659 vitchy06                              -79      vinc
                      Civil_stats_Driven_distance:                             -79
                      Civil_stats_Driven_distance_on_bikes:                      6
@@ -404,12 +405,23 @@ Total_Money:
                      Comp_Received:                                370
                      Comp_Sent:                                    370
                      Bingo_Won:                                    475
-   9.        489 =Wolf=[NO]                         27,930      ™ DB JoeValla
+   9.      26082 1993s14                            27,935      2 $low 2 curiou$
+                     Rece_Money:                                     1
+                     Earned_by_driving:                         36,470
+                     Lost_by_driving:                            8,358
+                     Cop_stats_Received_fines:                   1,698
+                     Roleplaying_Paid_donations:                   241
+                     Mail_Courier_Earned_money:                    125
+                     Rent_Earned:                                  146
+                     Rent_Paid:                                    449
+                     Comp_Received:                                430
+                     Comp_Sent:                                    660
+  10.        489 =Wolf=[NO]                         27,930      ™ DB JoeValla
                      Earned_by_driving:                         17,563
                      Lost_by_driving:                            1,587
                      Rent_Earned:                                    8
                      Comp_Received:                                460
-  10.       1249 DanLevy91                         -27,928      kaz
+  11.       1249 DanLevy91                         -27,928      kaz
                      Earned_by_driving:                          9,746
                      Lost_by_driving:                            2,034
                      Delivery_Earned_money:                      2,472
@@ -417,7 +429,7 @@ Total_Money:
                      Rent_Paid:                                    790
                      Comp_Received:                                 50
                      Comp_Sent:                                    230
-  11.      35710 inno                               27,401      racerformerlyknowninno
+  12.      35710 inno                               27,401      racerformerlyknowninno
                      Earned_by_driving:                         21,791
                      Lost_by_driving:                              289
                      Roleplaying_Paid_donations:                   100
@@ -427,16 +439,6 @@ Total_Money:
                      Mail_Courier_Paid_penalties:                   55
                      Rent_Paid:                                    473
                      Comp_Received:                                260
-  12.      26082 1993s14                            27,103      2 $low 2 curiou$
-                     Rece_Money:                                     1
-                     Earned_by_driving:                         35,883
-                     Lost_by_driving:                            8,358
-                     Cop_stats_Received_fines:                   1,698
-                     Roleplaying_Paid_donations:                   241
-                     Rent_Earned:                                  146
-                     Rent_Paid:                                    449
-                     Comp_Received:                                430
-                     Comp_Sent:                                    660
   13.       3704 ian78                              18,796      Ian [ROAD]
                      Earned_by_driving:                          6,566
                      Lost_by_driving:                              261
@@ -920,8 +922,8 @@ Time:
    9.      50789 guillerrt                              42      charade
   10.      45535 gfgvp                                 -41      FurkanD
   11.      49892 asaphlucas                             41      B R Paropex
-  12.      47036 mlevlen                                39      mlevncom
-  13.      26082 1993s14                                38      2 $low 2 curiou$
+  12.      26082 1993s14                                39      2 $low 2 curiou$
+  13.      47036 mlevlen                                39      mlevncom
   14.      50647 mantarcii                              37      MANTARCII
   15.      45204 luvzc                                  35      Pixie
   16.      50694 cakirhangny53                          35      ÇAKIR 5 3 (G29)
@@ -1065,7 +1067,7 @@ Earned_by_driving:
 
    1.      45913 whatalife                         245,332      whatalife
    2.      20869 what else                         126,371      ☆ JΛΚΞ ☆
-   3.      26082 1993s14                            35,883      2 $low 2 curiou$
+   3.      26082 1993s14                            36,470      2 $low 2 curiou$
    4.      50364 pjm                                34,536      pjm
    5.      43573 wampy                              30,187      Wa m py
    6.      35710 inno                               21,791      racerformerlyknowninno
@@ -1247,7 +1249,7 @@ Lost_by_driving:
   77.      41046 owokesha                              305      Keshan' Dy
   78.      46494 domda_123                             302      Domda_123 [G29]
   79.      45464 realaymen1                            298      [P R ] Realaymen
-  80.      31993 aplastador200                         292      [ RDSR ] Aplazt
+  80.      31993 aplastador200                         293      [ RDSR ] Aplazt
   81.      19490 legiitx007tig3r                       292      Informal
   82.      35710 inno                                  289      racerformerlyknowninno
   83.       3704 ian78                                 261      Ian [ROAD]
@@ -1280,8 +1282,8 @@ Total_Wealth:
    5.      47445 charles leclerc 16                -40,284      Kii. Racing
    6.        489 =Wolf=[NO]                         23,788      ™ DB JoeValla
    7.      41772 scammergamerlol                   -22,440      (FINLAND) Burrito
-   8.      41376 glenn quagmire                    -19,699      Omega
-   9.      26082 1993s14                            19,400      2 $low 2 curiou$
+   8.      26082 1993s14                            20,202      2 $low 2 curiou$
+   9.      41376 glenn quagmire                    -19,699      Omega
   10.       3704 ian78                              17,937      Ian [ROAD]
   11.      49230 nora vale                          16,927      Nora ﾞ
   12.      47374 ross2750                           14,848      Not Ross
@@ -1548,7 +1550,7 @@ Civil_stats_Driven_distance:
    2.      20869 what else                           5,384      ☆ JΛΚΞ ☆
    3.      50364 pjm                                 2,012      pjm
    4.        489 =Wolf=[NO]                          1,877      ™ DB JoeValla
-   5.      26082 1993s14                             1,528      2 $low 2 curiou$
+   5.      26082 1993s14                             1,544      2 $low 2 curiou$
    6.      43573 wampy                               1,430      Wa m py
    7.      35710 inno                                1,123      racerformerlyknowninno
    8.      44911 pug=309                               974      Jason n
@@ -1909,7 +1911,7 @@ Cop_stats_Driven_distance_as_cop:
    6.      30933 kentwolf                               39      [6S] February
    7.      45464 realaymen1                             36      [P R ] Realaymen
    8.      40605 emileker                               33      silentkiller
-   9.      31993 aplastador200                          22      [ RDSR ] Aplazt
+   9.      31993 aplastador200                          25      [ RDSR ] Aplazt
   10.      32443 alau07                                 11      [SHAVE TC] Lausk
   11.      32966 theguiihbr                              4      [TC] ›Batman‹ [HwA]
 
@@ -1923,8 +1925,8 @@ Cop_stats_Driven_distance_chasing:
    4.      22170 soras99                                59      [COP] Erox
    5.      40605 emileker                               26      silentkiller
    6.      30933 kentwolf                               25      [6S] February
-   7.      19071 pcpaultje2                             22      TT [COP]
-   8.      31993 aplastador200                          19      [ RDSR ] Aplazt
+   7.      31993 aplastador200                          22      [ RDSR ] Aplazt
+   8.      19071 pcpaultje2                             22      TT [COP]
    9.      45464 realaymen1                             10      [P R ] Realaymen
   10.      32443 alau07                                  7      [SHAVE TC] Lausk
 
@@ -2299,8 +2301,9 @@ Mail_Courier_Delivered_parcels:
    2.      35710 inno                                  470      racerformerlyknowninno
    3.      49599 maskelilaz                            102      ＥＦＥＢＥ Ｙ
    4.      46415 aleksis1                               67      [PACT] MarizzP
-   5.      45636 biggie48                                6      [ LCS -ﾏ] BIG
-   6.      47376 evari albo                              2      [SAVE TC] ALBO
+   5.      26082 1993s14                                15      2 $low 2 curiou$
+   6.      45636 biggie48                                6      [ LCS -ﾏ] BIG
+   7.      47376 evari albo                              2      [SAVE TC] ALBO
 
 Mail_Courier_Delivered_kg:
  Rank    User ID Username                  Mail_Courier_Delivered_kg      Nickname
@@ -2310,8 +2313,9 @@ Mail_Courier_Delivered_kg:
    2.      35710 inno                                1,047      racerformerlyknowninno
    3.      49599 maskelilaz                            195      ＥＦＥＢＥ Ｙ
    4.      46415 aleksis1                              137      [PACT] MarizzP
-   5.      45636 biggie48                               27      [ LCS -ﾏ] BIG
-   6.      47376 evari albo                             14      [SAVE TC] ALBO
+   5.      26082 1993s14                                38      2 $low 2 curiou$
+   6.      45636 biggie48                               27      [ LCS -ﾏ] BIG
+   7.      47376 evari albo                             14      [SAVE TC] ALBO
 
 Mail_Courier_Driven_distance:
  Rank    User ID Username                  Mail_Courier_Driven_distance      Nickname
@@ -2321,8 +2325,9 @@ Mail_Courier_Driven_distance:
    2.      50364 pjm                                   116      pjm
    3.      46415 aleksis1                               64      [PACT] MarizzP
    4.      49599 maskelilaz                             23      ＥＦＥＢＥ Ｙ
-   5.      45636 biggie48                                9      [ LCS -ﾏ] BIG
-   6.      47376 evari albo                              3      [SAVE TC] ALBO
+   5.      26082 1993s14                                11      2 $low 2 curiou$
+   6.      45636 biggie48                                9      [ LCS -ﾏ] BIG
+   7.      47376 evari albo                              3      [SAVE TC] ALBO
 
 Mail_Courier_Earned_money:
  Rank    User ID Username                  Mail_Courier_Earned_money      Nickname
@@ -2332,8 +2337,9 @@ Mail_Courier_Earned_money:
    2.      35710 inno                                4,104      racerformerlyknowninno
    3.      49599 maskelilaz                            805      ＥＦＥＢＥ Ｙ
    4.      46415 aleksis1                              586      [PACT] MarizzP
-   5.      45636 biggie48                               62      [ LCS -ﾏ] BIG
-   6.      47376 evari albo                             36      [SAVE TC] ALBO
+   5.      26082 1993s14                               125      2 $low 2 curiou$
+   6.      45636 biggie48                               62      [ LCS -ﾏ] BIG
+   7.      47376 evari albo                             36      [SAVE TC] ALBO
 
 Mail_Courier_Paid_penalties:
  Rank    User ID Username                  Mail_Courier_Paid_penalties      Nickname
@@ -2494,18 +2500,19 @@ Rent_Earned:
    8.      26082 1993s14                               146      2 $low 2 curiou$
    9.      45913 whatalife                             123      whatalife
   10.      29924 icoha44                                64      CCI4
-  11.      35500 menticek                               47      SO • Cyn
-  12.      45636 biggie48                               36      [ LCS -ﾏ] BIG
-  13.      42816 fastranker1                            31      [CSR] Yunos
-  14.      25589 jorks                                  29      Jerks ™
-  15.      47980 thamboo                                21      [P R ] Thamboo
-  16.      47445 charles leclerc 16                     16      Kii. Racing
-  17.      29040 remst                                  15      Rem
-  18.       7370 FFD_Sivy121                            14      Mr.Pixel
-  19.      43143 enesozdil                              14      ☆ Ｃｏｒｅｌｌｉ
-  20.      47374 ross2750                               12      Not Ross
-  21.        489 =Wolf=[NO]                              8      ™ DB JoeValla
-  22.      48478 midranit                                5      Kayra Tevzadze
+  11.      13948 MaGiC DuB                              58      [6S] MaGiC
+  12.      35500 menticek                               47      SO • Cyn
+  13.      45636 biggie48                               36      [ LCS -ﾏ] BIG
+  14.      42816 fastranker1                            31      [CSR] Yunos
+  15.      25589 jorks                                  29      Jerks ™
+  16.      47980 thamboo                                21      [P R ] Thamboo
+  17.      47445 charles leclerc 16                     16      Kii. Racing
+  18.      29040 remst                                  15      Rem
+  19.       7370 FFD_Sivy121                            14      Mr.Pixel
+  20.      43143 enesozdil                              14      ☆ Ｃｏｒｅｌｌｉ
+  21.      47374 ross2750                               12      Not Ross
+  22.        489 =Wolf=[NO]                              8      ™ DB JoeValla
+  23.      48478 midranit                                5      Kayra Tevzadze
 
 Rent_Paid:
  Rank    User ID Username                        Rent_Paid      Nickname
