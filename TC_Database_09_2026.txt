@@ -1,89 +1,160 @@
 September 2026
 Data from (dated files): TC_Database_09_2026.db
-Generated on: 2026-09-01 08:49:02
+Generated on: 2026-09-01 10:55:02
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
 ------------------------------------------------------------------------
 
-   1.      20869 what else                              98      ☆ JΛΚΞ ☆
-                     Civil_stats_Driven_distance:                              98
-   2.      45913 whatalife                              95      whatalife
-                     Civil_stats_Driven_distance:                              95
-                     Civil_stats_Driven_distance_on_bikes:                     95
-   3.      26082 1993s14                                27      2 $low 2 curiou$
-                     Civil_stats_Driven_distance:                              27
+   1.      20869 what else                             108      ☆ JΛΚΞ ☆
+                     Civil_stats_Driven_distance:                             108
+   2.      45913 whatalife                             107      whatalife
+                     Civil_stats_Driven_distance:                             106
+                     Civil_stats_Driven_distance_on_bikes:                    107
+   3.      26082 1993s14                                66      2 $low 2 curiou$
+                     Civil_stats_Driven_distance:                              66
+                     Civil_stats_Driven_distance_on_bikes:                     26
+   4.      28134 ke608                                  24      YIKES!
+                     Civil_stats_Driven_distance:                               7
+                     Delivery_Driven_distance_loaded:                          11
+                     Taxiing_Driven_distance:                                   8
 
 Total_Money:
  Rank    User ID Username                      Total_Money      Nickname
 ------------------------------------------------------------------------
 
-   1.      20869 what else                           2,841      ☆ JΛΚΞ ☆
-                     Earned_by_driving:                          2,582
-                     Rent_Paid:                                     45
-   2.      45913 whatalife                           2,367      whatalife
-                     Earned_by_driving:                          2,159
-                     Lost_by_driving:                               15
-   3.      26082 1993s14                               -19      2 $low 2 curiou$
-                     Earned_by_driving:                            138
-                     Lost_by_driving:                              164
+   1.      20869 what else                           3,053      ☆ JΛΚΞ ☆
+                     Earned_by_driving:                          2,832
+                     Rent_Paid:                                     77
+   2.      45913 whatalife                           2,461      whatalife
+                     Earned_by_driving:                          2,312
+                     Lost_by_driving:                               74
+   3.      28134 ke608                               1,339      YIKES!
+                     Earned_by_driving:                          1,071
+                     Delivery_Earned_money:                        174
+                     Taxiing_Earned_money:                          84
+   4.      26082 1993s14                                30      2 $low 2 curiou$
+                     Earned_by_driving:                            726
+                     Lost_by_driving:                              432
+                     Rent_Paid:                                    309
 
 Time:
  Rank    User ID Username                             Time      Nickname
 ------------------------------------------------------------------------
 
    1.      45913 whatalife                               2      whatalife
-   2.      20869 what else                               1      ☆ JΛΚΞ ☆
+   2.      20869 what else                               2      ☆ JΛΚΞ ☆
    3.      26082 1993s14                                 1      2 $low 2 curiou$
+   4.      28134 ke608                                   1      YIKES!
 
 Earned_by_driving:
  Rank    User ID Username                  Earned_by_driving      Nickname
 --------------------------------------------------------------------------
 
-   1.      20869 what else                           2,582      ☆ JΛΚΞ ☆
-   2.      45913 whatalife                           2,159      whatalife
-   3.      26082 1993s14                               138      2 $low 2 curiou$
+   1.      20869 what else                           2,832      ☆ JΛΚΞ ☆
+   2.      45913 whatalife                           2,312      whatalife
+   3.      28134 ke608                               1,071      YIKES!
+   4.      26082 1993s14                               726      2 $low 2 curiou$
 
 Lost_by_driving:
  Rank    User ID Username                  Lost_by_driving      Nickname
 ------------------------------------------------------------------------
 
-   1.      26082 1993s14                               164      2 $low 2 curiou$
-   2.      45913 whatalife                              15      whatalife
+   1.      26082 1993s14                               432      2 $low 2 curiou$
+   2.      45913 whatalife                              74      whatalife
 
 Total_Wealth:
  Rank    User ID Username                     Total_Wealth      Nickname
 ------------------------------------------------------------------------
 
-   1.      20869 what else                           2,853      ☆ JΛΚΞ ☆
-   2.      45913 whatalife                           2,395      whatalife
-   3.      26082 1993s14                                -9      2 $low 2 curiou$
+   1.      20869 what else                           3,073      ☆ JΛΚΞ ☆
+   2.      45913 whatalife                           2,391      whatalife
+   3.      28134 ke608                               1,339      YIKES!
+   4.      26082 1993s14                                10      2 $low 2 curiou$
 
 Civil_stats_Playing_time_civilian:
  Rank    User ID Username                  Civil_stats_Playing_time_civilian      Nickname
 ------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                               2      whatalife
-   2.      20869 what else                               1      ☆ JΛΚΞ ☆
+   1.      45913 whatalife                               3      whatalife
+   2.      20869 what else                               2      ☆ JΛΚΞ ☆
    3.      26082 1993s14                                 1      2 $low 2 curiou$
+   4.      28134 ke608                                   1      YIKES!
 
 Civil_stats_Driven_distance:
  Rank    User ID Username                  Civil_stats_Driven_distance      Nickname
 ------------------------------------------------------------------------------------
 
-   1.      20869 what else                              98      ☆ JΛΚΞ ☆
-   2.      45913 whatalife                              95      whatalife
-   3.      26082 1993s14                                27      2 $low 2 curiou$
+   1.      20869 what else                             108      ☆ JΛΚΞ ☆
+   2.      45913 whatalife                             106      whatalife
+   3.      26082 1993s14                                66      2 $low 2 curiou$
+   4.      28134 ke608                                   7      YIKES!
 
 Civil_stats_Driven_distance_on_bikes:
  Rank    User ID Username                  Civil_stats_Driven_distance_on_bikes      Nickname
 ---------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                              95      whatalife
+   1.      45913 whatalife                             107      whatalife
+   2.      26082 1993s14                                26      2 $low 2 curiou$
+
+Delivery_Started_jobs:
+ Rank    User ID Username                  Delivery_Started_jobs      Nickname
+------------------------------------------------------------------------------
+
+   1.      28134 ke608                                   4      YIKES!
+
+Delivery_Finished_trips:
+ Rank    User ID Username                  Delivery_Finished_trips      Nickname
+--------------------------------------------------------------------------------
+
+   1.      28134 ke608                                   3      YIKES!
+
+Delivery_Delivered_kg:
+ Rank    User ID Username                  Delivery_Delivered_kg      Nickname
+------------------------------------------------------------------------------
+
+   1.      28134 ke608                               2,370      YIKES!
+
+Delivery_Driven_distance_loaded:
+ Rank    User ID Username                  Delivery_Driven_distance_loaded      Nickname
+----------------------------------------------------------------------------------------
+
+   1.      28134 ke608                                  11      YIKES!
+
+Delivery_Earned_money:
+ Rank    User ID Username                  Delivery_Earned_money      Nickname
+------------------------------------------------------------------------------
+
+   1.      28134 ke608                                 174      YIKES!
+
+Taxiing_Started_trips:
+ Rank    User ID Username                  Taxiing_Started_trips      Nickname
+------------------------------------------------------------------------------
+
+   1.      28134 ke608                                   2      YIKES!
+
+Taxiing_Finished_trips:
+ Rank    User ID Username                  Taxiing_Finished_trips      Nickname
+-------------------------------------------------------------------------------
+
+   1.      28134 ke608                                   2      YIKES!
+
+Taxiing_Driven_distance:
+ Rank    User ID Username                  Taxiing_Driven_distance      Nickname
+--------------------------------------------------------------------------------
+
+   1.      28134 ke608                                   8      YIKES!
+
+Taxiing_Earned_money:
+ Rank    User ID Username                  Taxiing_Earned_money      Nickname
+-----------------------------------------------------------------------------
+
+   1.      28134 ke608                                  84      YIKES!
 
 Rent_Paid:
  Rank    User ID Username                        Rent_Paid      Nickname
 ------------------------------------------------------------------------
 
-   1.      20869 what else                              45      ☆ JΛΚΞ ☆
+   1.      26082 1993s14                               309      2 $low 2 curiou$
+   2.      20869 what else                              77      ☆ JΛΚΞ ☆
 
