@@ -1,17 +1,17 @@
 September 2026
 Data from (dated files): TC_Database_09_2026.db
-Generated on: 2026-09-15 06:43:03
+Generated on: 2026-09-15 08:49:04
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                           6,243      whatalife
-                     Civil_stats_Driven_distance:                           6,243
-                     Civil_stats_Driven_distance_on_bikes:                  6,225
+   1.      45913 whatalife                           6,321      whatalife
+                     Civil_stats_Driven_distance:                           6,321
+                     Civil_stats_Driven_distance_on_bikes:                  6,302
                      Robber_stats_Driven_distance_being_chased:                74
-   2.      20869 what else                           1,686      ☆ JΛΚΞ ☆
-                     Civil_stats_Driven_distance:                           1,686
+   2.      20869 what else                           1,750      ☆ JΛΚΞ ☆
+                     Civil_stats_Driven_distance:                           1,750
                      Civil_stats_Driven_distance_on_bikes:                      5
    3.      48552 gatisq                              1,463      Gatis
                      Civil_stats_Driven_distance:                           1,463
@@ -20,9 +20,9 @@ Driven_distance:
    4.      49054 dunj                                1,151      DunJ
                      Civil_stats_Driven_distance:                           1,151
                      Robber_stats_Driven_distance_being_chased:                29
-   5.      26082 1993s14                             1,108      2 $low 2 curiou$
-                     Civil_stats_Driven_distance:                             928
-                     Civil_stats_Driven_distance_on_bikes:                    698
+   5.      26082 1993s14                             1,117      2 $low 2 curiou$
+                     Civil_stats_Driven_distance:                             937
+                     Civil_stats_Driven_distance_on_bikes:                    707
                      Robber_stats_Driven_distance_being_chased:                 8
                      Cop_stats_Driven_distance_as_cop:                        179
                      Cop_stats_Driven_distance_chasing:                       100
@@ -115,8 +115,8 @@ Driven_distance:
                      Civil_stats_Driven_distance:                             351
                      Robber_stats_Driven_distance_being_chased:                 5
                      Delivery_Driven_distance_loaded:                         142
-  30.      24338 vercetti87                            333      G R E T A
-                     Civil_stats_Driven_distance:                             333
+  30.      24338 vercetti87                            336      G R E T A
+                     Civil_stats_Driven_distance:                             336
                      Civil_stats_Driven_distance_on_bikes:                     19
   31.      50885 anxky                                 330      anxky
                      Civil_stats_Driven_distance:                             330
@@ -341,10 +341,10 @@ Total_Money:
  Rank    User ID Username                      Total_Money      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                         137,651      whatalife
+   1.      45913 whatalife                         139,358      whatalife
                      Sent_Money:                                 2,000
-                     Earned_by_driving:                        119,281
-                     Lost_by_driving:                            8,922
+                     Earned_by_driving:                        120,806
+                     Lost_by_driving:                            8,926
                      Robber_stats_Paid_fines:                      651
                      Roleplaying_Received_donations:             2,040
                      Rent_Earned:                                  195
@@ -398,10 +398,17 @@ Total_Money:
    9.      11969 Garypants                         -25,958      [TC] ›Carl‹
                      Earned_by_driving:                             87
                      Lost_by_driving:                               45
-  10.      25589 jorks                              20,037      Dorks ™
+  10.      20869 what else                          20,116      ☆ JΛΚΞ ☆
+                     Sent_Money:                                   400
+                     Earned_by_driving:                         42,969
+                     Lost_by_driving:                                6
+                     Roleplaying_Paid_donations:                   200
+                     Rent_Paid:                                  1,591
+                     Comp_Received:                                270
+  11.      25589 jorks                              20,037      Dorks ™
                      Earned_by_driving:                            352
                      Lost_by_driving:                                4
-  11.      47376 evari albo                         18,799      E S T ALBO
+  12.      47376 evari albo                         18,799      E S T ALBO
                      Sent_Money:                                 1,000
                      Earned_by_driving:                         15,705
                      Lost_by_driving:                            1,197
@@ -412,24 +419,17 @@ Total_Money:
                      Rent_Paid:                                    628
                      Comp_Received:                                110
                      Comp_Sent:                                    330
-  12.      20869 what else                          18,212      ☆ JΛΚΞ ☆
-                     Sent_Money:                                   400
-                     Earned_by_driving:                         41,105
-                     Lost_by_driving:                                6
-                     Roleplaying_Paid_donations:                   200
-                     Rent_Paid:                                  1,550
-                     Comp_Received:                                270
-  13.      26082 1993s14                            17,142      2 $low 2 curiou$
+  13.      26082 1993s14                            17,435      2 $low 2 curiou$
                      Rece_Money:                                   187
-                     Earned_by_driving:                         18,294
-                     Lost_by_driving:                            6,544
+                     Earned_by_driving:                         18,610
+                     Lost_by_driving:                            6,553
                      Robber_stats_Paid_fines:                      300
                      Cop_stats_Received_fines:                   2,957
                      Roleplaying_Paid_donations:                    80
                      Roleplaying_Received_donations:               110
                      Mail_Courier_Earned_money:                    968
                      Rent_Earned:                                   61
-                     Rent_Paid:                                  1,280
+                     Rent_Paid:                                  1,294
                      Comp_Sent:                                    430
   14.      50831 silentnuts                         17,007      dirsenbazens
                      Earned_by_driving:                         21,936
@@ -599,9 +599,9 @@ Total_Money:
                      Lost_by_driving:                            1,705
                      Delivery_Earned_money:                         65
                      Rent_Paid:                                    241
-  45.      24338 vercetti87                         -6,363      G R E T A
+  45.      24338 vercetti87                         -6,278      G R E T A
                      Sent_Money:                                   187
-                     Earned_by_driving:                          9,758
+                     Earned_by_driving:                          9,843
                      Lost_by_driving:                              111
                      Robber_stats_Paid_fines:                       50
                      Roleplaying_Paid_donations:                   110
@@ -880,13 +880,13 @@ Time:
  Rank    User ID Username                             Time      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                             119      whatalife
+   1.      45913 whatalife                             121      whatalife
    2.      50857 lilojoga                               55      Lilokx
    3.      50889 enverst                                50      Cinar
    4.      49004 stefan1926                            -49      stefan1926
    5.      50775 turansgame                             42      Turanoğlu
    6.      50853 solosfr                                35      solofr
-   7.      20869 what else                              33      ☆ JΛΚΞ ☆
+   7.      20869 what else                              34      ☆ JΛΚΞ ☆
    8.      26082 1993s14                                28      2 $low 2 curiou$
    9.      48552 gatisq                                 26      Gatis
   10.      50878 ozias                                  25      adadadadada
@@ -1020,18 +1020,18 @@ Earned_by_driving:
  Rank    User ID Username                  Earned_by_driving      Nickname
 --------------------------------------------------------------------------
 
-   1.      45913 whatalife                         119,281      whatalife
-   2.      20869 what else                          41,105      ☆ JΛΚΞ ☆
+   1.      45913 whatalife                         120,806      whatalife
+   2.      20869 what else                          42,969      ☆ JΛΚΞ ☆
    3.      48552 gatisq                             22,650      Gatis
    4.      50831 silentnuts                         21,936      dirsenbazens
    5.      49054 dunj                               19,581      DunJ
-   6.      26082 1993s14                            18,294      2 $low 2 curiou$
+   6.      26082 1993s14                            18,610      2 $low 2 curiou$
    7.      49230 nora vale                          17,462      Nora ﾞ
    8.      47376 evari albo                         15,705      E S T ALBO
    9.       7370 FFD_Sivy121                        14,376      Mr.Pixel
   10.      30508 octosquad                          14,329      88. TheUltraRealDave
   11.      33282 mrwallace888                       13,916      Jack Foxtrot
-  12.      24338 vercetti87                          9,758      G R E T A
+  12.      24338 vercetti87                          9,843      G R E T A
   13.      47374 ross2750                            9,421      Not Ross
   14.      47980 thamboo                             8,875      [P R ] Thamboo
   15.      36227 ali awad                            7,364      Mr_Racer024
@@ -1125,8 +1125,8 @@ Lost_by_driving:
  Rank    User ID Username                  Lost_by_driving      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                           8,922      whatalife
-   2.      26082 1993s14                             6,544      2 $low 2 curiou$
+   1.      45913 whatalife                           8,926      whatalife
+   2.      26082 1993s14                             6,553      2 $low 2 curiou$
    3.      23754 thijsssiiee                         3,371      [CSR] Thijs
    4.      40605 emileker                            3,362      silentkiller [COP]
    5.      47471 young.drift                         2,096      V M . Roham
@@ -1230,8 +1230,8 @@ Total_Wealth:
  Rank    User ID Username                     Total_Wealth      Nickname
 ------------------------------------------------------------------------
 
-   1.      45913 whatalife                         132,020      whatalife
-   2.      20869 what else                          46,024      ☆ JΛΚΞ ☆
+   1.      45913 whatalife                         133,645      whatalife
+   2.      20869 what else                          47,915      ☆ JΛΚΞ ☆
    3.       7370 FFD_Sivy121                       -39,852      Mr.Pixel
    4.      49230 nora vale                          27,775      Nora ﾞ
    5.      11969 Garypants                         -25,960      [TC] ›Carl‹
@@ -1241,7 +1241,7 @@ Total_Wealth:
    9.      47376 evari albo                         18,155      E S T ALBO
   10.      33282 mrwallace888                       17,290      Jack Foxtrot
   11.      48552 gatisq                             16,982      Gatis
-  12.      26082 1993s14                            15,868      2 $low 2 curiou$
+  12.      26082 1993s14                            16,061      2 $low 2 curiou$
   13.       3996 Datscher                          -14,600      Datscher
   14.      30508 octosquad                          13,466      88. TheUltraRealDave
   15.      41772 scammergamerlol                   -13,409      (FINLAND) Burrito
@@ -1250,7 +1250,7 @@ Total_Wealth:
   18.      22120 theponczek                        -11,642      [ RDSR ] Pon
   19.      50885 anxky                              10,788      anxky
   20.      50877 ilddave                            -9,959      matk$
-  21.      24338 vercetti87                          9,881      G R E T A
+  21.      24338 vercetti87                          9,931      G R E T A
   22.      47374 ross2750                            9,640      Not Ross
   23.      36227 ali awad                            9,126      Mr_Racer024
   24.      38752 blackice46                         -8,800      Taha Kaya
@@ -1336,24 +1336,24 @@ Hard_crashes:
 ------------------------------------------------------------------------
 
    1.      22120 theponczek                              6      [ RDSR ] Pon
-   2.      50831 silentnuts                              5      dirsenbazens
-   3.      19599 verke                                   4      Red/ pee
-   4.      45913 whatalife                               4      whatalife
+   2.      45913 whatalife                               5      whatalife
+   3.      50831 silentnuts                              5      dirsenbazens
+   4.      19599 verke                                   4      Red/ pee
    5.      48552 gatisq                                  4      Gatis
    6.      43781 boeing73                                4      kalabuka
    7.      45326 marte5025                               4      Marte
    8.      22001 lavezzi                                 3      Panda
    9.      49054 dunj                                    3      DunJ
   10.      23754 thijsssiiee                             2      [CSR] Thijs
-  11.      28713 robiii47                                2      [ ﾏ ]Robert
-  12.      29421 patryk1967                              2      [TC] ›Wilczek‹
-  13.       7370 FFD_Sivy121                             2      Mr.Pixel
-  14.      42979 firatrobert_07                          2      R obert G 29
-  15.      13401 GT4_PL                                  1      G T 4 tube
-  16.      20869 what else                               1      ☆ JΛΚΞ ☆
-  17.      22170 soras99                                 1      Erox^
-  18.      24338 vercetti87                              1      G R E T A
-  19.      26082 1993s14                                 1      2 $low 2 curiou$
+  11.      26082 1993s14                                 2      2 $low 2 curiou$
+  12.      28713 robiii47                                2      [ ﾏ ]Robert
+  13.      29421 patryk1967                              2      [TC] ›Wilczek‹
+  14.       7370 FFD_Sivy121                             2      Mr.Pixel
+  15.      42979 firatrobert_07                          2      R obert G 29
+  16.      13401 GT4_PL                                  1      G T 4 tube
+  17.      20869 what else                               1      ☆ JΛΚΞ ☆
+  18.      22170 soras99                                 1      Erox^
+  19.      24338 vercetti87                              1      G R E T A
   20.      29924 icoha44                                 1      CCI4
   21.      35710 inno                                    1      racerformerlyknowninno
   22.      36497 giulio niewiadomski                     1      [PM] Vitas 993
@@ -1391,15 +1391,15 @@ Civil_stats_Playing_time_civilian:
  Rank    User ID Username                  Civil_stats_Playing_time_civilian      Nickname
 ------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                             120      whatalife
+   1.      45913 whatalife                             122      whatalife
    2.      50857 lilojoga                               55      Lilokx
    3.      50889 enverst                                50      Cinar
    4.      49004 stefan1926                            -49      stefan1926
    5.      50775 turansgame                             42      Turanoğlu
    6.      50853 solosfr                                35      solofr
-   7.      20869 what else                              33      ☆ JΛΚΞ ☆
-   8.      48552 gatisq                                 26      Gatis
-   9.      26082 1993s14                                25      2 $low 2 curiou$
+   7.      20869 what else                              34      ☆ JΛΚΞ ☆
+   8.      26082 1993s14                                26      2 $low 2 curiou$
+   9.      48552 gatisq                                 26      Gatis
   10.      50878 ozias                                  25      adadadadada
   11.       7370 FFD_Sivy121                            22      Mr.Pixel
   12.      49054 dunj                                   21      DunJ
@@ -1437,13 +1437,13 @@ Civil_stats_Playing_time_civilian:
   44.      47374 ross2750                               10      Not Ross
   45.      47864 huseyn31                                9      [COP] Ｄｅｄｅ
   46.      33282 mrwallace888                            9      Jack Foxtrot
-  47.      28134 ke608                                   8      YIKES!
-  48.        489 =Wolf=[NO]                              8      ™ DB JoeValla
-  49.      49924 db-cam                                  8      ™ DB Cam
-  50.      37723 i7ss                                    8      Redﾉ I7s
-  51.      22001 lavezzi                                 7      Panda
-  52.      23754 thijsssiiee                             7      [CSR] Thijs
-  53.      24338 vercetti87                              7      G R E T A
+  47.      24338 vercetti87                              8      G R E T A
+  48.      28134 ke608                                   8      YIKES!
+  49.        489 =Wolf=[NO]                              8      ™ DB JoeValla
+  50.      49924 db-cam                                  8      ™ DB Cam
+  51.      37723 i7ss                                    8      Redﾉ I7s
+  52.      22001 lavezzi                                 7      Panda
+  53.      23754 thijsssiiee                             7      [CSR] Thijs
   54.      48030 ardayasarguler                          7      Arda
   55.      50805 pbouf                                   7      Pbouf
   56.      50836 caio_macedo                             7      Caio
@@ -1496,15 +1496,15 @@ Civil_stats_Driven_distance:
  Rank    User ID Username                  Civil_stats_Driven_distance      Nickname
 ------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           6,243      whatalife
-   2.      20869 what else                           1,686      ☆ JΛΚΞ ☆
+   1.      45913 whatalife                           6,321      whatalife
+   2.      20869 what else                           1,750      ☆ JΛΚΞ ☆
    3.      48552 gatisq                              1,463      Gatis
    4.      49054 dunj                                1,151      DunJ
    5.      50831 silentnuts                          1,078      dirsenbazens
    6.      50870 mustafahosoglu                       -973      mustiwia
    7.       7370 FFD_Sivy121                           944      Mr.Pixel
    8.      50909 bossutron200                          944      balls mc cum
-   9.      26082 1993s14                               928      2 $low 2 curiou$
+   9.      26082 1993s14                               937      2 $low 2 curiou$
   10.      50855 iceu                                 -915      Iceu
   11.      35710 inno                                  912      racerformerlyknowninno
   12.      49230 nora vale                             799      Nora ﾞ
@@ -1522,7 +1522,7 @@ Civil_stats_Driven_distance:
   24.      47305 griffin20069                          368      [ LCS- ﾏ] Girfen
   25.      30508 octosquad                             360      88. TheUltraRealDave
   26.       1283 THE WIZARD DK                         351      THE WIZARD DK ﾂ
-  27.      24338 vercetti87                            333      G R E T A
+  27.      24338 vercetti87                            336      G R E T A
   28.      50885 anxky                                 330      anxky
   29.      22001 lavezzi                               328      Panda
   30.      50859 senersvv                             -315      senersvv
@@ -1601,13 +1601,13 @@ Civil_stats_Driven_distance_on_bikes:
  Rank    User ID Username                  Civil_stats_Driven_distance_on_bikes      Nickname
 ---------------------------------------------------------------------------------------------
 
-   1.      45913 whatalife                           6,225      whatalife
+   1.      45913 whatalife                           6,302      whatalife
    2.      50870 mustafahosoglu                       -994      mustiwia
    3.      27347 patlock                               949      Dwerg
    4.      50909 bossutron200                          944      balls mc cum
    5.      50855 iceu                                 -915      Iceu
    6.      49829 gabri__                              -831      gabri
-   7.      26082 1993s14                               698      2 $low 2 curiou$
+   7.      26082 1993s14                               707      2 $low 2 curiou$
    8.      50830 deiviscompetition                     685      DeivisCompetition
    9.      50844 parseller-yanyan                      462      DR4XE
   10.      50840 zexaryy                               440      Zexaryy
@@ -2373,9 +2373,9 @@ Rent_Paid:
 ------------------------------------------------------------------------
 
    1.      47980 thamboo                             1,759      [P R ] Thamboo
-   2.      20869 what else                           1,550      ☆ JΛΚΞ ☆
+   2.      20869 what else                           1,591      ☆ JΛΚΞ ☆
    3.      44045 sirac.54_                           1,417      [CSR] Muffin
-   4.      26082 1993s14                             1,280      2 $low 2 curiou$
+   4.      26082 1993s14                             1,294      2 $low 2 curiou$
    5.      23754 thijsssiiee                         1,174      [CSR] Thijs
    6.      47864 huseyn31                            1,090      [COP] Ｄｅｄｅ
    7.      22001 lavezzi                               911      Panda
