@@ -1,6 +1,6 @@
 September 2026
 Data from (dated files): TC_Database_09_2026.db
-Generated on: 2026-09-16 18:25:03
+Generated on: 2026-09-16 20:31:03
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -27,8 +27,8 @@ Driven_distance:
    5.      49054 dunj                                1,151      DunJ
                      Civil_stats_Driven_distance:                           1,151
                      Robber_stats_Driven_distance_being_chased:                29
-   6.      50831 silentnuts                          1,078      dirsenbazens
-                     Civil_stats_Driven_distance:                           1,078
+   6.      50831 silentnuts                          1,120      dirsenbazens
+                     Civil_stats_Driven_distance:                           1,120
                      Robber_stats_Driven_distance_being_chased:                11
    7.      50870 mustafahosoglu                       -973      mustiwia
                      Civil_stats_Driven_distance:                            -973
@@ -398,10 +398,14 @@ Total_Money:
    9.      11969 Garypants                         -25,958      [TC] ›Carl‹
                      Earned_by_driving:                             87
                      Lost_by_driving:                               45
-  10.      25589 jorks                              20,037      Dorks ™
+  10.      50831 silentnuts                         20,660      dirsenbazens
+                     Earned_by_driving:                         23,125
+                     Lost_by_driving:                            1,581
+                     Rent_Paid:                                    106
+  11.      25589 jorks                              20,037      Dorks ™
                      Earned_by_driving:                            352
                      Lost_by_driving:                                4
-  11.      47376 evari albo                         18,799      E S T ALBO
+  12.      47376 evari albo                         18,799      E S T ALBO
                      Sent_Money:                                 1,000
                      Earned_by_driving:                         15,705
                      Lost_by_driving:                            1,197
@@ -412,7 +416,7 @@ Total_Money:
                      Rent_Paid:                                    628
                      Comp_Received:                                110
                      Comp_Sent:                                    330
-  12.      26082 1993s14                            18,345      2 $low 2 curiou$
+  13.      26082 1993s14                            18,345      2 $low 2 curiou$
                      Rece_Money:                                   187
                      Earned_by_driving:                         19,657
                      Lost_by_driving:                            6,717
@@ -424,10 +428,6 @@ Total_Money:
                      Rent_Earned:                                   61
                      Rent_Paid:                                  1,317
                      Comp_Sent:                                    430
-  13.      50831 silentnuts                         17,007      dirsenbazens
-                     Earned_by_driving:                         21,936
-                     Lost_by_driving:                            1,577
-                     Rent_Paid:                                    106
   14.      44750 denas01                            15,574      Denas
   15.      49599 maskelilaz                         15,404      ＥＦＥＢＥ Ｙ
                      Earned_by_driving:                          1,135
@@ -897,8 +897,8 @@ Time:
   16.      50470 luizfilipe123                          21      X_X Luizfilipe X_X
   17.      50888 loooo                                  20      sle pka
   18.      47376 evari albo                             19      E S T ALBO
-  19.      50875 parlak1                                19      PARLAK
-  20.      50831 silentnuts                             18      dirsenbazens
+  19.      50831 silentnuts                             19      dirsenbazens
+  20.      50875 parlak1                                19      PARLAK
   21.      50428 leandro jr                             18      leo
   22.      50911 erick lima ferreira                    18      Neyyin
   23.      47980 thamboo                                17      [P R ] Thamboo
@@ -1022,7 +1022,7 @@ Earned_by_driving:
    1.      45913 whatalife                         131,829      whatalife
    2.      20869 what else                          48,878      ☆ JΛΚΞ ☆
    3.      48552 gatisq                             23,934      Gatis
-   4.      50831 silentnuts                         21,936      dirsenbazens
+   4.      50831 silentnuts                         23,125      dirsenbazens
    5.      49230 nora vale                          21,030      Nora ﾞ
    6.      26082 1993s14                            19,657      2 $low 2 curiou$
    7.      49054 dunj                               19,581      DunJ
@@ -1087,11 +1087,11 @@ Earned_by_driving:
   66.      50877 ilddave                             1,459      matk$
   67.      28713 robiii47                            1,439      [ ﾏ ]Robert
   68.       8597 NikoPDR                             1,401      S1DUS* uNite
-  69.      15179 pirou                               1,338      amogus
-  70.      28819 tilo0803                            1,313      Gamat Maker
-  71.        868 Some0ne                             1,295      ‹S1›
-  72.      39317 dark314                             1,293      1.3 Multijet²
-  73.      46934 tbence99                            1,212      [ H U N ] Bence
+  69.      46934 tbence99                            1,376      [ H U N ] Bence
+  70.      15179 pirou                               1,338      amogus
+  71.      28819 tilo0803                            1,313      Gamat Maker
+  72.        868 Some0ne                             1,295      ‹S1›
+  73.      39317 dark314                             1,293      1.3 Multijet²
   74.      50873 joaovitorsachuk                     1,178      eojoaozz
   75.      49599 maskelilaz                          1,135      ＥＦＥＢＥ Ｙ
   76.      27347 patlock                             1,114      Dwerg
@@ -1135,7 +1135,7 @@ Lost_by_driving:
    9.      49054 dunj                                1,711      DunJ
   10.      35710 inno                                1,705      racerformerlyknowninno
   11.      48552 gatisq                              1,605      Gatis
-  12.      50831 silentnuts                          1,577      dirsenbazens
+  12.      50831 silentnuts                          1,581      dirsenbazens
   13.      29189 cetink.                             1,569      [ RDSR ] Fearr
   14.      45326 marte5025                           1,487      Marte
   15.      46783 knq-501                             1,251      R
@@ -1235,7 +1235,7 @@ Total_Wealth:
    4.      49230 nora vale                          30,496      Nora ﾞ
    5.      11969 Garypants                         -25,960      [TC] ›Carl‹
    6.      49054 dunj                               23,687      DunJ
-   7.      50831 silentnuts                         21,684      dirsenbazens
+   7.      50831 silentnuts                         21,884      dirsenbazens
    8.      44045 sirac.54_                         -21,617      [CSR] Muffin
    9.      47376 evari albo                         18,155      E S T ALBO
   10.      48552 gatisq                             17,975      Gatis
@@ -1408,8 +1408,8 @@ Civil_stats_Playing_time_civilian:
   16.      50470 luizfilipe123                          21      X_X Luizfilipe X_X
   17.      50888 loooo                                  20      sle pka
   18.      47376 evari albo                             19      E S T ALBO
-  19.      50875 parlak1                                19      PARLAK
-  20.      50831 silentnuts                             18      dirsenbazens
+  19.      50831 silentnuts                             19      dirsenbazens
+  20.      50875 parlak1                                19      PARLAK
   21.      50428 leandro jr                             18      leo
   22.      50911 erick lima ferreira                    18      Neyyin
   23.      47980 thamboo                                17      [P R ] Thamboo
@@ -1499,7 +1499,7 @@ Civil_stats_Driven_distance:
    2.      20869 what else                           1,916      ☆ JΛΚΞ ☆
    3.      48552 gatisq                              1,584      Gatis
    4.      49054 dunj                                1,151      DunJ
-   5.      50831 silentnuts                          1,078      dirsenbazens
+   5.      50831 silentnuts                          1,120      dirsenbazens
    6.      26082 1993s14                               993      2 $low 2 curiou$
    7.      50870 mustafahosoglu                       -973      mustiwia
    8.       7370 FFD_Sivy121                           944      Mr.Pixel
@@ -2042,8 +2042,8 @@ Roleplaying_SOS_calls_made:
 -----------------------------------------------------------------------------------
 
    1.      50828 ibrahiwm1337                            9      @hepdekors
-   2.      48552 gatisq                                  6      Gatis
-   3.      46934 tbence99                                5      [ H U N ] Bence
+   2.      46934 tbence99                                7      [ H U N ] Bence
+   3.      48552 gatisq                                  6      Gatis
    4.      23754 thijsssiiee                             3      [CSR] Thijs
    5.      44045 sirac.54_                               3      [CSR] Muffin
    6.       7370 FFD_Sivy121                             3      Mr.Pixel
@@ -2456,11 +2456,11 @@ Rent_Paid:
   60.      26465 xx3bod506                             129      ＤＲ ＬＦＳ
   61.      21180 carmaniac94                           128      Jebus
   62.      50717 leclerclover                          114      Charles Leclerc <3
-  63.      50889 enverst                               107      Cinar
-  64.      50831 silentnuts                            106      dirsenbazens
-  65.       3751 san                                   105      i T A - S a N
-  66.      35468 norvegas1997                          105      ~ schnitzel ~
-  67.      46934 tbence99                              103      [ H U N ] Bence
+  63.      46934 tbence99                              109      [ H U N ] Bence
+  64.      50889 enverst                               107      Cinar
+  65.      50831 silentnuts                            106      dirsenbazens
+  66.       3751 san                                   105      i T A - S a N
+  67.      35468 norvegas1997                          105      ~ schnitzel ~
   68.      50812 costinha090108                        102      Costa
   69.      42816 fastranker1                           100      [CSR] Yunos
   70.      50870 mustafahosoglu                        100      mustiwia
