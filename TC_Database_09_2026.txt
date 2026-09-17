@@ -1,6 +1,6 @@
 September 2026
 Data from (dated files): TC_Database_09_2026.db
-Generated on: 2026-09-17 13:19:03
+Generated on: 2026-09-17 15:25:04
 
 Driven_distance:
  Rank    User ID Username                  Driven_distance      Nickname
@@ -24,8 +24,8 @@ Driven_distance:
                      Cop_stats_Driven_distance_as_cop:                        179
                      Cop_stats_Driven_distance_chasing:                       100
                      Mail_Courier_Driven_distance:                             18
-   5.      50831 silentnuts                          1,181      dirsenbazens
-                     Civil_stats_Driven_distance:                           1,181
+   5.      50831 silentnuts                          1,185      dirsenbazens
+                     Civil_stats_Driven_distance:                           1,185
                      Robber_stats_Driven_distance_being_chased:                11
    6.      49054 dunj                                1,151      DunJ
                      Civil_stats_Driven_distance:                           1,151
@@ -51,8 +51,8 @@ Driven_distance:
   12.      35710 inno                                  912      racerformerlyknowninno
                      Civil_stats_Driven_distance:                             912
                      Delivery_Driven_distance_loaded:                          14
-  13.      47376 evari albo                            726      E S T ALBO
-                     Civil_stats_Driven_distance:                             726
+  13.      47376 evari albo                            776      E S T ALBO
+                     Civil_stats_Driven_distance:                             776
                      Civil_stats_Driven_distance_on_bikes:                     90
                      Delivery_Driven_distance_loaded:                          16
                      Mail_Courier_Driven_distance:                             60
@@ -401,14 +401,25 @@ Total_Money:
   10.      11969 Garypants                         -25,958      [TC] ›Carl‹
                      Earned_by_driving:                             87
                      Lost_by_driving:                               45
-  11.      50831 silentnuts                         21,638      dirsenbazens
-                     Earned_by_driving:                         24,148
+  11.      50831 silentnuts                         21,799      dirsenbazens
+                     Earned_by_driving:                         24,309
                      Lost_by_driving:                            1,696
                      Rent_Paid:                                    106
   12.      25589 jorks                              20,037      Dorks ™
                      Earned_by_driving:                            352
                      Lost_by_driving:                                4
-  13.      26082 1993s14                            19,025      2 $low 2 curiou$
+  13.      47376 evari albo                         19,911      E S T ALBO
+                     Sent_Money:                                 1,000
+                     Earned_by_driving:                         16,855
+                     Lost_by_driving:                            1,202
+                     Roleplaying_Received_donations:             1,230
+                     Delivery_Earned_money:                        356
+                     Mail_Courier_Earned_money:                    976
+                     Mail_Courier_Paid_penalties:                   35
+                     Rent_Paid:                                    680
+                     Comp_Received:                                110
+                     Comp_Sent:                                    330
+  14.      26082 1993s14                            19,025      2 $low 2 curiou$
                      Rece_Money:                                   187
                      Earned_by_driving:                         20,651
                      Lost_by_driving:                            7,149
@@ -420,17 +431,6 @@ Total_Money:
                      Rent_Earned:                                   88
                      Rent_Paid:                                  1,317
                      Comp_Sent:                                    430
-  14.      47376 evari albo                         18,799      E S T ALBO
-                     Sent_Money:                                 1,000
-                     Earned_by_driving:                         15,705
-                     Lost_by_driving:                            1,197
-                     Roleplaying_Received_donations:             1,230
-                     Delivery_Earned_money:                        356
-                     Mail_Courier_Earned_money:                    976
-                     Mail_Courier_Paid_penalties:                   35
-                     Rent_Paid:                                    628
-                     Comp_Received:                                110
-                     Comp_Sent:                                    330
   15.      44750 denas01                            15,574      Denas
   16.      49599 maskelilaz                         15,404      ＥＦＥＢＥ Ｙ
                      Earned_by_driving:                          1,135
@@ -1024,12 +1024,12 @@ Earned_by_driving:
 
    1.      45913 whatalife                         136,682      whatalife
    2.      20869 what else                          48,950      ☆ JΛΚΞ ☆
-   3.      50831 silentnuts                         24,148      dirsenbazens
+   3.      50831 silentnuts                         24,309      dirsenbazens
    4.      48552 gatisq                             23,934      Gatis
    5.      49230 nora vale                          21,030      Nora ﾞ
    6.      26082 1993s14                            20,651      2 $low 2 curiou$
    7.      49054 dunj                               19,581      DunJ
-   8.      47376 evari albo                         15,705      E S T ALBO
+   8.      47376 evari albo                         16,855      E S T ALBO
    9.      30508 octosquad                          15,294      88. TheUltraRealDave
   10.       7370 FFD_Sivy121                        14,607      Mr.Pixel
   11.      33282 mrwallace888                       13,916      Jack Foxtrot
@@ -1143,7 +1143,7 @@ Lost_by_driving:
   14.      45326 marte5025                           1,487      Marte
   15.      46783 knq-501                             1,251      R
   16.      48786 s1a2s1h3k4o5bg                      1,239      Sashko
-  17.      47376 evari albo                          1,197      E S T ALBO
+  17.      47376 evari albo                          1,202      E S T ALBO
   18.      16185 turb0keule                          1,174      Keule
   19.        868 Some0ne                             1,115      ‹S1›
   20.      50872 andreymaia                          1,105      MAIA
@@ -1238,9 +1238,9 @@ Total_Wealth:
    4.      49230 nora vale                          30,496      Nora ﾞ
    5.      11969 Garypants                         -25,960      [TC] ›Carl‹
    6.      49054 dunj                               23,687      DunJ
-   7.      50831 silentnuts                         22,757      dirsenbazens
+   7.      50831 silentnuts                         22,842      dirsenbazens
    8.      44045 sirac.54_                         -21,617      [CSR] Muffin
-   9.      47376 evari albo                         18,155      E S T ALBO
+   9.      47376 evari albo                         19,199      E S T ALBO
   10.      48552 gatisq                             17,975      Gatis
   11.      26082 1993s14                            17,604      2 $low 2 curiou$
   12.      33282 mrwallace888                       17,290      Jack Foxtrot
@@ -1409,9 +1409,9 @@ Civil_stats_Playing_time_civilian:
   14.      50870 mustafahosoglu                         21      mustiwia
   15.      50909 bossutron200                           21      balls mc cum
   16.      50470 luizfilipe123                          21      X_X Luizfilipe X_X
-  17.      50831 silentnuts                             20      dirsenbazens
-  18.      50888 loooo                                  20      sle pka
-  19.      47376 evari albo                             19      E S T ALBO
+  17.      47376 evari albo                             20      E S T ALBO
+  18.      50831 silentnuts                             20      dirsenbazens
+  19.      50888 loooo                                  20      sle pka
   20.      50875 parlak1                                19      PARLAK
   21.      50428 leandro jr                             18      leo
   22.      50911 erick lima ferreira                    18      Neyyin
@@ -1501,7 +1501,7 @@ Civil_stats_Driven_distance:
    1.      45913 whatalife                           7,293      whatalife
    2.      20869 what else                           1,917      ☆ JΛΚΞ ☆
    3.      48552 gatisq                              1,584      Gatis
-   4.      50831 silentnuts                          1,181      dirsenbazens
+   4.      50831 silentnuts                          1,185      dirsenbazens
    5.      49054 dunj                                1,151      DunJ
    6.      26082 1993s14                             1,043      2 $low 2 curiou$
    7.      50870 mustafahosoglu                       -973      mustiwia
@@ -1510,7 +1510,7 @@ Civil_stats_Driven_distance:
   10.      49230 nora vale                             919      Nora ﾞ
   11.      50855 iceu                                 -915      Iceu
   12.      35710 inno                                  912      racerformerlyknowninno
-  13.      47376 evari albo                            726      E S T ALBO
+  13.      47376 evari albo                            776      E S T ALBO
   14.      47980 thamboo                               687      [P R ] Thamboo
   15.        489 =Wolf=[NO]                            520      ™ DB JoeValla
   16.      33282 mrwallace888                          501      Jack Foxtrot
@@ -2416,10 +2416,10 @@ Rent_Paid:
   12.      43781 boeing73                              770      kalabuka
   13.       3688 greg_slideways                        747      · Warlab ™ Tilly
   14.      16012 tnt25                                 684      ;
-  15.        868 Some0ne                               670      ‹S1›
-  16.      37723 i7ss                                  654      Redﾉ I7s
-  17.      30855 ez_krieg3r                            638      » derMiepz «
-  18.      47376 evari albo                            628      E S T ALBO
+  15.      47376 evari albo                            680      E S T ALBO
+  16.        868 Some0ne                               670      ‹S1›
+  17.      37723 i7ss                                  654      Redﾉ I7s
+  18.      30855 ez_krieg3r                            638      » derMiepz «
   19.      40242 astraxan                              618      3i-ATLAS
   20.      16185 turb0keule                            584      Keule
   21.      40605 emileker                              534      silentkiller [COP]
